@@ -1,0 +1,22 @@
+route:          192.150.255.0/24
+descr:          NET-192-150-255-0-1
+origin:         AS393865
+remarks:        This route object represents authoritative data retrieved from ARIN's WHOIS service.
+remarks:        The original data can be found here: https://whois.arin.net/rest/net/NET-192-150-255-0-1
+remarks:        This route object is the result of an automated WHOIS-to-IRR conversion process.
+mnt-by:         MAINT-JOB
+changed:        job@ntt.net 20150622
+source:         ARIN-WHOIS
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          192.150.255.0/24
+descr:          SITUS-NET-01
+origin:         AS393865
+remarks:        Proxy for SITUS Group by PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20160727
+source:         NTTCOM
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+

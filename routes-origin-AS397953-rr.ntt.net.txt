@@ -1,0 +1,32 @@
+route:          198.8.72.0/24
+descr:          NET-198-8-72-0-1
+origin:         AS397953
+remarks:        This route object represents authoritative data retrieved from ARIN's WHOIS service.
+remarks:        The original data can be found here: https://whois.arin.net/rest/net/NET-198-8-72-0-1
+remarks:        This route object is the result of an automated WHOIS-to-IRR conversion process.
+mnt-by:         MAINT-JOB
+changed:        job@ntt.net 20200826
+source:         ARIN-WHOIS
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          198.8.72.0/24
+descr:          AlvinISD-Net-01
+origin:         AS397953
+remarks:        Proxy for Alvin ISD by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20200121
+source:         NTTCOM
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          198.8.72.0/24
+origin:         AS397953
+descr:          ALVINISD-01
+remarks:        Proxy object for ALVIN ISD at SETG
+notify:         noc@setg.net
+mnt-by:         MAINT-AS4557
+changed:        smace@setg.net 20200110  #18:56:35Z
+source:         RADB
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+

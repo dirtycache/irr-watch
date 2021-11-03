@@ -1,0 +1,22 @@
+route:          170.39.204.0/24
+descr:          HCDE-TEXAS-Net-01
+origin:         AS397371
+remarks:        Proxy object for HCDE by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20201207
+source:         NTTCOM
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route6:         2602:80b:3000::/40
+descr:          NET6-2602-80B-3000-1
+origin:         AS397371
+remarks:        This route object represents authoritative data retrieved from ARIN's WHOIS service.
+remarks:        The original data can be found here: https://whois.arin.net/rest/net/NET6-2602-80B-3000-1
+remarks:        This route object is the result of an automated WHOIS-to-IRR conversion process.
+mnt-by:         MAINT-JOB
+changed:        job@ntt.net 20210625
+source:         ARIN-WHOIS
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+

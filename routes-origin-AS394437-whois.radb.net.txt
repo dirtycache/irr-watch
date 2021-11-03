@@ -1,0 +1,639 @@
+Warning: RIPE flags used with a traditional server.
+route:          8.20.63.0/24
+descr:          PLW-Level3-Net1
+origin:         AS394437
+remarks:        Phonoscope Light Wave prefix provided by Level3
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20151123
+source:         NTTCOM
+
+route:          64.190.156.0/22
+descr:          LIGHTWAVE-NET-08
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170831
+source:         NTTCOM
+
+route:          66.60.232.0/24
+descr:          PLW-NET-34
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          66.60.234.0/24
+descr:          PLW-NET-19
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          66.60.241.0/24
+descr:          PLW-NET-20
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          66.60.244.0/24
+descr:          PLW-NET-35
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          66.60.245.0/24
+descr:          PLW-NET-02
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          66.60.247.0/24
+descr:          PLW-NET-36
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          66.249.97.0/24
+descr:          PLW-NET-37
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          66.249.98.0/24
+descr:          PLW-NET-38
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          66.249.99.0/24
+descr:          PLW-NET-03
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          66.249.100.0/24
+descr:          PLW-NET-21
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          66.249.101.0/24
+descr:          PLW-NET-04
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          66.249.108.0/24
+descr:          PLW-NET-22
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          66.249.111.0/24
+descr:          PLW-NET-23
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          66.249.112.0/24
+descr:          PLW-NET-23
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+
+route:          66.249.113.0/24
+descr:          PLW-NET-24
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          66.249.119.0/24
+descr:          PLW-Net-66-249-119
+origin:         AS394437
+remarks:        PS Lightwave Network 66-249-119
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210308
+source:         NTTCOM
+
+route:          66.249.124.0/24
+descr:          PLW-NET-45
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170512
+source:         NTTCOM
+
+route:          72.20.128.0/24
+descr:          NET-72-20-128-0
+origin:         AS394437
+remarks:        PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20190405
+source:         NTTCOM
+
+route:          72.20.129.0/24
+descr:          PLW-NET-25
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          72.20.132.0/24
+descr:          PLW-NET-44
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170512
+source:         NTTCOM
+
+route:          72.20.133.0/24
+descr:          PLW-NET-26
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          72.20.134.0/24
+descr:          PLW-NET-48
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170512
+source:         NTTCOM
+
+route:          72.20.135.0/24
+descr:          PLW-NET-27
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          72.20.137.0/24
+descr:          PLW-NET-137
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+
+route:          72.20.138.0/24
+descr:          PLW-NET-28
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          72.20.140.0/24
+descr:          PLW-NET-29
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          72.20.144.0/24
+descr:          PLW-NET-144
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+
+route:          72.20.146.0/24
+descr:          PLW-NET-46
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170512
+source:         NTTCOM
+
+route:          72.20.147.0/24
+descr:          PLW-NET-147
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+
+route:          72.20.151.0/24
+descr:          PLW-NET-06
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+
+route:          72.20.152.0/24
+descr:          PLW-NET-06
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          72.20.153.0/24
+descr:          PLW-NET-07
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          72.20.155.0/24
+descr:          PLW-NET-08
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          72.20.156.0/24
+descr:          PLW-NET-09
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          72.20.157.0/24
+descr:          PLW-NET-30
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          72.20.158.0/24
+descr:          PLW-NET-158
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+
+route:          72.20.159.0/24
+descr:          PLW-NET-39
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          72.46.96.0/22
+descr:          LIGHTWAVE-NET-03
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170530
+source:         NTTCOM
+
+route:          74.124.32.0/24
+descr:          PLW-NET-11
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          74.124.33.0/24
+descr:          PLW-NET-31
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          74.124.44.0/24
+descr:          PLW-NET-31
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+
+route:          74.124.48.0/24
+descr:          PLW-NET-31
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+
+route:          74.124.51.0/24
+descr:          PLW-NET-47
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170512
+source:         NTTCOM
+
+route:          74.124.58.0/24
+descr:          PLW-NET-32
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          74.124.59.0/24
+descr:          PLW-NET-14
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          141.193.92.0/22
+descr:          LIGHTWAVE-NET-10
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20180403
+source:         NTTCOM
+
+route:          144.177.70.0/23
+descr:          Aker-Frontica-Net-70
+origin:         AS394437
+remarks:        Proxy object by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20151210
+source:         NTTCOM
+
+route:          144.177.76.0/23
+descr:          Aker-Frontica-Net-76
+origin:         AS394437
+remarks:        Proxy object by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20151210
+source:         NTTCOM
+
+route:          144.177.78.0/23
+descr:          Aker-Frontica-Net-78
+origin:         AS394437
+remarks:        Proxy object by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20151210
+source:         NTTCOM
+
+route:          162.249.46.0/23
+descr:          Carriage-Services-Net-1
+origin:         AS394437
+remarks:        Proxy for Carriage Services by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20190313
+source:         NTTCOM
+
+route:          165.254.152.0/23
+descr:          PLW-NTT-Net1
+origin:         AS394437
+remarks:        PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20190405
+source:         NTTCOM
+
+route:          192.23.124.0/24
+descr:          SLB-NET-02
+origin:         AS394437
+remarks:        Phonoscope LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20160624
+source:         NTTCOM
+
+route:          192.23.125.0/24
+descr:          SLB-NET-01
+origin:         AS394437
+remarks:        Phonoscope LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20160624
+source:         NTTCOM
+
+route:          192.23.126.0/24
+descr:          SLB-NET-03
+origin:         AS394437
+remarks:        Phonoscope LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20160624
+source:         NTTCOM
+
+route:          192.139.215.0/24
+descr:          REPSOL-NET-1
+origin:         AS394437
+remarks:        Proxy for Repsol by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20190108
+source:         NTTCOM
+
+route:          198.35.16.0/22
+descr:          LIGHTWAVE-NET-07
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170831
+source:         NTTCOM
+
+route:          198.170.190.0/24
+descr:          Stafford-ISD
+origin:         AS394437
+remarks:        Proxy object by PS LightWave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20160224
+source:         NTTCOM
+
+route:          205.196.178.0/24
+descr:          PLW-NET-40
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          205.196.181.0/24
+descr:          PLW-NET-33
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          205.196.182.0/24
+descr:          PLW-NET-15
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          205.196.183.0/24
+descr:          PLW-NET-41
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          205.196.186.0/24
+descr:          PLW-NET-42
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          205.196.187.0/24
+descr:          PLW-NET-43
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          205.196.189.0/24
+descr:          PLW-NET-16
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          205.196.190.0/24
+descr:          PLW-NET-17
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          205.196.191.0/24
+descr:          PLW-NET-17
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+
+route:          206.198.212.0/22
+descr:          LIGHTWAVE-NET-09
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20180202
+source:         NTTCOM
+
+route:          209.173.252.0/22
+descr:          LIGHTWAVE-NET-01
+origin:         AS394437
+remarks:        Phonoscope LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20160407
+source:         NTTCOM
+
+route6:         2606:a780::/32
+descr:          PS-Lightwave-IPv6-1
+origin:         AS394437
+remarks:        Phonoscope Light Wave IPv6
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20151201
+source:         NTTCOM

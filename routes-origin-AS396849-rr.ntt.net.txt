@@ -1,0 +1,30 @@
+route:          50.237.51.0/24
+descr:          KPRC-NET-1
+origin:         AS396849
+remarks:        Proxy for KPRC by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20180718
+source:         NTTCOM
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          50.237.51.0/24
+descr:          RPKI ROA for 50.237.51.0/24 / AS396849
+remarks:        This AS396849 route object represents routing data retrieved
+                from the RPKI. This route object is the result of an automated
+                RPKI-to-IRR conversion process performed by IRRd.
+max-length:     24
+origin:         AS396849
+source:         RPKI  # Trust Anchor: arin
+
+route:          206.198.212.0/24
+descr:          KPRC-NET-2
+origin:         AS396849
+remarks:        Proxy for KPRC by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20180718
+source:         NTTCOM
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+

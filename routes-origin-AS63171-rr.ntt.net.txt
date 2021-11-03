@@ -1,0 +1,34 @@
+route:          192.55.241.0/24
+descr:          NET-192-55-241-0-1
+origin:         AS63171
+remarks:        Proxy object for Pasadena ISD by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2021-06-23T14:34:06Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          192.55.241.0/24
+descr:          NET-192-55-241-0-1
+origin:         AS63171
+remarks:        This route object represents authoritative data retrieved from ARIN's WHOIS service.
+remarks:        The original data can be found here: https://whois.arin.net/rest/net/NET-192-55-241-0-1
+remarks:        This route object is the result of an automated WHOIS-to-IRR conversion process.
+mnt-by:         MAINT-JOB
+changed:        job@ntt.net 20140929
+source:         ARIN-WHOIS
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route6:         2620:ad:4000::/48
+descr:          NET6-2620-AD-4000-1
+origin:         AS63171
+remarks:        This route object represents authoritative data retrieved from ARIN's WHOIS service.
+remarks:        The original data can be found here: https://whois.arin.net/rest/net/NET6-2620-AD-4000-1
+remarks:        This route object is the result of an automated WHOIS-to-IRR conversion process.
+mnt-by:         MAINT-JOB
+changed:        job@ntt.net 20150219
+source:         ARIN-WHOIS
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+

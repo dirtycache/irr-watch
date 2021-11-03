@@ -1,0 +1,9 @@
+Warning: RIPE flags used with a traditional server.
+route:          170.39.204.0/24
+descr:          HCDE-TEXAS-Net-01
+origin:         AS397371
+remarks:        Proxy object for HCDE by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20201207
+source:         NTTCOM

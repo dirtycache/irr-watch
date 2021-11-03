@@ -1,0 +1,18 @@
+Warning: RIPE flags used with a traditional server.
+route:          198.147.198.0/24
+descr:          KLEIN-NET-01
+origin:         AS54772
+remarks:        Proxy for KISD by PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20160725
+source:         NTTCOM
+
+route:          198.170.192.0/24
+descr:          KleinISD-Net-1
+origin:         AS54772
+remarks:        Klein ISD Network
+notify:         data@phonoscope.com
+mnt-by:         MAINT-PHONOSCOPE
+changed:        swulf@phonoscope.com 20120807
+source:         NTTCOM

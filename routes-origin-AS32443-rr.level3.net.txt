@@ -1,0 +1,47 @@
+
+% RIPEdb(3.0.0a13) with ISI RPSL extensions
+
+route:         64.203.137.0/24
+descr:         TelCove BGP Customer netblock
+tech-c:        TC1-LEVEL3
+origin:        AS32443
+member-of:     rs-19094-CUSTOMER
+remarks:       Sperry Marine
+mnt-by:        MAINT-AS19094
+changed:       gavin.seymour@telcove.com 20041012
+source:        LEVEL3
+
+route:         24.75.111.0/24
+descr:         TelCove BGP Customer netblock
+tech-c:        TC1-LEVEL3
+origin:        AS32443
+member-of:     rs-19094-CUSTOMER
+remarks:       Sperry Marine
+mnt-by:        MAINT-AS19094
+changed:       gavin.seymour@telcove.com 20041012
+source:        LEVEL3
+
+route:         192.139.215.0/24
+descr:         REPSOL-NET-1
+origin:        AS32443
+remarks:       Proxy for Repsol by PS Lightwave
+notify:        netops@pslightwave.com
+mnt-by:        MAINT-PSLIGHTWAVE
+changed:       swulf@pslightwave.com 20190312
+source:        NTTCOM
+
+route:         24.75.111.0/24
+descr:         Proxy-registered route object for SPERRY MARINE INC.
+origin:        AS32443
+mnt-by:        MAINT-AS7795
+changed:       twatkins@ntelos.net 20091201  #03:34:57Z
+source:        RADB
+
+route:         64.203.137.0/24
+descr:         Proxy-registered route object for SPERRY MARINE INC.
+origin:        AS32443
+mnt-by:        MAINT-AS7795
+changed:       twatkins@ntelos.net 20091201  #03:38:31Z
+source:        RADB
+
+

@@ -1,0 +1,11 @@
+route:          161.38.249.0/24
+descr:          COM-Net-01
+origin:         AS398147
+remarks:        Proxy for College of the Mainland by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20191204
+source:         NTTCOM
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+

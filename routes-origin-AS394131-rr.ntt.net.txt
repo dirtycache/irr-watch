@@ -1,0 +1,11 @@
+route:          172.99.12.0/22
+descr:          SOFTWAY-NET-1
+origin:         AS394131
+remarks:        Proxy for Softway Solution by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20190430
+source:         NTTCOM
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+

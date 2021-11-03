@@ -1,0 +1,17 @@
+Warning: RIPE flags used with a traditional server.
+route:      192.77.187.0/24
+descr:      CyrusOne
+origin:     AS63455
+notify:     hostmaster@cyrusone.com
+mnt-by:     MAINT-AS62
+changed:    hostmaster@cyrusone.com 20150324
+source:     RADB
+
+route:          192.77.187.0/24
+descr:          CJES-NET-ARIN-1
+origin:         AS63455
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20171201
+source:         NTTCOM

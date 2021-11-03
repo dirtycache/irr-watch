@@ -1,0 +1,64 @@
+route:          44.76.16.0/24
+descr:          SixPackets - AMPRnet
+origin:         AS397677
+notify:         ipadmin@sixpackets.com
+mnt-by:         MAINT-SIXPACKETS
+changed:        adam.korab@sixpackets.com 20201009 # 19:45:12Z
+source:         NTTCOM
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          44.78.16.0/24
+origin:         AS397677
+descr:          NET-44-78-16-0-1
+notify:         ipadmin@sixpackets.com
+mnt-by:         MAINT-SIXPACKETS
+changed:        adam.korab@sixpackets.com 20201111 # 17:46:52Z
+source:         NTTCOM
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          165.254.62.0/24
+descr:          SixPackets
+origin:         AS397677
+notify:         ipadmin@sixpackets.com
+mnt-by:         MAINT-SIXPACKETS
+changed:        adam.korab@sixpackets.com 20201026 # 01:57:46Z
+source:         NTTCOM
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          165.254.62.0/24
+descr:          RPKI ROA for 165.254.62.0/24 / AS397677
+remarks:        This AS397677 route object represents routing data retrieved
+                from the RPKI. This route object is the result of an automated
+                RPKI-to-IRR conversion process performed by IRRd.
+max-length:     24
+origin:         AS397677
+source:         RPKI  # Trust Anchor: arin
+
+route6:         2001:418:1401:22::/64
+descr:          SixPackets
+origin:         AS397677
+notify:         ipadmin@sixpackets.com
+mnt-by:         MAINT-SIXPACKETS
+changed:        adam.korab@sixpackets.com 20201009 # 19:45:12Z
+source:         NTTCOM
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route6:         2602:800:1005::/48
+descr:          NET6-2602-800-1005-1 (SixPackets)
+origin:         AS397677
+notify:         ipadmin@sixpackets.com
+mnt-by:         MAINT-SIXPACKETS
+changed:        adam.korab@sixpackets.com 20201102 # 16:47:51Z
+source:         NTTCOM
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route6:         2602:800:1005::/48
+descr:          RPKI ROA for 2602:800:1005::/48 / AS397677
+remarks:        This AS397677 route object represents routing data retrieved
+                from the RPKI. This route object is the result of an automated
+                RPKI-to-IRR conversion process performed by IRRd.
+max-length:     48
+origin:         AS397677
+source:         RPKI  # Trust Anchor: arin
+
+

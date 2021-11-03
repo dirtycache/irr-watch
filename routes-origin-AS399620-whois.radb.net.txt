@@ -1,0 +1,20 @@
+Warning: RIPE flags used with a traditional server.
+route:      209.209.89.0/24
+descr:      Comcast Cable Communications, Inc.
+            1800 Bishops Gate Blvd
+            Mt Laurel, NJ 08054
+origin:     AS399620
+remarks:    Proxy add for EDIA customer New_Can
+mnt-by:     MAINT-AS7922
+changed:    rodney_finley@cable.comcast.net 20210714
+source:     RADB
+
+route:          209.209.89.0/24
+descr:          NCISD-IPBLOCK-1
+origin:         AS399620
+remarks:        Proxy object for New Caney ISD by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2021-06-23T14:09:16Z

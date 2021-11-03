@@ -1,0 +1,30 @@
+route:          198.147.198.0/24
+descr:          KLEIN-NET-01
+origin:         AS54772
+remarks:        Proxy for KISD by PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20160725
+source:         NTTCOM
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          198.170.192.0/24
+descr:          KleinISD-Net-1
+origin:         AS54772
+remarks:        Klein ISD Network
+notify:         data@phonoscope.com
+mnt-by:         MAINT-PHONOSCOPE
+changed:        swulf@phonoscope.com 20120807
+source:         NTTCOM
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          198.170.192.0/24
+descr:          RPKI ROA for 198.170.192.0/24 / AS54772
+remarks:        This AS54772 route object represents routing data retrieved
+                from the RPKI. This route object is the result of an automated
+                RPKI-to-IRR conversion process performed by IRRd.
+max-length:     24
+origin:         AS54772
+source:         RPKI  # Trust Anchor: arin
+
+
