@@ -11,5 +11,6 @@ while read IRR; do
 	done <<< $MAINTAINER
 done <<< $IRRDB
 
-$GIT commit -am "IRR changes"
+$GIT add .
+$GIT commit -m "IRR changes"
 $GIT push

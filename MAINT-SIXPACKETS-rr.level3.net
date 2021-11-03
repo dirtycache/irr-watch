@@ -1,0 +1,98 @@
+
+% RIPEdb(3.0.0a13) with ISI RPSL extensions
+
+route:         44.76.16.0/24
+descr:         SixPackets - AMPRnet
+origin:        AS397677
+notify:        ipadmin@sixpackets.com
+mnt-by:        MAINT-SIXPACKETS
+changed:       adam.korab@sixpackets.com 20201009 # 19:45:12Z
+source:        NTTCOM
+
+route:         44.78.16.0/24
+descr:         NET-44-78-16-0-1
+origin:        AS397677
+notify:        ipadmin@sixpackets.com
+mnt-by:        MAINT-SIXPACKETS
+changed:       adam.korab@sixpackets.com 20201111 # 17:46:52Z
+source:        NTTCOM
+
+route:         165.254.62.0/24
+descr:         SixPackets
+origin:        AS397677
+notify:        ipadmin@sixpackets.com
+mnt-by:        MAINT-SIXPACKETS
+changed:       adam.korab@sixpackets.com 20201026 # 01:57:46Z
+source:        NTTCOM
+
+route6:        2001:418:1401:22::/64
+descr:         SixPackets
+origin:        AS397677
+notify:        ipadmin@sixpackets.com
+mnt-by:        MAINT-SIXPACKETS
+changed:       adam.korab@sixpackets.com 20201009 # 19:45:12Z
+source:        NTTCOM
+
+route6:        2602:800:1005::/48
+descr:         NET6-2602-800-1005-1 (SixPackets)
+origin:        AS397677
+notify:        ipadmin@sixpackets.com
+mnt-by:        MAINT-SIXPACKETS
+changed:       adam.korab@sixpackets.com 20201102 # 16:47:51Z
+source:        NTTCOM
+
+aut-num:       AS397677
+as-name:       ASN-SIXPACKETS
+descr:         SixPackets
+admin-c:       IPADM835-ARIN
+tech-c:        IPADM835-ARIN
+import:        from AS16970 accept ANY AND NOT {0.0.0.0/0}
+import:        from AS11042 accept ANY AND NOT {0.0.0.0/0}
+import:        from AS2914  accept ANY AND NOT {0.0.0.0/0}
+import:        from AS20473 accept ANY AND NOT {0.0.0.0/0}
+import:        from AS40139 accept ANY AND NOT {0.0.0.0/0}
+export:        to AS11042 announce AS397677:AS-SIXPACKETS-ALL
+export:        to AS2914  announce AS397677:AS-SIXPACKETS-ALL
+export:        to AS ANY announce AS397677:AS-SIXPACKETS
+notify:        ipadmin@sixpackets.com
+mnt-by:        MAINT-SIXPACKETS
+changed:       adam.korab@sixpackets.com 20201008 # 20:28:46Z
+source:        NTTCOM
+
+mntner:        MAINT-SIXPACKETS
+descr:         SixPackets maintainer AS397677
+admin-c:       IPADM835-ARIN
+tech-c:        IPADM835-ARIN
+upd-to:        ipadmin@sixpackets.com
+mnt-nfy:       ipadmin@sixpackets.com
+auth:          CRYPT-PW DummyValue  # Filtered for security
+auth:          PGPKEY-A58A41C6
+auth:          PGPKEY-54AF4ACF
+notify:        ipadmin@sixpackets.com
+mnt-by:        MAINT-SIXPACKETS
+changed:       adam.korab@sixpackets.com 20201015 # 21:54:08Z
+source:        NTTCOM
+
+as-set:        AS16970:AS-MIDNET-ALL-v6
+descr:         MIDnet IPv6 originate + transit
+members:       AS16970:AS-MIDNET-v6,AS16970:AS-MIDNET-TRANSIT-v6
+remarks:       Level3 members: NTTCOM::AS16970:AS-MIDNET-v6
+remarks:       Level3 members: NTTCOM::AS16970:AS-MIDNET-TRANSIT-v6
+admin-c:       IPADM835-ARIN
+tech-c:        IPADM835-ARIN
+notify:        ipadmin@sixpackets.com
+mnt-by:        MAINT-SIXPACKETS
+changed:       adam.korab@sixpackets.com 20201009 # 17:12:32Z
+source:        NTTCOM
+
+as-set:        AS397677:AS-SIXPACKETS
+descr:         SixPackets originate
+members:       AS397677
+admin-c:       IPADM835-ARIN
+tech-c:        IPADM835-ARIN
+notify:        ipadmin@sixpackets.com
+mnt-by:        MAINT-SIXPACKETS
+changed:       adam.korab@sixpackets.com 20201016 # 22:19:56Z
+source:        NTTCOM
+
+
