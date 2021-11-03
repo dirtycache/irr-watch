@@ -1,0 +1,270 @@
+Warning: RIPE flags used with a traditional server.
+route:      192.245.253.0/24
+descr:      PNAP-SEF thresholdcomminc_routes
+origin:     AS7752
+mnt-by:     INAP-MAINT-RADB
+changed:    rsaddler@internap.com 20190617
+source:     RADB
+
+route:      192.214.98.0/23
+descr:      PNAP-SEF CASE00197051
+origin:     AS7752
+mnt-by:     INAP-MAINT-RADB
+changed:    amalik@inap.com 20200923
+source:     RADB
+
+route:         192.41.222.0/24
+descr:         THRESHOLD-COMM
+origin:        AS7752
+mnt-by:        CWIE-MNT
+changed:       isaacm@phoenixnap.com 20130715
+source:        LEVEL3
+
+route:         199.191.62.0/24
+descr:         THRESHOLD-COMM
+origin:        AS7752
+mnt-by:        CWIE-MNT
+changed:       isaacm@phoenixnap.com 20130715
+source:        LEVEL3
+
+route:         209.189.192.0/19
+descr:         THRESHOLD-COMM
+origin:        AS7752
+mnt-by:        CWIE-MNT
+changed:       isaacm@phoenixnap.com 20130715
+source:        LEVEL3
+
+route:		209.189.192.0/19
+member-of:	rs-threshinc-threshold
+descr:		THRESHOLD COMMUNICATIONS,INC.
+descr:		16541 Redmond Way
+descr:		#245C
+descr:		Redmond, WA 98052
+descr:		US
+origin:		AS7752
+notify:		tim@osburn.com
+mnt-by:		MNT-THRES
+changed:	tim@osburn.com 20140103
+source:		ARIN
+
+route:          192.41.222.0/24
+descr:          THRESHOLD COMMUNICATIONS,INC.
+descr:          16541 Redmond Way
+descr:        #245C
+descr:          Redmond, WA 98052
+descr:          US
+origin:         AS7752
+notify:         tim@osburn.com
+mnt-by:         MNT-THRES
+changed:        tim@osburn.com 20100310
+source:         ARIN
+
+route:          64.125.100.0/24
+descr:          THRESHOLD COMMUNICATIONS,INC.
+descr:          16541 Redmond Way
+descr:        #245C
+descr:          Redmond, WA 98052
+descr:          US
+origin:         AS7752
+notify:         tim@osburn.com
+mnt-by:         MNT-THRES
+changed:        tim@osburn.com 20100310
+source:         ARIN
+
+route:          207.170.216.0/24
+descr:          THRESHOLD COMMUNICATIONS,INC.
+descr:          16541 Redmond Way
+descr:        #245C
+descr:          Redmond, WA 98052
+descr:          US
+origin:         AS7752
+notify:         tim@osburn.com
+mnt-by:         MNT-THRES
+changed:        tim@osburn.com 20100310
+source:         ARIN
+
+route:          209.66.65.0/24
+descr:          THRESHOLD COMMUNICATIONS,INC.
+descr:          16541 Redmond Way
+descr:        #245C
+descr:          Redmond, WA 98052
+descr:          US
+origin:         AS7752
+notify:         tim@osburn.com
+mnt-by:         MNT-THRES
+changed:        tim@osburn.com 20100310
+source:         ARIN
+
+route:          199.191.62.0/24
+descr:          THRESHOLD COMMUNICATIONS,INC.
+descr:          16541 Redmond Way
+descr:        #245C
+descr:          Redmond, WA 98052
+descr:          US
+origin:         AS7752
+notify:         tim@osburn.com
+mnt-by:         MNT-THRES
+changed:        tim@osburn.com 20130603
+source:         ARIN
+
+route:          67.206.178.0/23
+descr:          THRESHOLD COMMUNICATIONS,INC.
+origin:         AS7752
+notify:         noc@thresholdcommunications.com
+mnt-by:         MNT-THRES
+changed:        noc@thresholdcommunications.com 20190904
+source:         ARIN
+
+route:          204.87.226.0/24
+descr:          Jessie Oberreuter (NET-OCEAN-NET-1)
+                921 14th Ave. #5
+                Seattle, WA 98122
+                US
+origin:         AS7752
+mnt-by:         MNT-THRES
+changed:        tim@osburn.com 20100311
+source:         ARIN-NONAUTH
+
+route:          199.26.170.0/24
+descr:          Spudboy Services
+descr:          1075 Bellevue Way N.E.
+descr:          Suite 494
+descr:          Bellevue, WA 98004
+descr:          US
+origin:         AS7752
+notify:         tim@osburn.com
+mnt-by:         MNT-THRES
+changed:        tim@osburn.com 20100310
+source:         ARIN-NONAUTH
+
+route:          149.60.0.0/16
+descr:          Rocket Research Company (NET-PRIMEXTECH)
+                P.O. Box 97009
+                Redmond, WA 98052
+                US
+origin:         AS7752
+mnt-by:         MNT-THRES
+changed:        tim@osburn.com 20100311
+source:         ARIN-NONAUTH
+
+route:          204.27.179.0/24
+descr:          Bosland and Friends
+descr:          14034 129th Ave NE
+descr:          Kirkland, WA 98034
+descr:          US
+origin:         AS7752
+notify:         tim@osburn.com
+mnt-by:         MNT-THRES
+changed:        tim@osburn.com 20100310
+source:         ARIN-NONAUTH
+
+route:          192.104.59.0/24
+descr:          Nesser & Nesser Consulting
+descr:          16029 84th Ave NE
+descr:          Kenmore, WA 98028
+descr:          US
+origin:         AS7752
+notify:         tim@osburn.com
+mnt-by:         MNT-THRES
+changed:        tim@osburn.com 20100310
+source:         ARIN-NONAUTH
+
+route:          198.182.149.0/24
+descr:          Chuck Huffington
+descr:          8316 224th Pl SW
+descr:          Edmonds, WA 98026
+descr:          US
+origin:         AS7752
+notify:         tim@osburn.com
+mnt-by:         MNT-THRES
+changed:        tim@osburn.com 20100310
+source:         ARIN-NONAUTH
+
+route:          204.87.225.0/24
+descr:          Jesse Oberreuter
+descr:          914 E. Jefferson St.
+descr:          Seattle, WA 98122
+descr:          US
+origin:         AS7752
+notify:         tim@osburn.com
+mnt-by:         MNT-THRES
+changed:        tim@osburn.com 20100310
+source:         ARIN-NONAUTH
+
+route:          203.56.123.0/24
+descr:          Jason Stepan Lingohr
+descr:          GPO Box 4061
+descr:          Melbourne
+descr:          Victoria 3001
+descr:          AU
+origin:         AS7752
+notify:         tim@osburn.com
+mnt-by:         MNT-THRES
+changed:        tim@osburn.com 20101012
+source:         ARIN-NONAUTH
+
+route:          44.12.64.0/22
+descr:          Tim Osburn m2os
+origin:         AS7752
+member-of:      rs-threshinc-m2os
+notify:         tim@osburn.com
+mnt-by:         MNT-THRES
+changed:        tim@osburn.com 20150316
+source:         ARIN-NONAUTH
+
+route:          44.4.64.0/22
+descr:          Tim Osburn m2os
+origin:         AS7752
+member-of:      rs-threshinc-m2os
+notify:         tim@osburn.com
+mnt-by:         MNT-THRES
+changed:        tim@osburn.com 20150316
+source:         ARIN-NONAUTH
+
+route:		149.60.0.0/17
+descr:          Rocket Research Company (NET-PRIMEXTECH)
+origin:         AS7752
+notify:         tim@osburn.com
+mnt-by:         MNT-THRES
+changed:        tim@osburn.com 20160516
+source:         ARIN-NONAUTH
+
+route:          149.60.128.0/17
+descr:          Rocket Research Company (NET-PRIMEXTECH)
+origin:         AS7752
+notify:         tim@osburn.com
+mnt-by:         MNT-THRES
+changed:        tim@osburn.com 20160516
+source:         ARIN-NONAUTH
+
+route6:     2620:11f:b000::/44
+descr:      PNAP-SEF CASE00197051
+origin:     AS7752
+mnt-by:     INAP-MAINT-RADB
+changed:    amalik@inap.com 20200923
+source:     RADB
+
+route6:		2604:5000::/32
+member-of:	rs-threshinc-threshold
+descr:		THRESHOLD COMMUNICATIONS,INC.
+descr:		16541 Redmond Way
+descr:		#245C
+descr:		Redmond, WA 98052
+descr:		US
+origin:		AS7752
+notify:		tim@osburn.com
+mnt-by:		MNT-THRES
+changed:	tim@osburn.com 20140103
+source:		ARIN
+
+route6:         2620:0043::/48
+descr:          Zetec, Inc.
+descr:          8226 Bracken Place SE
+descr:          Suite 100
+descr:          Snoqualmie, WA 98065
+descr:          US
+origin:         AS7752
+notify:         tim@osburn.com
+mnt-by:         MNT-THRES
+changed:        tim@osburn.com 20110205
+source:         ARIN-NONAUTH
