@@ -1,0 +1,26 @@
+route:          69.64.112.0/24
+origin:         AS398883
+mnt-by:         MNT-DCS-316
+descr:          Duey's Computer Service, Inc.
+                3701 O St Suite B2
+                Lincoln NE 68510
+                United States
+tech-c:         DUEYA-ARIN
+admin-c:        DUEYA-ARIN
+source:         ARIN
+created:        2020-10-21T17:29:00Z
+last-modified:  2020-10-21T17:29:00Z
+
+route6:         2602:808:3000::/44
+origin:         AS398883
+mnt-by:         MNT-DCS-316
+descr:          3701 O St Suite B2
+                Lincoln NE 68510
+                United States
+tech-c:         DUEYA-ARIN
+admin-c:        DUEYA-ARIN
+source:         ARIN
+created:        2020-10-29T05:45:41Z
+last-modified:  2020-10-29T05:45:41Z
+
+
