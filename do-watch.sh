@@ -6,10 +6,18 @@ WHOIS=`which whois`
 GIT=`which git`
 TIMESTAMP=`printf '%(%Y-%m-%d.%H%M%S)T\n' -1`
 
+/usr/bin/rm -f autnum_*.txt
+
 while read IRR; do
 	while read MNT; do
 		$WHOIS -h $IRR -i mnt-by $MNT > $MNT-$IRR
 	done <<< $MAINTAINER
+done <<< $IRRDB
+
+while read IRR; do
+        while read MNT; do
+                $WHOIS -h $IRR -i mnt-by $MNT | grep aut-num | awk '{print $2}' >> autnum_$IRR.txt
+        done <<< $MAINTAINER
 done <<< $IRRDB
 
 $GIT add .
