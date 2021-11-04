@@ -1,9 +1,0 @@
-Warning: RIPE flags used with a traditional server.
-route:          192.80.60.0/24
-descr:          PearlandISD-Net-01
-origin:         AS394324
-remarks:        Proxy object by PS Lightwave
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com 20151029
-source:         NTTCOM

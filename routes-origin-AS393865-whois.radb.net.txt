@@ -1,9 +1,0 @@
-Warning: RIPE flags used with a traditional server.
-route:          192.150.255.0/24
-descr:          SITUS-NET-01
-origin:         AS393865
-remarks:        Proxy for SITUS Group by PSLIGHTWAVE
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com 20160727
-source:         NTTCOM
