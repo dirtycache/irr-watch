@@ -15,14 +15,14 @@ while read IRR; do
 	done <<< $MAINTAINER
 done <<< $IRRDB
 
-while read IRR; do
-        while read MNT; do
-                $WHOIS -h $IRR -i mnt-by $MNT | grep aut-num | awk '{print $2}' >> autnum_$IRR.txt
-		while read AUTNUM; do
-			$WHOIS -h $IRR -i origin $AUTNUM > routes-origin-$AUTNUM-$IRR.txt 
-		done <<< `cat autnum_$IRR.txt`
-        done <<< $MAINTAINER
-done <<< $IRRDB
+#while read IRR; do
+#        while read MNT; do
+#                $WHOIS -h $IRR -i mnt-by $MNT | grep aut-num | awk '{print $2}' >> autnum_$IRR.txt
+#		while read AUTNUM; do
+#			$WHOIS -h $IRR -i origin $AUTNUM > routes-origin-$AUTNUM-$IRR.txt 
+#		done <<< `cat autnum_$IRR.txt`
+#        done <<< $MAINTAINER
+#done <<< $IRRDB
 
 $GIT add .
 $GIT commit -m "IRR changes"
