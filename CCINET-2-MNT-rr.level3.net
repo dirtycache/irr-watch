@@ -18148,16 +18148,6 @@ mnt-by:        CCINET-2-MNT
 changed:       ethan.makuch@cox.com 20070507
 source:        LEVEL3
 
-route:         66.207.176.0/20
-descr:         PH CBS TRANSIT
-origin:        AS22773
-remarks:       Change Ticket #  ECM7149
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       ethan.makuch@cox.com 20070507
-source:        LEVEL3
-
 route:         70.167.102.0/24
 descr:         RI CBS TRANSIT
 origin:        AS22773
