@@ -1,12 +1,4 @@
 Warning: RIPE flags used with a traditional server.
-route:          44.76.16.0/24
-descr:          SixPackets - AMPRnet
-origin:         AS397677
-notify:         ipadmin@sixpackets.com
-mnt-by:         MAINT-SIXPACKETS
-changed:        adam.korab@sixpackets.com 20201009 # 19:45:12Z
-source:         NTTCOM
-
 route:          44.78.16.0/24
 origin:         AS397677
 descr:          NET-44-78-16-0-1
@@ -163,3 +155,12 @@ mnt-by:         MAINT-SIXPACKETS
 changed:        adam.korab@sixpackets.com 20211103 # 02:48:08Z
 source:         NTTCOM
 last-modified:  2021-11-04T02:49:13Z
+
+route:          44.76.16.0/24
+descr:          SixPackets - AMPRnet
+origin:         AS397677
+notify:         ipadmin@sixpackets.com
+mnt-by:         MAINT-SIXPACKETS
+changed:        adam.korab@sixpackets.com 20211105
+source:         NTTCOM
+last-modified:  2021-11-05T19:13:48Z
