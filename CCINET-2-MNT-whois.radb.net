@@ -106424,3 +106424,243 @@ notify:        thebackbone@cox.com
 mnt-by:        CCINET-2-MNT
 changed:       cciatl-nocengineer@cox.com 20211103
 source:        LEVEL3
+
+route:         98.181.112.0/23
+descr:         MTC3 MRKT-DATA-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001217338 - JobID:180444
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211105
+source:        LEVEL3
+
+route:         98.181.115.0/24
+descr:         BTNR MRKT-DATA-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001220492 - JobID:180446
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211105
+source:        LEVEL3
+
+route:         95.214.176.0/22
+descr:         MRFD MRKT-VOIP-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001221210 - JobID:180448
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211105
+source:        LEVEL3
+
+route:         91.186.208.0/22
+descr:         MRFD MRKT-VOIP-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001221210 - JobID:180448
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211105
+source:        LEVEL3
+
+route:         89.46.248.0/22
+descr:         MRFD MRKT-VOIP-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001221210 - JobID:180448
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211105
+source:        LEVEL3
+
+route:         86.105.104.0/22
+descr:         MRFD MRKT-VOIP-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001221210 - JobID:180448
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211105
+source:        LEVEL3
+
+route:         85.237.80.0/22
+descr:         MRFD MRKT-VOIP-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001221210 - JobID:180448
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211105
+source:        LEVEL3
+
+route:         85.237.72.0/21
+descr:         MRFD MRKT-VOIP-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001221210 - JobID:180448
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211105
+source:        LEVEL3
+
+route:         85.209.16.0/22
+descr:         MRFD MRKT-VOIP-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001221210 - JobID:180448
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211105
+source:        LEVEL3
+
+route:         85.204.148.0/22
+descr:         MRFD MRKT-VOIP-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001221210 - JobID:180448
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211105
+source:        LEVEL3
+
+route:         83.147.8.0/22
+descr:         MRFD MRKT-VOIP-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001221210 - JobID:180448
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211105
+source:        LEVEL3
+
+route:         83.147.252.0/22
+descr:         MRFD MRKT-VOIP-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001221210 - JobID:180448
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211105
+source:        LEVEL3
+
+route:         83.147.240.0/22
+descr:         MRFD MRKT-VOIP-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001221210 - JobID:180448
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211105
+source:        LEVEL3
+
+route:         77.81.124.0/22
+descr:         MRFD MRKT-VOIP-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001221210 - JobID:180448
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211105
+source:        LEVEL3
+
+route:         45.132.96.0/22
+descr:         MRFD MRKT-VOIP-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001221210 - JobID:180448
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211105
+source:        LEVEL3
+
+route:         188.227.196.0/22
+descr:         MRFD MRKT-VOIP-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001221210 - JobID:180448
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211105
+source:        LEVEL3
+
+route:         188.209.140.0/22
+descr:         MRFD MRKT-VOIP-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001221210 - JobID:180448
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211105
+source:        LEVEL3
+
+route:         185.151.236.0/22
+descr:         MRFD MRKT-VOIP-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001221210 - JobID:180448
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211105
+source:        LEVEL3
+
+route:         185.137.36.0/22
+descr:         MRFD MRKT-VOIP-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001221210 - JobID:180448
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211105
+source:        LEVEL3
+
+route:         185.115.108.0/22
+descr:         MRFD MRKT-VOIP-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001221210 - JobID:180448
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211105
+source:        LEVEL3
+
+route:         149.57.40.0/21
+descr:         MRFD MRKT-VOIP-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001221210 - JobID:180448
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211105
+source:        LEVEL3
+
+route:         141.11.248.0/22
+descr:         MRFD MRKT-VOIP-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001221210 - JobID:180448
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211105
+source:        LEVEL3
+
+route:         141.11.240.0/22
+descr:         MRFD MRKT-VOIP-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001221210 - JobID:180448
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211105
+source:        LEVEL3
+
+route:         104.251.176.0/22
+descr:         MRFD MRKT-VOIP-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001221210 - JobID:180448
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211105
+source:        LEVEL3

@@ -89,21 +89,6 @@ mnt-by:         MAINT-SIXPACKETS
 changed:        adam.korab@sixpackets.com 20201014
 source:         NTTCOM
 
-mntner:         MAINT-SIXPACKETS
-descr:          SixPackets maintainer AS397677
-admin-c:        IPADM835-ARIN
-tech-c:         IPADM835-ARIN
-upd-to:         ipadmin@sixpackets.com
-mnt-nfy:        ipadmin@sixpackets.com
-auth:           CRYPT-PW DummyValue  # Filtered for security
-auth:           PGPKEY-A58A41C6
-auth:           PGPKEY-54AF4ACF
-notify:         ipadmin@sixpackets.com
-mnt-by:         MAINT-SIXPACKETS
-changed:        adam.korab@sixpackets.com 20201015 # 21:54:08Z
-source:         NTTCOM
-last-modified:  2021-07-30T22:35:54Z
-
 key-cert:       PGPKEY-A58A41C6
 method:         PGP
 owner:          Adam Korab <adam.korab@sixpackets.com>
@@ -163,3 +148,18 @@ certif:         -----BEGIN PGP PUBLIC KEY BLOCK-----
 mnt-by:         MAINT-SIXPACKETS
 changed:        adam.korab@sixpackets.com 20201015 # 21:39:43Z
 source:         NTTCOM
+
+mntner:         MAINT-SIXPACKETS
+descr:          SixPackets maintainer AS397677
+admin-c:        IPADM835-ARIN
+tech-c:         IPADM835-ARIN
+upd-to:         ipadmin@sixpackets.com
+mnt-nfy:        ipadmin@sixpackets.com
+auth:           CRYPT-PW DummyValue  # Filtered for security
+auth:           PGPKEY-A58A41C6
+auth:           PGPKEY-54AF4ACF
+notify:         ipadmin@sixpackets.com
+mnt-by:         MAINT-SIXPACKETS
+changed:        adam.korab@sixpackets.com 20211103 # 02:48:08Z
+source:         NTTCOM
+last-modified:  2021-11-04T02:49:13Z

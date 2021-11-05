@@ -104,9 +104,9 @@ auth:           PGPKEY-A58A41C6
 auth:           PGPKEY-54AF4ACF
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-SIXPACKETS
-changed:        adam.korab@sixpackets.com 20201015 # 21:54:08Z
+changed:        adam.korab@sixpackets.com 20211103 # 02:48:08Z
 source:         NTTCOM
-last-modified:  2021-07-30T22:35:54Z
+last-modified:  2021-11-04T02:49:13Z
 
 key-cert:       PGPKEY-A58A41C6
 method:         PGP

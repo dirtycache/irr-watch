@@ -41,6 +41,22 @@ mnt-by:        MAINT-MIDNET
 changed:       adam.korab@mid.net 20201202 # 16:49:23Z
 source:        NTTCOM
 
+route:         23.169.244.0/24
+descr:         NET-23-169-244-0-1
+origin:        AS16970
+notify:        ipadmin@mid.net
+mnt-by:        MAINT-MIDNET
+changed:       adam.korab@mid.net 20211103 # 20:11:59Z
+source:        NTTCOM
+
+route:         23.169.245.0/24
+descr:         NET-23-169-245-0-1
+origin:        AS16970
+notify:        ipadmin@mid.net
+mnt-by:        MAINT-MIDNET
+changed:       adam.korab@mid.net 20211103 # 20:11:59Z
+source:        NTTCOM
+
 route:         64.40.23.0/24
 descr:         NET-64-40-23-0-1
 origin:        AS16970
@@ -83,7 +99,7 @@ auth:          PGPKEY-A58A41C6
 auth:          PGPKEY-54AF4ACF
 notify:        ipadmin@mid.net
 mnt-by:        MAINT-MIDNET
-changed:       adam.korab@mid.net 20201015 # 21:54:08Z
+changed:       adam.korab@mid.net 20211103 # 02:43:49Z
 source:        NTTCOM
 
 as-set:        AS16970:AS-MIDNET

@@ -70,7 +70,7 @@ auth:          PGPKEY-A58A41C6
 auth:          PGPKEY-54AF4ACF
 notify:        ipadmin@sixpackets.com
 mnt-by:        MAINT-SIXPACKETS
-changed:       adam.korab@sixpackets.com 20201015 # 21:54:08Z
+changed:       adam.korab@sixpackets.com 20211103 # 02:48:08Z
 source:        NTTCOM
 
 as-set:        AS16970:AS-MIDNET-ALL-v6

@@ -151,9 +151,9 @@ auth:           PGPKEY-A58A41C6
 auth:           PGPKEY-54AF4ACF
 notify:         ipadmin@mid.net
 mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20201015 # 21:54:08Z
+changed:        adam.korab@mid.net 20211103 # 02:43:49Z
 source:         NTTCOM
-last-modified:  2021-07-30T22:35:54Z
+last-modified:  2021-11-04T02:46:38Z
 
 key-cert:       PGPKEY-54AF4ACF
 method:         PGP
