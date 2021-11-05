@@ -6,7 +6,7 @@ descr:         SixPackets - AMPRnet
 origin:        AS397677
 notify:        ipadmin@sixpackets.com
 mnt-by:        MAINT-SIXPACKETS
-changed:       adam.korab@sixpackets.com 20201009 # 19:45:12Z
+changed:       adam.korab@sixpackets.com 20211105
 source:        NTTCOM
 
 route:         44.78.16.0/24
