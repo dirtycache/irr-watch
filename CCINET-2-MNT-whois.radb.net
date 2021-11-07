@@ -106415,16 +106415,6 @@ mnt-by:        CCINET-2-MNT
 changed:       cciatl-nocengineer@cox.com 20211103
 source:        LEVEL3
 
-route:         98.181.112.0/23
-descr:         MTC3 MRKT-DATA-BUSINESS
-origin:        AS22773
-remarks:       Change Ticket #ECR000001217338 - JobID:180444
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       cciatl-nocengineer@cox.com 20211105
-source:        LEVEL3
-
 route:         98.181.115.0/24
 descr:         BTNR MRKT-DATA-BUSINESS
 origin:        AS22773
@@ -106683,4 +106673,14 @@ notify:        CCIATL-NOCEngineer@cox.com
 notify:        thebackbone@cox.com
 mnt-by:        CCINET-2-MNT
 changed:       starling.jones@cox.com 20211106
+source:        LEVEL3
+
+route:         98.181.112.0/23
+descr:         TULS MRKT-DATA-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001223343 - JobID:181735
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211107
 source:        LEVEL3
