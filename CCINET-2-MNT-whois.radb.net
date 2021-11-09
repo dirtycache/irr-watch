@@ -97924,16 +97924,6 @@ mnt-by:        CCINET-2-MNT
 changed:       darius.davis@cox.com 20200826
 source:        LEVEL3
 
-route:         64.192.32.0/24
-descr:         TULS MRKT DATA-BUSINESS
-origin:        AS22773
-remarks:       ECR000000920921
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       darius.davis@cox.com 20200826
-source:        LEVEL3
-
 route:         184.183.82.0/23
 descr:         Johnson CBS ROUTE
 origin:        AS22773
@@ -106673,4 +106663,14 @@ notify:        CCIATL-NOCEngineer@cox.com
 notify:        thebackbone@cox.com
 mnt-by:        CCINET-2-MNT
 changed:       cciatl-nocengineer@cox.com 20211107
+source:        LEVEL3
+
+route:         64.192.32.0/24
+descr:         TULS MRKT DATA-BUSINESS
+origin:        AS22773
+remarks:       ECR000000920921
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       darius.davis@cox.com 20200826
 source:        LEVEL3
