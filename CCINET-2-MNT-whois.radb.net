@@ -100110,16 +100110,6 @@ mnt-by:        CCINET-2-MNT
 changed:       brian.kallinen@cox.com 20201216
 source:        LEVEL3
 
-route:         173.195.96.0/24
-descr:         TULS DATA-BUSINESS
-origin:        AS22773
-remarks:       Change Ticket # ECR000001005599
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       brian.kallinen@cox.com 20201216
-source:        LEVEL3
-
 route:         72.203.238.0/23
 descr:         MRFD DATA-BUSINESS
 origin:        AS22773
