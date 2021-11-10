@@ -106537,6 +106537,7 @@ tech-c:        NC2-LEVEL3
 upd-to:        cciatl-nocengineer@cox.com
 mnt-nfy:       cciatl-nocengineer@cox.com
 mnt-nfy:       thebackbone@cox.com
+auth:          CRYPT-PW GrGTsO3aBVlqM
 auth:          MAIL-FROM michael.zupko@level3.com
 auth:          MAIL-FROM brian.west@cox.com
 auth:          MAIL-FROM dennis.carrasquillo@cox.com
@@ -106581,10 +106582,10 @@ auth:          MAIL-FROM nocengineer@cox.com
 auth:          MAIL-FROM cciatl-nocengineer@cox.com
 auth:          MAIL-FROM carlos.bedia@cox.com
 auth:          MAIL-FROM martin.kinsman@cox.com
-auth:          MAIL-FROM john.grice@cox.com
+auth:          MAIL-FROM john.grice@cox.com=20
 notify:        cciatl-nocengineer@cox.com
 mnt-by:        CCINET-2-MNT
-changed:       dennis.carrasquillo@cox.com 20211110
+changed:       jason.bishop@cox.com 20211110
 source:        LEVEL3
 
 as-set:        AS-COX-TRANSIT
