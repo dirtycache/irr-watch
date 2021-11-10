@@ -106556,7 +106556,6 @@ auth:          MAIL-FROM hinton.majette@cox.com
 auth:          MAIL-FROM galan.williams@cox.com
 auth:          MAIL-FROM todd.mccormick@cox.com
 auth:          MAIL-FROM henry.wynter@cox.com
-auth:          MAIL-FROM rod.chau@cox.com
 auth:          MAIL-FROM tommie.burley@cox.com
 auth:          MAIL-FROM jimmy.jones@cox.com
 auth:          MAIL-FROM martin.speck@cox.com
@@ -106573,7 +106572,6 @@ auth:          MAIL-FROM michael.lapierre@cox.com
 auth:          MAIL-FROM eric.fossum@cox.com
 auth:          MAIL-FROM eric.dawson2@cox.com
 auth:          MAIL-FROM randy.ross@cox.com
-auth:          MAIL-FROM james.gudgell@cox.com
 auth:          MAIL-FROM joe.hennigan@cox.com
 auth:          MAIL-FROM lafonda.caison@cox.com
 auth:          MAIL-FROM dara.davis@cox.com
@@ -106583,9 +106581,10 @@ auth:          MAIL-FROM nocengineer@cox.com
 auth:          MAIL-FROM cciatl-nocengineer@cox.com
 auth:          MAIL-FROM carlos.bedia@cox.com
 auth:          MAIL-FROM martin.kinsman@cox.com
+auth:          MAIL-FROM john.grice@cox.com
 notify:        cciatl-nocengineer@cox.com
 mnt-by:        CCINET-2-MNT
-changed:       dennis.carrasquillo@cox.com 20210810
+changed:       dennis.carrasquillo@cox.com 20211110
 source:        LEVEL3
 
 as-set:        AS-COX-TRANSIT
