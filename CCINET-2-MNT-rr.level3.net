@@ -106538,54 +106538,11 @@ upd-to:        cciatl-nocengineer@cox.com
 mnt-nfy:       cciatl-nocengineer@cox.com
 mnt-nfy:       thebackbone@cox.com
 auth:          CRYPT-PW GrGTsO3aBVlqM
-auth:          MAIL-FROM michael.zupko@level3.com
-auth:          MAIL-FROM brian.west@cox.com
 auth:          MAIL-FROM dennis.carrasquillo@cox.com
-auth:          MAIL-FROM matthew.cook@cox.com
-auth:          MAIL-FROM brian.kallinen@cox.com
-auth:          MAIL-FROM brandon.brown3@cox.com
-auth:          MAIL-FROM haval.khidir@cox.com
-auth:          MAIL-FROM jeffrey.chiasson@cox.com
-auth:          MAIL-FROM patrick.deardeuff@cox.com
-auth:          MAIL-FROM daniel.holt@cox.com
-auth:          MAIL-FROM dwight.brunson@cox.com
-auth:          MAIL-FROM tim.norman@cox.com
-auth:          MAIL-FROM kyle.wheeler@cox.com
-auth:          MAIL-FROM scott.baird@cox.com
-auth:          MAIL-FROM joel.hart@cox.com
-auth:          MAIL-FROM hinton.majette@cox.com
-auth:          MAIL-FROM galan.williams@cox.com
-auth:          MAIL-FROM todd.mccormick@cox.com
-auth:          MAIL-FROM henry.wynter@cox.com
-auth:          MAIL-FROM tommie.burley@cox.com
-auth:          MAIL-FROM jimmy.jones@cox.com
-auth:          MAIL-FROM martin.speck@cox.com
-auth:          MAIL-FROM jeff.evinger@cox.com
-auth:          MAIL-FROM michael.washington@cox.com
-auth:          MAIL-FROM myesheia.gld@cox.com
-auth:          MAIL-FROM darius.davis@cox.com
-auth:          MAIL-FROM myesheia.gold@cox.com
-auth:          MAIL-FROM bryan.pack2@cox.com
-auth:          MAIL-FROM christopher.longhofer@cox.com
-auth:          MAIL-FROM starling.jones@cox.com
-auth:          MAIL-FROM acea.engen@cox.com
-auth:          MAIL-FROM michael.lapierre@cox.com
-auth:          MAIL-FROM eric.fossum@cox.com
-auth:          MAIL-FROM eric.dawson2@cox.com
-auth:          MAIL-FROM randy.ross@cox.com
-auth:          MAIL-FROM joe.hennigan@cox.com
-auth:          MAIL-FROM lafonda.caison@cox.com
-auth:          MAIL-FROM dara.davis@cox.com
-auth:          MAIL-FROM Churchill.nzenwa@cox.com
-auth:          MAIL-FROM scott.robinson@cox.com
-auth:          MAIL-FROM nocengineer@cox.com
-auth:          MAIL-FROM cciatl-nocengineer@cox.com
-auth:          MAIL-FROM carlos.bedia@cox.com
-auth:          MAIL-FROM martin.kinsman@cox.com
 auth:          MAIL-FROM john.grice@cox.com=20
 notify:        cciatl-nocengineer@cox.com
 mnt-by:        CCINET-2-MNT
-changed:       jason.bishop@cox.com 20211110
+changed:       jason.bishop.test@cox.com 20211110
 source:        LEVEL3
 
 as-set:        AS-COX-TRANSIT
