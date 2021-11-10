@@ -106619,3 +106619,13 @@ notify:        cciatl-nocengineer@cox.com
 mnt-by:        CCINET-2-MNT
 changed:       dennis.carrasquillo@cox.com 20211110
 source:        LEVEL3
+
+route:         216.98.168.0/22
+descr:         JHSN CB TRANSIT ROUTE
+origin:        AS22773
+remarks:       Change Ticket #ECR000001224472 - JobID:185172
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211110
+source:        LEVEL3

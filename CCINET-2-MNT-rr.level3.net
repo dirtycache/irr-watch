@@ -103854,6 +103854,16 @@ mnt-by:        CCINET-2-MNT
 changed:       darius.davis@cox.com 20200826
 source:        LEVEL3
 
+route:         216.98.168.0/22
+descr:         JHSN CB TRANSIT ROUTE
+origin:        AS22773
+remarks:       Change Ticket #ECR000001224472 - JobID:185172
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211110
+source:        LEVEL3
+
 route6:        2001:578::/30
 descr:         COX IPv6 Aggregate Space
 origin:        AS22773
