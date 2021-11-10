@@ -106615,9 +106615,7 @@ upd-to:        cciatl-nocengineer@cox.com
 mnt-nfy:       cciatl-nocengineer@cox.com
 mnt-nfy:       thebackbone@cox.com
 auth:          CRYPT-PW GrGTsO3aBVlqM
-auth:          MAIL-FROM dennis.carrasquillo@cox.com
-auth:          MAIL-FROM john.grice@cox.com=20
 notify:        cciatl-nocengineer@cox.com
 mnt-by:        CCINET-2-MNT
-changed:       jason.bishop.test@cox.com 20211110
+changed:       john.grice@cox.com 20211110
 source:        LEVEL3
