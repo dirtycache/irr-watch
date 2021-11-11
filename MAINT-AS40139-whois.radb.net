@@ -55,23 +55,6 @@ mnt-by:     MAINT-AS40139
 changed:    adam.korab@sixpackets.com 20201009  #17:29:58Z
 source:     RADB
 
-mntner:     MAINT-AS40139
-descr:      Jackson Technical LLC #JTL-11
-admin-c:    DNSAD166-ARIN
-tech-c:     DNSAD166-ARIN
-tech-c:     IPADM835-ARIN
-upd-to:     dns@jacksontechnical.com
-upd-to:     ipadmin@sixpackets.com
-mnt-nfy:    dns@jacksontechnical.com
-mnt-nfy:    ipadmin@sixpackets.com
-auth:       CRYPT-PW I.YJJrSg/S8ks
-auth:       PGPKEY-A58A41C6
-notify:     dns@jacksontechnical.com
-notify:     ipadmin@sixpackets.com
-mnt-by:     MAINT-AS40139
-changed:    adam.korab@sixpackets.com 20201022  #07:57:47Z
-source:     RADB
-
 route:      23.186.144.0/24
 descr:      Jackson Technical
 origin:     AS40139
@@ -307,4 +290,22 @@ notify:     dns@jacksontechnical.com
 notify:     ipadmin@sixpackets.com
 mnt-by:     MAINT-AS40139
 changed:    adam.korab@sixpackets.com 20211108  #20:22:29Z
+source:     RADB
+
+mntner:     MAINT-AS40139
+descr:      Jackson Technical LLC #JTL-11
+admin-c:    DNSAD166-ARIN
+tech-c:     DNSAD166-ARIN
+tech-c:     IPADM835-ARIN
+upd-to:     dns@jacksontechnical.com
+upd-to:     ipadmin@sixpackets.com
+mnt-nfy:    dns@jacksontechnical.com
+mnt-nfy:    ipadmin@sixpackets.com
+auth:       CRYPT-PW HIDDENCRYPTPW
+auth:       PGPKEY-A58A41C6
+auth:       MAIL-FROM ak@mid.net
+notify:     dns@jacksontechnical.com
+notify:     ipadmin@sixpackets.com
+mnt-by:     MAINT-AS40139
+changed:    adam.korab@sixpackets.com 20201111  #01:11:24Z
 source:     RADB
