@@ -209,18 +209,6 @@ mnt-by:     MAINT-AS7806
 changed:    noc-radb@binary.net 20210428  #14:23:09Z
 source:     RADB
 
-aut-num:    AS11610
-as-name:    IN-11610
-descr:      IRR-Internet-Nebraska-Corporation
-import:     from AS-ANY   accept ANY
-export:     to AS-ANY   announce AS11610
-admin-c:    NOC Network Operations Center
-tech-c:     NOC Network Operations Center
-notify:     noc-radb@binary.net
-mnt-by:     MAINT-AS7806
-changed:    noc-radb@binary.net 20210428  #15:20:32Z
-source:     RADB
-
 route:      199.184.119.0/24
 origin:     AS11610
 descr:      Internet Nebraska Corporation
@@ -254,30 +242,6 @@ origin:     AS11610
 descr:      Internet Nebraska Corporation
 mnt-by:     MAINT-AS7806
 changed:    noc-radb@binary.net 20210428  #15:25:35Z
-source:     RADB
-
-aut-num:    AS394870
-as-name:    AL-394870
-descr:      IRR-Assurity-Group-Inc
-import:     from AS-ANY   accept ANY
-export:     to AS-ANY   announce AS394870
-admin-c:    NOC Network Operations Center
-tech-c:     NOC Network Operations Center
-notify:     noc-radb@binary.net
-mnt-by:     MAINT-AS7806
-changed:    noc-radb@binary.net 20210428  #15:31:18Z
-source:     RADB
-
-aut-num:    AS393614
-as-name:    MP-393614
-descr:      IRR-MacPractice-Inc
-import:     from AS-ANY   accept ANY
-export:     to AS-ANY   announce AS393614
-admin-c:    NOC Network Operations Center
-tech-c:     NOC Network Operations Center
-notify:     noc-radb@binary.net
-mnt-by:     MAINT-AS7806
-changed:    noc-radb@binary.net 20210428  #15:34:25Z
 source:     RADB
 
 route:      216.229.18.0/24
@@ -338,7 +302,7 @@ source:     RADB
 
 as-set:     AS-BINARYNET
 descr:      Binary Net's ASNs
-members:    AS7806
+members:    AS7806, AS7806:AS-TRANSIT
 members:    AS11610
 members:    AS393614
 members:    AS394870
@@ -347,5 +311,75 @@ admin-c:    NOC Network Operations Center
 tech-c:     NOC Network Operations Center
 notify:     noc-asn@binary.net
 mnt-by:     MAINT-AS7806
-changed:    noc-radb@binary.net 20211111  #15:46:02Z
+changed:    noc-radb@binary.net 20211111  #16:02:31Z
+source:     RADB
+
+as-set:     AS7806:AS-CONE
+descr:      Binary Net ASN
+members:    AS7806, AS7806:AS-TRANSIT
+admin-c:    NOC Network Operations Center
+tech-c:     NOC Network Operations Center
+notify:     noc-radb@binary.net
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20211111  #16:05:02Z
+source:     RADB
+
+as-set:     AS11610:AS-CONE
+descr:      Internet Nebraska ASN
+members:    AS11610, AS11610:AS-TRANSIT
+notify:     info@inebraska.com
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20211111  #16:07:18Z
+source:     RADB
+
+as-set:     AS393614:AS-CONE
+descr:      Mac Practice ASN
+members:    AS393614, AS393614:AS-TRANSIT
+notify:     sysadmin@macpractice.com
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20211111  #16:09:32Z
+source:     RADB
+
+as-set:     AS394870:AS-CONE
+descr:      Assurity Life ASN
+members:    AS394870, AS394870:AS-TRANSIT
+notify:     TJanousek@assurity.com
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20211111  #16:10:52Z
+source:     RADB
+
+aut-num:    AS394870
+as-name:    AL-394870
+descr:      IRR-Assurity-Group-Inc
+import:     from AS-ANY   accept ANY
+export:     to AS-ANY   announce AS394870
+admin-c:    NOC Network Operations Center
+tech-c:     NOC Network Operations Center
+notify:     TJanousek@assurity.com
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20211111  #16:15:29Z
+source:     RADB
+
+aut-num:    AS393614
+as-name:    MP-393614
+descr:      IRR-MacPractice-Inc
+import:     from AS-ANY   accept ANY
+export:     to AS-ANY   announce AS393614
+admin-c:    NOC Network Operations Center
+tech-c:     NOC Network Operations Center
+notify:     sysadmin@macpractice.com
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20211111  #16:16:04Z
+source:     RADB
+
+aut-num:    AS11610
+as-name:    IN-11610
+descr:      IRR-Internet-Nebraska-Corporation
+import:     from AS-ANY   accept ANY
+export:     to AS-ANY   announce AS11610
+admin-c:    NOC Network Operations Center
+tech-c:     NOC Network Operations Center
+notify:     info@inebraska.com
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20211111  #16:16:21Z
 source:     RADB
