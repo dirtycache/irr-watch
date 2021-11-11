@@ -324,11 +324,10 @@ mnt-nfy:        dns@jacksontechnical.com
 mnt-nfy:        ipadmin@sixpackets.com
 auth:           CRYPT-PW DummyValue  # Filtered for security
 auth:           PGPKEY-A58A41C6
-auth:           MAIL-FROM ak@mid.net
 notify:         dns@jacksontechnical.com
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20201111  #01:11:24Z
+changed:        adam.korab@sixpackets.com 20211110  #01:33:42Z
 source:         RADB
 
 
