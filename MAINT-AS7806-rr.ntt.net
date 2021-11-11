@@ -362,6 +362,20 @@ mnt-by:         MAINT-AS7806
 changed:        noc-radb@binary.net 20210428  #15:31:18Z
 source:         RADB
 
+as-set:         AS-BINARYNET
+descr:          Binary Net's ASNs
+members:        AS7806
+members:        AS11610
+members:        AS393614
+members:        AS394870
+members:        AS11982
+admin-c:        NOC Network Operations Center
+tech-c:         NOC Network Operations Center
+notify:         noc-asn@binary.net
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20211111  #15:46:02Z
+source:         RADB
+
 mntner:         MAINT-AS7806
 descr:          Binary Net, LLC
 admin-c:        NOC Network Operations Center
