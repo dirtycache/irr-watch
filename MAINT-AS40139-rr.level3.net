@@ -269,7 +269,7 @@ auth:          PGPKEY-A58A41C6
 notify:        dns@jacksontechnical.com
 notify:        ipadmin@sixpackets.com
 mnt-by:        MAINT-AS40139
-changed:       adam.korab@sixpackets.com 20201022  #07:57:47Z
+changed:       adam.korab@sixpackets.com 20211110  #01:33:42Z
 source:        RADB
 
 as-set:        AS40139:AS-JTECH
