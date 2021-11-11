@@ -13,13 +13,6 @@ mnt-by:     MAINT-AS7806
 changed:    noc-radb@binary.net 20150710  #14:33:23Z
 source:     RADB
 
-route:      216.229.26.0/23
-descr:      Binary Net, LLC
-origin:     AS7806
-mnt-by:     MAINT-AS7806
-changed:    noc-radb@binary.net 20150710  #14:33:23Z
-source:     RADB
-
 route:      216.229.4.0/24
 descr:      Binary Net, LLC
 origin:     AS7806

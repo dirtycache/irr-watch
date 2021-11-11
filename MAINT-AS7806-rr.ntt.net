@@ -238,14 +238,6 @@ changed:        noc-radb@binary.net 20210428  #14:16:57Z
 source:         RADB
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
-route:          216.229.26.0/23
-descr:          Binary Net, LLC
-origin:         AS7806
-mnt-by:         MAINT-AS7806
-changed:        noc-radb@binary.net 20150710  #14:33:23Z
-source:         RADB
-rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
-
 route:          216.229.26.0/24
 origin:         AS7806
 descr:          Binary Net, LLC
