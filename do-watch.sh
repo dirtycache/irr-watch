@@ -14,7 +14,17 @@ TIMESTAMP=`printf '%(%Y-%m-%d.%H%M%S)T\n' -1`
 
 while read IRR; do
 	while read MNT; do
-		$WHOIS -h $IRR -i mnt-by $MNT > $MNT-$IRR
+		if ["$IRR" == "rr.ntt.net"]; then
+			IRRSRC="NTTCOM"
+		elif ["$IRR" == "rr.level3.net"]; then
+			IRRSRC="LEVEL3"
+		elif ["$IRR" == "whois.radb.net"]; then
+			IRRSRC="RADB"
+		elif ["$IRR" == "rr.arin.net"]; then
+			IRRSRC="ARIN"
+		fi
+		echo "$WHOIS -h $IRR -s $IRRSRC -i mnt-by $MNT"	
+		#$WHOIS -h $IRR -i mnt-by $MNT > $MNT-$IRR
 	done <<< $MAINTAINER
 done <<< $IRRDB
 
