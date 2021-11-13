@@ -1,1 +1,317 @@
 Warning: RIPE flags used with a traditional server.
+route:      12.5.201.0/24
+descr:      JecNet
+origin:     AS395439
+mnt-by:     MAINT-AS395439
+changed:    reams@irby.com 20180625  #17:31:40Z
+source:     RADB
+
+route:      209.204.0.0/19
+descr:      JEC IPV4
+origin:     AS395439
+mnt-by:     MAINT-AS395439
+changed:    reams@irby.com 20180625  #17:46:24Z
+source:     RADB
+
+mntner:     MAINT-AS395439
+descr:      JecNet
+admin-c:    Jim Coleman
+tech-c:     Frank Diggs
+upd-to:     netadmin@jecnet.net
+mnt-nfy:    netadmin@jecnet.net
+auth:       CRYPT-PW u7aDxF.5ejs.M  #set by Merit RADb support 20200106 #20:07:55Z
+mnt-by:     MAINT-AS395439
+changed:    do-not-reply@merit.edu 20200106  #20:07:55Z
+source:     RADB
+
+route:      12.19.101.0/24
+origin:     AS395439
+descr:      ATT IP Lease /24 block
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200106  #20:23:37Z
+source:     RADB
+
+route6:     2605:7bc0::/32
+origin:     AS395439
+descr:      JEC IPv6 /32
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200106  #20:24:25Z
+source:     RADB
+
+role:       Jackson Electric NOC
+address:    100 Cooperative Way
+            Bay City, TX 77414
+phone:      9794796658
+e-mail:     netadmin@jecnet.net
+e-mail:     bherdes@myjec.coop
+tech-c:     Bryton Herdes
+nic-hdl:    BRYTO1-ARIN
+notify:     bherdes@myjec.coop
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200106  #20:31:32Z
+source:     RADB
+
+route:      209.204.48.0/20
+origin:     AS395439
+descr:      JEC Block - Available for Lease
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200111  #22:40:58Z
+source:     RADB
+
+route:      209.204.0.0/24
+origin:     AS395439
+descr:      209.204.0.0/24
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200428  #19:41:54Z
+source:     RADB
+
+route:      209.204.1.0/24
+origin:     AS395439
+descr:      209.204.1.0/24
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200428  #19:42:27Z
+source:     RADB
+
+route:      209.204.2.0/24
+origin:     AS395439
+descr:      209.204.2.0/24
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200428  #19:43:04Z
+source:     RADB
+
+route:      209.204.12.0/24
+origin:     AS395439
+descr:      209.204.12.0/24
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200428  #19:43:40Z
+source:     RADB
+
+route:      209.204.13.0/24
+origin:     AS395439
+descr:      209.204.13.0/24
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200428  #19:44:20Z
+source:     RADB
+
+route:      209.204.14.0/24
+origin:     AS395439
+descr:      209.204.14.0/24
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200428  #19:44:40Z
+source:     RADB
+
+route:      209.204.15.0/24
+origin:     AS395439
+descr:      209.204.15.0/24
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200428  #19:45:01Z
+source:     RADB
+
+route:      209.204.18.0/23
+origin:     AS395439
+descr:      209.204.18.0/23
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200428  #19:45:33Z
+source:     RADB
+
+route:      209.204.24.0/24
+origin:     AS395439
+descr:      209.204.24.0/24
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200428  #19:46:27Z
+source:     RADB
+
+route:      209.204.25.0/24
+origin:     AS395439
+descr:      209.204.25.0/24
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200428  #19:47:07Z
+source:     RADB
+
+route:      209.204.26.0/24
+origin:     AS395439
+descr:      209.204.26.0/24
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200428  #19:47:44Z
+source:     RADB
+
+route:      209.204.27.0/24
+origin:     AS395439
+descr:      209.204.27.0/24
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200428  #19:48:08Z
+source:     RADB
+
+route:      209.204.28.0/24
+origin:     AS395439
+descr:      209.204.28.0/24
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200428  #19:48:27Z
+source:     RADB
+
+route:      209.204.29.0/24
+origin:     AS395439
+descr:      209.204.29.0/24
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200428  #19:48:46Z
+source:     RADB
+
+route:      209.204.30.0/24
+origin:     AS395439
+descr:      209.204.30.0/24
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200428  #19:49:06Z
+source:     RADB
+
+route:      209.204.31.0/24
+origin:     AS395439
+descr:      209.204.31.0/24
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200428  #19:49:23Z
+source:     RADB
+
+route:      209.204.3.0/24
+origin:     AS395439
+descr:      209.204.3.0/24
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200428  #19:56:16Z
+source:     RADB
+
+route:      209.204.4.0/24
+origin:     AS395439
+descr:      209.204.4.0/24
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200428  #19:56:52Z
+source:     RADB
+
+route:      209.204.5.0/24
+origin:     AS395439
+descr:      209.204.5.0/24
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200428  #19:57:13Z
+source:     RADB
+
+route:      209.204.6.0/24
+origin:     AS395439
+descr:      209.204.6.0/24
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200428  #19:57:32Z
+source:     RADB
+
+route:      209.204.7.0/24
+origin:     AS395439
+descr:      209.204.7.0/24
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200428  #19:57:50Z
+source:     RADB
+
+route:      209.204.8.0/24
+origin:     AS395439
+descr:      209.204.8.0/24
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200428  #19:58:08Z
+source:     RADB
+
+route:      209.204.9.0/24
+origin:     AS395439
+descr:      209.204.9.0/24
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200428  #19:58:28Z
+source:     RADB
+
+route:      209.204.10.0/24
+origin:     AS395439
+descr:      209.204.10.0/24
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200428  #19:58:45Z
+source:     RADB
+
+route:      209.204.11.0/24
+origin:     AS395439
+descr:      209.204.11.0/24
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200428  #19:59:03Z
+source:     RADB
+
+as-set:     AS395439:AS-ALL
+descr:      AS-ALL
+members:    AS395439
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200625  #02:47:53Z
+source:     RADB
+
+aut-num:    AS395439
+as-name:    JECNET-1
+descr:      JecNet
+import:     from AS-ANY   accept ANY
+export:     to AS-ANY   announce AS395439:AS-ALL
+admin-c:    Jim Coleman
+tech-c:     Bryton Herdes
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20200625  #02:50:55Z
+source:     RADB
+
+route:      209.204.20.0/22
+origin:     AS395439
+descr:      ftth
+mnt-by:     MAINT-AS395439
+changed:    bherdes@myjec.coop 20210409  #15:37:54Z
+source:     RADB

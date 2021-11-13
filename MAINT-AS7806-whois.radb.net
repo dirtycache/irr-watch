@@ -1,1 +1,378 @@
 Warning: RIPE flags used with a traditional server.
+route:      216.229.31.0/24
+descr:      Binary Net, LLC
+origin:     AS7806
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20150710  #14:33:23Z
+source:     RADB
+
+route:      216.229.30.0/24
+descr:      Binary Net, LLC
+origin:     AS7806
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20150710  #14:33:23Z
+source:     RADB
+
+route:      216.229.4.0/24
+descr:      Binary Net, LLC
+origin:     AS7806
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20150710  #14:33:23Z
+source:     RADB
+
+route:      216.229.24.0/24
+descr:      Binary Net, LLC
+origin:     AS7806
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20150710  #14:33:23Z
+source:     RADB
+
+route:      216.229.0.0/19
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #14:02:18Z
+source:     RADB
+
+route:      204.27.195.0/24
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #14:02:52Z
+source:     RADB
+
+route:      216.229.0.0/24
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #14:03:13Z
+source:     RADB
+
+route:      216.229.2.0/24
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #14:04:10Z
+source:     RADB
+
+route:      216.229.19.0/24
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #14:04:58Z
+source:     RADB
+
+route:      216.229.28.0/24
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #14:06:13Z
+source:     RADB
+
+route:      216.229.1.0/24
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #14:06:53Z
+source:     RADB
+
+route:      216.229.3.0/24
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #14:07:39Z
+source:     RADB
+
+route:      216.229.5.0/24
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #14:09:44Z
+source:     RADB
+
+route:      216.229.6.0/24
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #14:10:09Z
+source:     RADB
+
+route:      216.229.7.0/24
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #14:10:31Z
+source:     RADB
+
+route:      216.229.8.0/24
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #14:10:44Z
+source:     RADB
+
+route:      216.229.9.0/24
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #14:11:25Z
+source:     RADB
+
+route:      216.229.10.0/24
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #14:11:38Z
+source:     RADB
+
+route:      216.229.11.0/24
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #14:12:12Z
+source:     RADB
+
+route:      216.229.12.0/24
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #14:12:25Z
+source:     RADB
+
+route:      216.229.13.0/24
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #14:13:18Z
+source:     RADB
+
+route:      216.229.14.0/24
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #14:13:31Z
+source:     RADB
+
+route:      216.229.16.0/24
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #14:14:09Z
+source:     RADB
+
+route:      216.229.17.0/24
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #14:14:22Z
+source:     RADB
+
+route:      216.229.20.0/24
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #14:15:05Z
+source:     RADB
+
+route:      216.229.23.0/24
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #14:15:42Z
+source:     RADB
+
+route:      216.229.25.0/24
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #14:16:57Z
+source:     RADB
+
+route6:     2605:ef00::/48
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #14:22:49Z
+source:     RADB
+
+route6:     2605:ef00:1::/48
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #14:23:09Z
+source:     RADB
+
+route:      199.184.119.0/24
+origin:     AS11610
+descr:      Internet Nebraska Corporation
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #15:21:56Z
+source:     RADB
+
+route:      204.77.218.0/24
+origin:     AS11610
+descr:      Internet Nebraska Corporation
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #15:24:06Z
+source:     RADB
+
+route:      204.77.219.0/24
+origin:     AS11610
+descr:      Internet Nebraska Corporation
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #15:24:25Z
+source:     RADB
+
+route:      204.77.220.0/24
+origin:     AS11610
+descr:      Internet Nebraska Corporation
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #15:25:10Z
+source:     RADB
+
+route:      204.77.221.0/24
+origin:     AS11610
+descr:      Internet Nebraska Corporation
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #15:25:35Z
+source:     RADB
+
+route:      216.229.18.0/24
+origin:     AS393614
+descr:      MacPractice, Inc
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #15:36:43Z
+source:     RADB
+
+route:      216.229.26.0/24
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #15:49:10Z
+source:     RADB
+
+route:      216.229.27.0/24
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #15:49:27Z
+source:     RADB
+
+route6:     2605:ef00::/32
+origin:     AS7806
+descr:      Binary Net, LLC
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #15:54:54Z
+source:     RADB
+
+mntner:     MAINT-AS7806
+descr:      Binary Net, LLC
+admin-c:    NOC Network Operations Center
+tech-c:     NOC Network Operations Center
+upd-to:     noc-radb@binary.net
+mnt-nfy:    noc-radb@binary.net
+auth:       CRYPT-PW SIfI01CPKfcqU
+notify:     noc-radb@binary.net
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20210428  #15:58:19Z
+source:     RADB
+
+aut-num:    AS7806
+as-name:    BN-7806
+descr:      IRR-Binary-Net-LLC
+import:     from AS-ANY   accept ANY
+export:     to AS-ANY   announce AS7806
+export:     to AS-ANY   announce AS11982
+export:     to AS-ANY   announce AS394870
+export:     to AS-ANY   announce AS393614
+export:     to AS-ANY   announce AS11610
+admin-c:    NOC Network Operations Center
+tech-c:     NOC Network Operations Center
+notify:     noc-radb@binary.net
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20211111  #14:54:51Z
+source:     RADB
+
+as-set:     AS-BINARYNET
+descr:      Binary Net's ASNs
+members:    AS7806, AS7806:AS-TRANSIT
+members:    AS11610
+members:    AS393614
+members:    AS394870
+members:    AS11982
+admin-c:    NOC Network Operations Center
+tech-c:     NOC Network Operations Center
+notify:     noc-asn@binary.net
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20211111  #16:02:31Z
+source:     RADB
+
+as-set:     AS7806:AS-CONE
+descr:      Binary Net ASN
+members:    AS7806, AS7806:AS-TRANSIT
+admin-c:    NOC Network Operations Center
+tech-c:     NOC Network Operations Center
+notify:     noc-radb@binary.net
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20211111  #16:05:02Z
+source:     RADB
+
+as-set:     AS11610:AS-CONE
+descr:      Internet Nebraska ASN
+members:    AS11610, AS11610:AS-TRANSIT
+notify:     info@inebraska.com
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20211111  #16:07:18Z
+source:     RADB
+
+as-set:     AS393614:AS-CONE
+descr:      Mac Practice ASN
+members:    AS393614, AS393614:AS-TRANSIT
+notify:     sysadmin@macpractice.com
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20211111  #16:09:32Z
+source:     RADB
+
+as-set:     AS394870:AS-CONE
+descr:      Assurity Life ASN
+members:    AS394870, AS394870:AS-TRANSIT
+notify:     TJanousek@assurity.com
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20211111  #16:10:52Z
+source:     RADB
+
+aut-num:    AS394870
+as-name:    AL-394870
+descr:      IRR-Assurity-Group-Inc
+import:     from AS-ANY   accept ANY
+export:     to AS-ANY   announce AS394870
+admin-c:    NOC Network Operations Center
+tech-c:     NOC Network Operations Center
+notify:     TJanousek@assurity.com
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20211111  #16:15:29Z
+source:     RADB
+
+aut-num:    AS393614
+as-name:    MP-393614
+descr:      IRR-MacPractice-Inc
+import:     from AS-ANY   accept ANY
+export:     to AS-ANY   announce AS393614
+admin-c:    NOC Network Operations Center
+tech-c:     NOC Network Operations Center
+notify:     sysadmin@macpractice.com
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20211111  #16:16:04Z
+source:     RADB
+
+aut-num:    AS11610
+as-name:    IN-11610
+descr:      IRR-Internet-Nebraska-Corporation
+import:     from AS-ANY   accept ANY
+export:     to AS-ANY   announce AS11610
+admin-c:    NOC Network Operations Center
+tech-c:     NOC Network Operations Center
+notify:     info@inebraska.com
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20211111  #16:16:21Z
+source:     RADB
