@@ -4,7 +4,7 @@ origin:         AS40139
 notify:         dns@jacksontechnical.com
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:        adam.korab@sixpackets.com 20211115
 source:         RADB
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
@@ -14,7 +14,7 @@ origin:         AS40139
 notify:         dns@jacksontechnical.com
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:        adam.korab@sixpackets.com 20211115
 source:         RADB
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
@@ -24,7 +24,7 @@ origin:         AS40139
 notify:         dns@jacksontechnical.com
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:        adam.korab@sixpackets.com 20211115
 source:         RADB
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
@@ -34,7 +34,7 @@ origin:         AS40139
 notify:         dns@jacksontechnical.com
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:        adam.korab@sixpackets.com 20211115
 source:         RADB
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
@@ -44,7 +44,7 @@ origin:         AS40139
 notify:         dns@jacksontechnical.com
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:        adam.korab@sixpackets.com 20211115
 source:         RADB
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
@@ -54,7 +54,7 @@ origin:         AS40139
 notify:         dns@jacksontechnical.com
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:        adam.korab@sixpackets.com 20211115
 source:         RADB
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
@@ -64,7 +64,7 @@ origin:         AS40139
 notify:         dns@jacksontechnical.com
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:        adam.korab@sixpackets.com 20211115
 source:         RADB
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
@@ -74,7 +74,7 @@ origin:         AS40139
 notify:         dns@jacksontechnical.com
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:        adam.korab@sixpackets.com 20211115
 source:         RADB
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
@@ -87,7 +87,7 @@ tech-c:         IPADM835-ARIN
 notify:         dns@jacksontechnical.com
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:        adam.korab@sixpackets.com 20211115
 source:         RADB
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
@@ -100,33 +100,7 @@ tech-c:         IPADM835-ARIN
 notify:         dns@jacksontechnical.com
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20211108  #20:22:29Z
-source:         RADB
-rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
-
-route:          69.44.44.0/24
-origin:         AS40139
-descr:          Jackson Technical LLC
-admin-c:        DNSAD166-ARIN
-tech-c:         DNSAD166-ARIN
-tech-c:         IPADM835-ARIN
-notify:         dns@jacksontechnical.com
-notify:         ipadmin@sixpackets.com
-mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20211108  #20:22:29Z
-source:         RADB
-rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
-
-route:          69.44.45.0/24
-origin:         AS40139
-descr:          Jackson Technical LLC
-admin-c:        DNSAD166-ARIN
-tech-c:         DNSAD166-ARIN
-tech-c:         IPADM835-ARIN
-notify:         dns@jacksontechnical.com
-notify:         ipadmin@sixpackets.com
-mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:        adam.korab@sixpackets.com 20211115
 source:         RADB
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
@@ -139,7 +113,7 @@ tech-c:         IPADM835-ARIN
 notify:         dns@jacksontechnical.com
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:        adam.korab@sixpackets.com 20211115
 source:         RADB
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
@@ -152,7 +126,7 @@ tech-c:         IPADM835-ARIN
 notify:         dns@jacksontechnical.com
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:        adam.korab@sixpackets.com 20211115
 source:         RADB
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
@@ -165,7 +139,7 @@ tech-c:         IPADM835-ARIN
 notify:         dns@jacksontechnical.com
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:        adam.korab@sixpackets.com 20211115
 source:         RADB
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
@@ -178,7 +152,7 @@ tech-c:         IPADM835-ARIN
 notify:         dns@jacksontechnical.com
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:        adam.korab@sixpackets.com 20211115
 source:         RADB
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
@@ -191,7 +165,7 @@ tech-c:         IPADM835-ARIN
 notify:         dns@jacksontechnical.com
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:        adam.korab@sixpackets.com 20211115
 source:         RADB
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
@@ -204,7 +178,7 @@ tech-c:         IPADM835-ARIN
 notify:         dns@jacksontechnical.com
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:        adam.korab@sixpackets.com 20211115
 source:         RADB
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
@@ -217,33 +191,7 @@ tech-c:         IPADM835-ARIN
 notify:         dns@jacksontechnical.com
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20211108  #20:22:29Z
-source:         RADB
-rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
-
-route:          216.85.142.0/24
-origin:         AS40139
-descr:          Jackson Technical LLC
-admin-c:        DNSAD166-ARIN
-tech-c:         DNSAD166-ARIN
-tech-c:         IPADM835-ARIN
-notify:         dns@jacksontechnical.com
-notify:         ipadmin@sixpackets.com
-mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20211108  #20:22:29Z
-source:         RADB
-rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
-
-route:          216.85.143.0/24
-origin:         AS40139
-descr:          Jackson Technical LLC
-admin-c:        DNSAD166-ARIN
-tech-c:         DNSAD166-ARIN
-tech-c:         IPADM835-ARIN
-notify:         dns@jacksontechnical.com
-notify:         ipadmin@sixpackets.com
-mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:        adam.korab@sixpackets.com 20211115
 source:         RADB
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
@@ -260,18 +208,18 @@ rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for so
 aut-num:        AS40139
 as-name:        ASN-JTECH
 descr:          Jackson Technical
-import:         from AS3356   accept ANY
-import:         from AS3549   accept ANY
-import:         from AS22773   accept ANY
-export:         to AS3356   announce AS-JTECH
-export:         to AS3549   announce AS-JTECH
-export:         to AS22773   announce AS-JTECH
+import:         from AS3356   accept ANY AND NOT {0.0.0.0/0}
+import:         from AS22773   accept ANY AND NOT {0.0.0.0/0}
+import:         from AS397677   accept AS397677:AS-SIXPACKETS
+export:         to AS3356   announce AS40139:AS-JTECH-ALL
+export:         to AS22773   announce AS40139:AS-JTECH-ALL
+export:         to AS397677   announce ANY
 admin-c:        DNSAD166-ARIN
 tech-c:         DNSAD166-ARIN
 notify:         dns@jacksontechnical.com
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20201001  #17:35:04Z
+changed:        adam.korab@sixpackets.com 20211115
 source:         RADB
 
 as-set:         AS40139:AS-JTECH
@@ -284,7 +232,7 @@ remarks:        Level3 members: RADB::AS40139
 notify:         dns@jacksontechnical.com
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20201008  #17:52:24Z
+changed:        adam.korab@sixpackets.com 20211115
 source:         RADB
 
 as-set:         AS40139:AS-JTECH-ALL
@@ -297,7 +245,7 @@ remarks:        Level3 members: RADB::AS40139:AS-JTECH
 notify:         dns@jacksontechnical.com
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20201008  #17:59:02Z
+changed:        adam.korab@sixpackets.com 20211115
 source:         RADB
 
 as-set:         AS40139:AS-JTECH-TRANSIT
@@ -310,7 +258,7 @@ remarks:        Level3 members: NTTCOM::AS397677:AS-SIXPACKETS
 notify:         dns@jacksontechnical.com
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20201009  #17:29:58Z
+changed:        adam.korab@sixpackets.com 20211115
 source:         RADB
 
 mntner:         MAINT-AS40139
@@ -327,7 +275,7 @@ auth:           PGPKEY-A58A41C6
 notify:         dns@jacksontechnical.com
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20211110  #01:33:42Z
+changed:        adam.korab@sixpackets.com 20211115
 source:         RADB
 
 
