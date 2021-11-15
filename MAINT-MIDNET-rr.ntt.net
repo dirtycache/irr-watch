@@ -1,13 +1,3 @@
-route:          23.169.240.0/22
-descr:          NET-23-169-240-0-1
-origin:         AS16970
-notify:         ipadmin@mid.net
-mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20211115
-source:         NTTCOM
-last-modified:  2021-11-15T04:25:40Z
-rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
-
 route:          23.169.240.0/24
 descr:          NET-23-169-240-0-1
 origin:         AS16970
