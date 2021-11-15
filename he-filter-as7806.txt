@@ -55756,7 +55756,6 @@ ip prefix-list NN permit 208.85.131.0/24
 ip prefix-list NN permit 208.85.132.0/24
 ip prefix-list NN permit 208.85.136.0/21
 ip prefix-list NN permit 208.85.137.0/24
-ip prefix-list NN permit 208.85.172.0/22
 ip prefix-list NN permit 208.85.188.0/22
 ip prefix-list NN permit 208.85.242.0/23
 ip prefix-list NN permit 208.86.41.0/24
