@@ -3,8 +3,9 @@ descr:          NET-23-169-240-0-1
 origin:         AS16970
 notify:         ipadmin@mid.net
 mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20201202 # 16:49:23Z
+changed:        adam.korab@mid.net 20211115
 source:         NTTCOM
+last-modified:  2021-11-15T04:25:40Z
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
 route:          23.169.240.0/24
@@ -12,8 +13,9 @@ descr:          NET-23-169-240-0-1
 origin:         AS16970
 notify:         ipadmin@mid.net
 mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20201202 # 16:49:23Z
+changed:        adam.korab@mid.net 20211115
 source:         NTTCOM
+last-modified:  2021-11-15T04:25:40Z
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
 route:          23.169.241.0/24
@@ -21,8 +23,9 @@ descr:          NET-23-169-241-0-1
 origin:         AS16970
 notify:         ipadmin@mid.net
 mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20201202 # 16:49:23Z
+changed:        adam.korab@mid.net 20211115
 source:         NTTCOM
+last-modified:  2021-11-15T04:25:40Z
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
 route:          23.169.242.0/24
@@ -30,8 +33,9 @@ descr:          NET-23-169-242-0-1
 origin:         AS16970
 notify:         ipadmin@mid.net
 mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20201202 # 16:49:23Z
+changed:        adam.korab@mid.net 20211115
 source:         NTTCOM
+last-modified:  2021-11-15T04:25:40Z
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
 route:          23.169.243.0/24
@@ -39,8 +43,9 @@ descr:          NET-23-169-243-0-1
 origin:         AS16970
 notify:         ipadmin@mid.net
 mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20201202 # 16:49:23Z
+changed:        adam.korab@mid.net 20211115
 source:         NTTCOM
+last-modified:  2021-11-15T04:25:40Z
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
 route:          23.169.244.0/24
@@ -48,9 +53,9 @@ descr:          NET-23-169-244-0-1
 origin:         AS16970
 notify:         ipadmin@mid.net
 mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20211103 # 20:11:59Z
+changed:        adam.korab@mid.net 20211115
 source:         NTTCOM
-last-modified:  2021-11-03T20:12:45Z
+last-modified:  2021-11-15T04:25:40Z
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
 route:          23.169.245.0/24
@@ -58,9 +63,9 @@ descr:          NET-23-169-245-0-1
 origin:         AS16970
 notify:         ipadmin@mid.net
 mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20211103 # 20:11:59Z
+changed:        adam.korab@mid.net 20211115
 source:         NTTCOM
-last-modified:  2021-11-03T20:12:45Z
+last-modified:  2021-11-15T04:25:40Z
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
 route:          64.40.23.0/24
@@ -68,8 +73,9 @@ descr:          NET-64-40-23-0-1
 origin:         AS16970
 notify:         ipadmin@mid.net
 mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20201023 # 19:52:01Z
+changed:        adam.korab@mid.net 20211115
 source:         NTTCOM
+last-modified:  2021-11-15T04:25:40Z
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
 route6:         2602:800:1000::/44
@@ -77,8 +83,9 @@ descr:          MIDnet
 origin:         AS16970
 notify:         ipadmin@mid.net
 mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20201015 # 22:51:50Z
+changed:        adam.korab@mid.net 20211115
 source:         NTTCOM
+last-modified:  2021-11-15T04:25:40Z
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
 aut-num:        AS16970
@@ -99,7 +106,7 @@ notify:         ipadmin@mid.net
 mnt-by:         MAINT-MIDNET
 changed:        adam.korab@mid.net 20211115
 source:         NTTCOM
-last-modified:  2021-11-15T03:55:21Z
+last-modified:  2021-11-15T04:25:40Z
 
 as-set:         AS16970:AS-MIDNET
 descr:          MIDnet originate
@@ -108,8 +115,9 @@ admin-c:        IPADM882-ARIN
 tech-c:         IPADM882-ARIN
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20201016 # 22:22:22Z
+changed:        adam.korab@mid.net 20211115
 source:         NTTCOM
+last-modified:  2021-11-15T04:25:40Z
 
 as-set:         AS16970:AS-MIDNET-ALL
 descr:          MIDnet originate + transit
@@ -123,7 +131,7 @@ notify:         ipadmin@mid.net
 mnt-by:         MAINT-MIDNET
 changed:        adam.korab@mid.net 20211115
 source:         NTTCOM
-last-modified:  2021-11-15T03:55:29Z
+last-modified:  2021-11-15T04:25:40Z
 
 as-set:         AS16970:AS-MIDNET-TRANSIT
 descr:          MIDnet transit only
@@ -137,7 +145,7 @@ notify:         ipadmin@mid.net
 mnt-by:         MAINT-MIDNET
 changed:        adam.korab@mid.net 20211115
 source:         NTTCOM
-last-modified:  2021-11-15T03:55:21Z
+last-modified:  2021-11-15T04:25:40Z
 
 person:         MIDnet IP Admin
 address:        594 Sawdust Rd #319
@@ -146,8 +154,9 @@ phone:          +1-281-846-3838
 e-mail:         ipadmin@mid.net
 nic-hdl:        IPADM882-ARIN
 mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20201022
+changed:        adam.korab@mid.net 20211115
 source:         NTTCOM
+last-modified:  2021-11-15T04:25:40Z
 
 mntner:         MAINT-MIDNET
 descr:          MIDnet maintainer AS16970
@@ -155,14 +164,13 @@ admin-c:        IPADM882-ARIN
 tech-c:         IPADM882-ARIN
 upd-to:         ipadmin@mid.net
 mnt-nfy:        ipadmin@mid.net
-auth:           CRYPT-PW DummyValue  # Filtered for security
 auth:           PGPKEY-A58A41C6
 auth:           PGPKEY-54AF4ACF
 notify:         ipadmin@mid.net
 mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20211103 # 02:43:49Z
+changed:        adam.korab@mid.net 20211115
 source:         NTTCOM
-last-modified:  2021-11-04T02:46:38Z
+last-modified:  2021-11-15T04:25:40Z
 
 key-cert:       PGPKEY-54AF4ACF
 method:         PGP
@@ -220,7 +228,8 @@ certif:         -----BEGIN PGP PUBLIC KEY BLOCK-----
 +               =jh52
 +               -----END PGP PUBLIC KEY BLOCK-----
 mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20201015 # 21:39:43Z
+changed:        adam.korab@mid.net 20211115
 source:         NTTCOM
+last-modified:  2021-11-15T04:25:40Z
 
 
