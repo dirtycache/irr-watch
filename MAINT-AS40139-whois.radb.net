@@ -259,3 +259,15 @@ notify:     ipadmin@sixpackets.com
 mnt-by:     MAINT-AS40139
 changed:    adam.korab@sixpackets.com 20211115
 source:     RADB
+
+role:       DNS Admin
+address:    611 S Elgin Ave
+address:    Tulsa, OK 74120
+phone:      +1-918-585-8324
+e-mail:     dns@jacksontechnical.com
+nic-hdl:    DNSAD166-ARIN
+notify:     dns@jacksontechnical.com
+notify:     ipadmin@sixpackets.com
+mnt-by:     MAINT-AS40139
+changed:    adam.korab@sixpackets.com 20211115
+source:     RADB
