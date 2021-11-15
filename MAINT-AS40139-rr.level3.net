@@ -7,7 +7,7 @@ origin:        AS40139
 notify:        dns@jacksontechnical.com
 notify:        ipadmin@sixpackets.com
 mnt-by:        MAINT-AS40139
-changed:       adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:       adam.korab@sixpackets.com 20211115
 source:        RADB
 
 route:         23.186.145.0/24
@@ -16,7 +16,7 @@ origin:        AS40139
 notify:        dns@jacksontechnical.com
 notify:        ipadmin@sixpackets.com
 mnt-by:        MAINT-AS40139
-changed:       adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:       adam.korab@sixpackets.com 20211115
 source:        RADB
 
 route:         23.186.146.0/24
@@ -25,7 +25,7 @@ origin:        AS40139
 notify:        dns@jacksontechnical.com
 notify:        ipadmin@sixpackets.com
 mnt-by:        MAINT-AS40139
-changed:       adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:       adam.korab@sixpackets.com 20211115
 source:        RADB
 
 route:         23.186.147.0/24
@@ -34,7 +34,7 @@ origin:        AS40139
 notify:        dns@jacksontechnical.com
 notify:        ipadmin@sixpackets.com
 mnt-by:        MAINT-AS40139
-changed:       adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:       adam.korab@sixpackets.com 20211115
 source:        RADB
 
 route:         23.186.148.0/24
@@ -43,7 +43,7 @@ origin:        AS40139
 notify:        dns@jacksontechnical.com
 notify:        ipadmin@sixpackets.com
 mnt-by:        MAINT-AS40139
-changed:       adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:       adam.korab@sixpackets.com 20211115
 source:        RADB
 
 route:         23.186.149.0/24
@@ -52,7 +52,7 @@ origin:        AS40139
 notify:        dns@jacksontechnical.com
 notify:        ipadmin@sixpackets.com
 mnt-by:        MAINT-AS40139
-changed:       adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:       adam.korab@sixpackets.com 20211115
 source:        RADB
 
 route:         23.186.150.0/24
@@ -61,7 +61,7 @@ origin:        AS40139
 notify:        dns@jacksontechnical.com
 notify:        ipadmin@sixpackets.com
 mnt-by:        MAINT-AS40139
-changed:       adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:       adam.korab@sixpackets.com 20211115
 source:        RADB
 
 route:         23.186.151.0/24
@@ -70,7 +70,7 @@ origin:        AS40139
 notify:        dns@jacksontechnical.com
 notify:        ipadmin@sixpackets.com
 mnt-by:        MAINT-AS40139
-changed:       adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:       adam.korab@sixpackets.com 20211115
 source:        RADB
 
 route:         69.44.46.0/24
@@ -82,31 +82,7 @@ origin:        AS40139
 notify:        dns@jacksontechnical.com
 notify:        ipadmin@sixpackets.com
 mnt-by:        MAINT-AS40139
-changed:       adam.korab@sixpackets.com 20211108  #20:22:29Z
-source:        RADB
-
-route:         69.44.45.0/24
-descr:         Jackson Technical LLC
-admin-c:       DNSAD166-ARIN
-tech-c:        DNSAD166-ARIN
-tech-c:        IPADM835-ARIN
-origin:        AS40139
-notify:        dns@jacksontechnical.com
-notify:        ipadmin@sixpackets.com
-mnt-by:        MAINT-AS40139
-changed:       adam.korab@sixpackets.com 20211108  #20:22:29Z
-source:        RADB
-
-route:         69.44.44.0/24
-descr:         Jackson Technical LLC
-admin-c:       DNSAD166-ARIN
-tech-c:        DNSAD166-ARIN
-tech-c:        IPADM835-ARIN
-origin:        AS40139
-notify:        dns@jacksontechnical.com
-notify:        ipadmin@sixpackets.com
-mnt-by:        MAINT-AS40139
-changed:       adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:       adam.korab@sixpackets.com 20211115
 source:        RADB
 
 route:         69.44.44.0/23
@@ -118,7 +94,7 @@ origin:        AS40139
 notify:        dns@jacksontechnical.com
 notify:        ipadmin@sixpackets.com
 mnt-by:        MAINT-AS40139
-changed:       adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:       adam.korab@sixpackets.com 20211115
 source:        RADB
 
 route:         64.192.32.0/24
@@ -130,31 +106,7 @@ origin:        AS40139
 notify:        dns@jacksontechnical.com
 notify:        ipadmin@sixpackets.com
 mnt-by:        MAINT-AS40139
-changed:       adam.korab@sixpackets.com 20211108  #20:22:29Z
-source:        RADB
-
-route:         216.85.143.0/24
-descr:         Jackson Technical LLC
-admin-c:       DNSAD166-ARIN
-tech-c:        DNSAD166-ARIN
-tech-c:        IPADM835-ARIN
-origin:        AS40139
-notify:        dns@jacksontechnical.com
-notify:        ipadmin@sixpackets.com
-mnt-by:        MAINT-AS40139
-changed:       adam.korab@sixpackets.com 20211108  #20:22:29Z
-source:        RADB
-
-route:         216.85.142.0/24
-descr:         Jackson Technical LLC
-admin-c:       DNSAD166-ARIN
-tech-c:        DNSAD166-ARIN
-tech-c:        IPADM835-ARIN
-origin:        AS40139
-notify:        dns@jacksontechnical.com
-notify:        ipadmin@sixpackets.com
-mnt-by:        MAINT-AS40139
-changed:       adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:       adam.korab@sixpackets.com 20211115
 source:        RADB
 
 route:         216.85.142.0/23
@@ -166,7 +118,7 @@ origin:        AS40139
 notify:        dns@jacksontechnical.com
 notify:        ipadmin@sixpackets.com
 mnt-by:        MAINT-AS40139
-changed:       adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:       adam.korab@sixpackets.com 20211115
 source:        RADB
 
 route:         216.85.115.0/24
@@ -178,7 +130,7 @@ origin:        AS40139
 notify:        dns@jacksontechnical.com
 notify:        ipadmin@sixpackets.com
 mnt-by:        MAINT-AS40139
-changed:       adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:       adam.korab@sixpackets.com 20211115
 source:        RADB
 
 route:         209.12.4.0/24
@@ -190,7 +142,7 @@ origin:        AS40139
 notify:        dns@jacksontechnical.com
 notify:        ipadmin@sixpackets.com
 mnt-by:        MAINT-AS40139
-changed:       adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:       adam.korab@sixpackets.com 20211115
 source:        RADB
 
 route:         209.12.255.0/24
@@ -202,7 +154,7 @@ origin:        AS40139
 notify:        dns@jacksontechnical.com
 notify:        ipadmin@sixpackets.com
 mnt-by:        MAINT-AS40139
-changed:       adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:       adam.korab@sixpackets.com 20211115
 source:        RADB
 
 route:         209.12.244.0/24
@@ -214,7 +166,7 @@ origin:        AS40139
 notify:        dns@jacksontechnical.com
 notify:        ipadmin@sixpackets.com
 mnt-by:        MAINT-AS40139
-changed:       adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:       adam.korab@sixpackets.com 20211115
 source:        RADB
 
 route:         209.12.23.0/24
@@ -226,7 +178,7 @@ origin:        AS40139
 notify:        dns@jacksontechnical.com
 notify:        ipadmin@sixpackets.com
 mnt-by:        MAINT-AS40139
-changed:       adam.korab@sixpackets.com 20211108  #20:22:29Z
+changed:       adam.korab@sixpackets.com 20211115
 source:        RADB
 
 route6:        2605:f8c0::/32
@@ -243,16 +195,16 @@ as-name:       ASN-JTECH
 descr:         Jackson Technical
 admin-c:       DNSAD166-ARIN
 tech-c:        DNSAD166-ARIN
-import:        from AS3356   accept ANY
-import:        from AS3549   accept ANY
-import:        from AS22773   accept ANY
-export:        to AS3356   announce AS-JTECH
-export:        to AS3549   announce AS-JTECH
-export:        to AS22773   announce AS-JTECH
+import:        from AS3356   accept ANY AND NOT {0.0.0.0/0}
+import:        from AS22773   accept ANY AND NOT {0.0.0.0/0}
+import:        from AS397677   accept AS397677:AS-SIXPACKETS
+export:        to AS3356   announce AS40139:AS-JTECH-ALL
+export:        to AS22773   announce AS40139:AS-JTECH-ALL
+export:        to AS397677   announce ANY
 notify:        dns@jacksontechnical.com
 notify:        ipadmin@sixpackets.com
 mnt-by:        MAINT-AS40139
-changed:       adam.korab@sixpackets.com 20201001  #17:35:04Z
+changed:       adam.korab@sixpackets.com 20211115
 source:        RADB
 
 mntner:        MAINT-AS40139
@@ -265,24 +217,22 @@ upd-to:        ipadmin@sixpackets.com
 mnt-nfy:       dns@jacksontechnical.com
 mnt-nfy:       ipadmin@sixpackets.com
 auth:          CRYPT-PW HIDDENCRYPTPW
-auth:          PGPKEY-A58A41C6
 notify:        dns@jacksontechnical.com
 notify:        ipadmin@sixpackets.com
 mnt-by:        MAINT-AS40139
-changed:       adam.korab@sixpackets.com 20211110  #01:33:42Z
+changed:       adam.korab@sixpackets.com 20211115
 source:        RADB
 
-as-set:        AS40139:AS-JTECH
-descr:         JTech origination (no transit)
-members:       AS40139
-remarks:       Level3 members: RADB::AS40139
-admin-c:       DNSAD166-ARIN
-tech-c:        DNSAD166-ARIN
-tech-c:        IPADM835-ARIN
+role:          DNS Admin
+address:       611 S Elgin Ave
+address:       Tulsa, OK 74120
+phone:         +1-918-585-8324
+e-mail:        dns@jacksontechnical.com
+nic-hdl:       DNSAD166-ARIN
 notify:        dns@jacksontechnical.com
 notify:        ipadmin@sixpackets.com
 mnt-by:        MAINT-AS40139
-changed:       adam.korab@sixpackets.com 20201008  #17:52:24Z
+changed:       adam.korab@sixpackets.com 20211115
 source:        RADB
 
 as-set:        AS40139:AS-JTECH-ALL
@@ -295,7 +245,20 @@ tech-c:        DNSAD166-ARIN
 notify:        dns@jacksontechnical.com
 notify:        ipadmin@sixpackets.com
 mnt-by:        MAINT-AS40139
-changed:       adam.korab@sixpackets.com 20201008  #17:59:02Z
+changed:       adam.korab@sixpackets.com 20211115
+source:        RADB
+
+as-set:        AS40139:AS-JTECH
+descr:         JTech origination (no transit)
+members:       AS40139
+remarks:       Level3 members: RADB::AS40139
+admin-c:       DNSAD166-ARIN
+tech-c:        DNSAD166-ARIN
+tech-c:        IPADM835-ARIN
+notify:        dns@jacksontechnical.com
+notify:        ipadmin@sixpackets.com
+mnt-by:        MAINT-AS40139
+changed:       adam.korab@sixpackets.com 20211115
 source:        RADB
 
 as-set:        AS40139:AS-JTECH-TRANSIT
@@ -308,7 +271,7 @@ tech-c:        IPADM835-ARIN
 notify:        dns@jacksontechnical.com
 notify:        ipadmin@sixpackets.com
 mnt-by:        MAINT-AS40139
-changed:       adam.korab@sixpackets.com 20201009  #17:29:58Z
+changed:       adam.korab@sixpackets.com 20211115
 source:        RADB
 
 
