@@ -8,23 +8,6 @@ mnt-by:     MAINT-AS40139
 changed:    adam.korab@sixpackets.com 20211108  #20:22:29Z
 source:     RADB
 
-mntner:     MAINT-AS40139
-descr:      Jackson Technical LLC #JTL-11
-admin-c:    DNSAD166-ARIN
-tech-c:     DNSAD166-ARIN
-tech-c:     IPADM835-ARIN
-upd-to:     dns@jacksontechnical.com
-upd-to:     ipadmin@sixpackets.com
-mnt-nfy:    dns@jacksontechnical.com
-mnt-nfy:    ipadmin@sixpackets.com
-auth:       CRYPT-PW HIDDENCRYPTPW
-auth:       PGPKEY-A58A41C6
-notify:     dns@jacksontechnical.com
-notify:     ipadmin@sixpackets.com
-mnt-by:     MAINT-AS40139
-changed:    adam.korab@sixpackets.com 20211115
-source:     RADB
-
 as-set:     AS40139:AS-JTECH-ALL
 descr:      JTech origination and transit
 members:    AS40139:AS-JTECH, AS40139:AS-JTECH-TRANSIT
@@ -255,6 +238,22 @@ descr:      Jackson Technical LLC
 admin-c:    DNSAD166-ARIN
 tech-c:     DNSAD166-ARIN
 tech-c:     IPADM835-ARIN
+notify:     dns@jacksontechnical.com
+notify:     ipadmin@sixpackets.com
+mnt-by:     MAINT-AS40139
+changed:    adam.korab@sixpackets.com 20211115
+source:     RADB
+
+mntner:     MAINT-AS40139
+descr:      Jackson Technical LLC #JTL-11
+admin-c:    DNSAD166-ARIN
+tech-c:     DNSAD166-ARIN
+tech-c:     IPADM835-ARIN
+upd-to:     dns@jacksontechnical.com
+upd-to:     ipadmin@sixpackets.com
+mnt-nfy:    dns@jacksontechnical.com
+mnt-nfy:    ipadmin@sixpackets.com
+auth:       CRYPT-PW HIDDENCRYPTPW
 notify:     dns@jacksontechnical.com
 notify:     ipadmin@sixpackets.com
 mnt-by:     MAINT-AS40139
