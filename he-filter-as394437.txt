@@ -14,7 +14,6 @@ ip prefix-list NN permit 23.95.21.0/24
 ip prefix-list NN permit 23.95.22.0/24
 ip prefix-list NN permit 23.95.40.0/24
 ip prefix-list NN permit 23.95.46.0/24
-ip prefix-list NN permit 23.169.240.0/22
 ip prefix-list NN permit 23.169.240.0/24
 ip prefix-list NN permit 23.169.241.0/24
 ip prefix-list NN permit 23.169.242.0/24
