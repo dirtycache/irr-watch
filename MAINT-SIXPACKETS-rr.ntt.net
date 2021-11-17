@@ -95,13 +95,14 @@ admin-c:        IPADM835-ARIN
 tech-c:         IPADM835-ARIN
 upd-to:         ipadmin@sixpackets.com
 mnt-nfy:        ipadmin@sixpackets.com
+auth:           MD5-PW DummyValue  # Filtered for security
 auth:           PGPKEY-A58A41C6
 auth:           PGPKEY-54AF4ACF
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-SIXPACKETS
 changed:        adam.korab@sixpackets.com 20211115
 source:         NTTCOM
-last-modified:  2021-11-15T04:25:34Z
+last-modified:  2021-11-17T16:40:42Z
 
 key-cert:       PGPKEY-A58A41C6
 method:         PGP

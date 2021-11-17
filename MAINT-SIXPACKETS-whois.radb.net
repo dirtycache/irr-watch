@@ -29,20 +29,6 @@ changed:        adam.korab@sixpackets.com 20211115
 source:         NTTCOM
 last-modified:  2021-11-15T04:25:33Z
 
-mntner:         MAINT-SIXPACKETS
-descr:          SixPackets maintainer AS397677
-admin-c:        IPADM835-ARIN
-tech-c:         IPADM835-ARIN
-upd-to:         ipadmin@sixpackets.com
-mnt-nfy:        ipadmin@sixpackets.com
-auth:           PGPKEY-A58A41C6
-auth:           PGPKEY-54AF4ACF
-notify:         ipadmin@sixpackets.com
-mnt-by:         MAINT-SIXPACKETS
-changed:        adam.korab@sixpackets.com 20211115
-source:         NTTCOM
-last-modified:  2021-11-15T04:25:34Z
-
 person:         SixPackets IP Admin
 address:        594 Sawdust Rd #319
 address:        The Woodlands, TX 77380
@@ -159,3 +145,18 @@ mnt-by:         MAINT-SIXPACKETS
 changed:        adam.korab@sixpackets.com 20211115
 source:         NTTCOM
 last-modified:  2021-11-15T04:25:42Z
+
+mntner:         MAINT-SIXPACKETS
+descr:          SixPackets maintainer AS397677
+admin-c:        IPADM835-ARIN
+tech-c:         IPADM835-ARIN
+upd-to:         ipadmin@sixpackets.com
+mnt-nfy:        ipadmin@sixpackets.com
+auth:           MD5-PW DummyValue  # Filtered for security
+auth:           PGPKEY-A58A41C6
+auth:           PGPKEY-54AF4ACF
+notify:         ipadmin@sixpackets.com
+mnt-by:         MAINT-SIXPACKETS
+changed:        adam.korab@sixpackets.com 20211115
+source:         NTTCOM
+last-modified:  2021-11-17T16:40:42Z

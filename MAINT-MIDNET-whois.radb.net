@@ -118,20 +118,6 @@ changed:        adam.korab@mid.net 20211115
 source:         NTTCOM
 last-modified:  2021-11-15T04:25:40Z
 
-mntner:         MAINT-MIDNET
-descr:          MIDnet maintainer AS16970
-admin-c:        IPADM882-ARIN
-tech-c:         IPADM882-ARIN
-upd-to:         ipadmin@mid.net
-mnt-nfy:        ipadmin@mid.net
-auth:           PGPKEY-A58A41C6
-auth:           PGPKEY-54AF4ACF
-notify:         ipadmin@mid.net
-mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20211115
-source:         NTTCOM
-last-modified:  2021-11-15T04:25:40Z
-
 person:         MIDnet IP Admin
 address:        594 Sawdust Rd #319
 address:        The Woodlands, TX 77380
@@ -214,3 +200,18 @@ mnt-by:         MAINT-MIDNET
 changed:        adam.korab@mid.net 20211115
 source:         NTTCOM
 last-modified:  2021-11-15T04:25:40Z
+
+mntner:         MAINT-MIDNET
+descr:          MIDnet maintainer AS16970
+admin-c:        IPADM882-ARIN
+tech-c:         IPADM882-ARIN
+upd-to:         ipadmin@mid.net
+mnt-nfy:        ipadmin@mid.net
+auth:           MD5-PW DummyValue  # Filtered for security
+auth:           PGPKEY-A58A41C6
+auth:           PGPKEY-54AF4ACF
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20211117
+source:         NTTCOM
+last-modified:  2021-11-17T16:39:12Z
