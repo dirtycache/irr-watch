@@ -8758,6 +8758,7 @@ ip prefix-list NN permit 193.223.252.0/23
 ip prefix-list NN permit 193.227.125.0/24
 ip prefix-list NN permit 193.227.236.0/23
 ip prefix-list NN permit 193.228.169.0/24
+ip prefix-list NN permit 193.243.189.0/24
 ip prefix-list NN permit 194.38.40.0/23
 ip prefix-list NN permit 194.39.42.0/23
 ip prefix-list NN permit 194.50.200.0/23
