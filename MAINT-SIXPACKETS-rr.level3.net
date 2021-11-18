@@ -25,14 +25,6 @@ mnt-by:        MAINT-SIXPACKETS
 changed:       adam.korab@sixpackets.com 20211115
 source:        NTTCOM
 
-route6:        2001:418:1401:22::/64
-descr:         SixPackets
-origin:        AS397677
-notify:        ipadmin@sixpackets.com
-mnt-by:        MAINT-SIXPACKETS
-changed:       adam.korab@sixpackets.com 20211115
-source:        NTTCOM
-
 route6:        2602:800:1005::/48
 descr:         NET6-2602-800-1005-1 (SixPackets)
 origin:        AS397677
