@@ -67,24 +67,6 @@ changed:        adam.korab@sixpackets.com 20211115
 source:         NTTCOM
 last-modified:  2021-11-15T04:25:34Z
 
-route6:         2001:418:1401:22::/64
-descr:          SixPackets
-origin:         AS397677
-notify:         ipadmin@sixpackets.com
-mnt-by:         MAINT-SIXPACKETS
-changed:        adam.korab@sixpackets.com 20211115
-source:         NTTCOM
-last-modified:  2021-11-15T04:25:34Z
-
-route6:         2602:800:1005::/48
-descr:          NET6-2602-800-1005-1 (SixPackets)
-origin:         AS397677
-notify:         ipadmin@sixpackets.com
-mnt-by:         MAINT-SIXPACKETS
-changed:        adam.korab@sixpackets.com 20211115
-source:         NTTCOM
-last-modified:  2021-11-15T04:25:34Z
-
 key-cert:       PGPKEY-A58A41C6
 method:         PGP
 owner:          Adam Korab <adam.korab@sixpackets.com>
@@ -160,3 +142,12 @@ mnt-by:         MAINT-SIXPACKETS
 changed:        adam.korab@sixpackets.com 20211115
 source:         NTTCOM
 last-modified:  2021-11-17T16:40:42Z
+
+route6:         2602:800:1005::/48
+descr:          NET6-2602-800-1005-1 (SixPackets)
+origin:         AS397677
+notify:         ipadmin@sixpackets.com
+mnt-by:         MAINT-SIXPACKETS
+changed:        adam.korab@sixpackets.com 20211115
+source:         NTTCOM
+last-modified:  2021-11-18T17:28:35Z
