@@ -40,33 +40,6 @@ changed:        adam.korab@sixpackets.com 20211115
 source:         NTTCOM
 last-modified:  2021-11-15T04:25:34Z
 
-route:          44.76.16.0/24
-descr:          SixPackets - AMPRnet
-origin:         AS397677
-notify:         ipadmin@sixpackets.com
-mnt-by:         MAINT-SIXPACKETS
-changed:        adam.korab@sixpackets.com 20211115
-source:         NTTCOM
-last-modified:  2021-11-15T04:25:34Z
-
-route:          44.78.16.0/24
-origin:         AS397677
-descr:          NET-44-78-16-0-1
-notify:         ipadmin@sixpackets.com
-mnt-by:         MAINT-SIXPACKETS
-changed:        adam.korab@sixpackets.com 20211115
-source:         NTTCOM
-last-modified:  2021-11-15T04:25:34Z
-
-route:          165.254.62.0/24
-descr:          SixPackets
-origin:         AS397677
-notify:         ipadmin@sixpackets.com
-mnt-by:         MAINT-SIXPACKETS
-changed:        adam.korab@sixpackets.com 20211115
-source:         NTTCOM
-last-modified:  2021-11-15T04:25:34Z
-
 key-cert:       PGPKEY-A58A41C6
 method:         PGP
 owner:          Adam Korab <adam.korab@sixpackets.com>
@@ -151,3 +124,30 @@ mnt-by:         MAINT-SIXPACKETS
 changed:        adam.korab@sixpackets.com 20211115
 source:         NTTCOM
 last-modified:  2021-11-18T17:28:35Z
+
+route:          44.76.16.0/24
+descr:          SixPackets - AMPRnet
+origin:         AS397677
+notify:         ipadmin@sixpackets.com
+mnt-by:         MAINT-SIXPACKETS
+changed:        adam.korab@sixpackets.com 20211119
+source:         NTTCOM
+last-modified:  2021-11-19T20:09:06Z
+
+route:          44.78.16.0/24
+origin:         AS397677
+descr:          NET-44-78-16-0-1
+notify:         ipadmin@sixpackets.com
+mnt-by:         MAINT-SIXPACKETS
+changed:        adam.korab@sixpackets.com 20211119
+source:         NTTCOM
+last-modified:  2021-11-19T20:09:06Z
+
+route:          165.254.62.0/24
+descr:          SixPackets
+origin:         AS397677
+notify:         ipadmin@sixpackets.com
+mnt-by:         MAINT-SIXPACKETS
+changed:        adam.korab@sixpackets.com 20211119
+source:         NTTCOM
+last-modified:  2021-11-19T20:09:06Z
