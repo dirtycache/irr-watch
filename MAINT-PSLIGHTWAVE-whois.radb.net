@@ -90,16 +90,6 @@ mnt-by:         MAINT-PSLIGHTWAVE
 changed:        swulf@pslightwave.com 20170214
 source:         NTTCOM
 
-route:          64.110.128.0/21
-descr:          TACHUS-Net-02
-origin:         AS397412
-remarks:        Proxy object for Tachus by PS Lightwave
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com
-source:         NTTCOM
-last-modified:  2021-09-10T18:29:12Z
-
 route:          64.154.18.0/24
 descr:          Net-64-154-18-0
 origin:         AS32208
@@ -1779,6 +1769,16 @@ e-mail:         swulf@pslightwave.com
 mnt-by:         MAINT-PSLIGHTWAVE
 changed:        kpack@us.ntt.net 20190926
 source:         NTTCOM
+
+route:          64.110.128.0/21
+descr:          TACHUS-Net-02
+origin:         AS397412
+remarks:        Proxy object for Tachus by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2021-09-10T18:29:12Z
 
 route:          198.151.208.0/24
 descr:          REG4-CS-05

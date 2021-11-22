@@ -1,45 +1,4 @@
 Warning: RIPE flags used with a traditional server.
-aut-num:        AS397677
-as-name:        ASN-SIXPACKETS
-descr:          SixPackets
-admin-c:        IPADM835-ARIN
-tech-c:         IPADM835-ARIN
-import:         from AS16970 accept ANY AND NOT {0.0.0.0/0}
-import:         from AS11042 accept ANY AND NOT {0.0.0.0/0}
-import:         from AS2914  accept ANY AND NOT {0.0.0.0/0}
-import:         from AS20473 accept ANY AND NOT {0.0.0.0/0}
-import:         from AS40139 accept ANY AND NOT {0.0.0.0/0}
-export:         to AS11042 announce AS397677:AS-SIXPACKETS-ALL
-export:         to AS2914  announce AS397677:AS-SIXPACKETS-ALL
-export:         to AS ANY announce AS397677:AS-SIXPACKETS
-notify:         ipadmin@sixpackets.com
-mnt-by:         MAINT-SIXPACKETS
-changed:        adam.korab@sixpackets.com 20211115
-source:         NTTCOM
-last-modified:  2021-11-15T04:25:33Z
-
-as-set:         AS397677:AS-SIXPACKETS
-descr:          SixPackets originate
-members:        AS397677
-admin-c:        IPADM835-ARIN
-tech-c:         IPADM835-ARIN
-notify:         ipadmin@sixpackets.com
-mnt-by:         MAINT-SIXPACKETS
-changed:        adam.korab@sixpackets.com 20211115
-source:         NTTCOM
-last-modified:  2021-11-15T04:25:33Z
-
-person:         SixPackets IP Admin
-address:        594 Sawdust Rd #319
-address:        The Woodlands, TX 77380
-phone:          +1-832-702-8101
-e-mail:         ipadmin@sixpackets.com
-nic-hdl:        IPADM835-ARIN
-mnt-by:         MAINT-SIXPACKETS
-changed:        adam.korab@sixpackets.com 20211115
-source:         NTTCOM
-last-modified:  2021-11-15T04:25:34Z
-
 key-cert:       PGPKEY-A58A41C6
 method:         PGP
 owner:          Adam Korab <adam.korab@sixpackets.com>
@@ -100,6 +59,47 @@ mnt-by:         MAINT-SIXPACKETS
 changed:        adam.korab@sixpackets.com 20211115
 source:         NTTCOM
 last-modified:  2021-11-15T04:25:42Z
+
+aut-num:        AS397677
+as-name:        ASN-SIXPACKETS
+descr:          SixPackets
+admin-c:        IPADM835-ARIN
+tech-c:         IPADM835-ARIN
+import:         from AS16970 accept ANY AND NOT {0.0.0.0/0}
+import:         from AS11042 accept ANY AND NOT {0.0.0.0/0}
+import:         from AS2914  accept ANY AND NOT {0.0.0.0/0}
+import:         from AS20473 accept ANY AND NOT {0.0.0.0/0}
+import:         from AS40139 accept ANY AND NOT {0.0.0.0/0}
+export:         to AS11042 announce AS397677:AS-SIXPACKETS-ALL
+export:         to AS2914  announce AS397677:AS-SIXPACKETS-ALL
+export:         to AS ANY announce AS397677:AS-SIXPACKETS
+notify:         ipadmin@sixpackets.com
+mnt-by:         MAINT-SIXPACKETS
+changed:        adam.korab@sixpackets.com 20211115
+source:         NTTCOM
+last-modified:  2021-11-15T04:25:33Z
+
+as-set:         AS397677:AS-SIXPACKETS
+descr:          SixPackets originate
+members:        AS397677
+admin-c:        IPADM835-ARIN
+tech-c:         IPADM835-ARIN
+notify:         ipadmin@sixpackets.com
+mnt-by:         MAINT-SIXPACKETS
+changed:        adam.korab@sixpackets.com 20211115
+source:         NTTCOM
+last-modified:  2021-11-15T04:25:33Z
+
+person:         SixPackets IP Admin
+address:        594 Sawdust Rd #319
+address:        The Woodlands, TX 77380
+phone:          +1-832-702-8101
+e-mail:         ipadmin@sixpackets.com
+nic-hdl:        IPADM835-ARIN
+mnt-by:         MAINT-SIXPACKETS
+changed:        adam.korab@sixpackets.com 20211115
+source:         NTTCOM
+last-modified:  2021-11-15T04:25:34Z
 
 mntner:         MAINT-SIXPACKETS
 descr:          SixPackets maintainer AS397677

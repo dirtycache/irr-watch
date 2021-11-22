@@ -101314,16 +101314,6 @@ mnt-by:        CCINET-2-MNT
 changed:       cciatl-nocengineer@cox.com 20210728
 source:        LEVEL3
 
-route:         64.112.106.0/24
-descr:         WICH CB TRANSIT ROUTE
-origin:        AS22773
-remarks:       Change Ticket #ECR000001149728 - JobID:134275
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       cciatl-nocengineer@cox.com 20210730
-source:        LEVEL3
-
 route:         98.185.114.0/24
 descr:         WICH MRKT-DATA-BUSINESS
 origin:        AS22773
