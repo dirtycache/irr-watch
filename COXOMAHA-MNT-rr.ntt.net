@@ -1,0 +1,2382 @@
+route:          8.7.212.0/23
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20060313
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          12.10.18.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20091203
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          12.10.24.0/21
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20091203
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          12.10.93.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20091203
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          12.10.100.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20091203
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          12.10.113.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20091203
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          12.10.161.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20091203
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          12.10.165.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20091203
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          12.10.201.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20091203
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          12.13.93.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20091203
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          12.13.113.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20091203
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          12.22.161.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20091203
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          12.22.165.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20091203
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          12.22.178.0/23
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20051101
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          12.36.201.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20091203
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          12.36.205.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060817
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          12.36.206.0/23
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20051101
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          12.36.216.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060915
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          12.36.220.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20110712
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          12.43.82.0/23
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        New block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20040423
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          12.108.216.0/23
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20051101
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          12.109.80.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20051101
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          12.155.146.0/23
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20110712
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          12.192.32.0/23
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20101012
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          12.192.34.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20101012
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          12.196.100.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20091203
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          24.223.116.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20110712
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          38.109.36.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20090105
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          56.146.240.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        al.castillo@cox.com 20100106
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          59.41.223.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20100115
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          63.76.177.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060612
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          63.99.120.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20051101
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          63.113.14.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060612
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          63.160.141.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20070810
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          63.161.162.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20070802
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          63.163.161.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20101012
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          63.163.175.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20070522
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          63.167.254.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        New block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20040423
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          63.171.3.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060313
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          63.174.226.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060915
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          63.254.134.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip blocks
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20080123
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          64.47.53.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20110608
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          64.206.0.0/18
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip blocks
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20081016
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          64.207.192.0/19
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20070727
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          64.253.160.0/19
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20070117
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          64.253.160.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20050130
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          64.253.166.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20081023
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          65.162.48.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060915
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          65.164.234.0/23
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060915
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          65.166.112.0/21
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20101012
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          65.166.222.0/23
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060915
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          65.167.152.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20101012
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          65.171.69.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        Add ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20070913
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          65.197.1.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20080306
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          66.82.0.0/16
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20100323
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          66.112.146.0/23
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060915
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          66.112.148.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060915
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          66.112.159.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060915
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          66.146.240.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20060313
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          66.180.0.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20051101
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          66.196.48.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20110201
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          66.206.192.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060915
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          66.206.192.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20070928
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          66.206.193.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip blocks
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20070926
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          66.206.194.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20070928
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          66.206.195.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20070928
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          66.206.196.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20070928
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          66.206.204.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20070928
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          66.241.160.0/19
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20060313
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          67.23.80.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20090514
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          67.44.0.0/14
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20100323
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          67.130.254.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20070906
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          67.142.0.0/16
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20100323
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          67.143.0.0/19
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20100323
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          67.206.0.0/18
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip blocks
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20081010
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          67.222.192.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20060313
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          69.4.0.0/19
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20050930
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          69.19.0.0/17
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20100323
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          69.35.0.0/16
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20100323
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          69.41.216.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip blocks
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20080123
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          69.41.217.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip blocks
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20080123
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          69.41.218.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip blocks
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20080123
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          69.41.220.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20110728
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          69.41.221.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20110728
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          69.41.222.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip blocks
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20080123
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          69.41.223.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+notify:         IP.ADMIN@COX.COM
+mnt-by:         COXOMAHA-MNT
+changed:        SCOTT.GATES@COX.COM 20090420
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          69.54.113.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20070404
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          69.58.192.0/18
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip blocks
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20081016
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          69.80.112.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20110316
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          69.80.116.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20110316
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          70.34.32.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        eric.hrabovsky@cox.com 20100208
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          70.37.192.0/19
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip blocks
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20100614
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          70.37.192.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20100224
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          72.37.0.0/17
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip blocks
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20081017
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          72.165.239.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20070316
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          72.168.0.0/14
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20100323
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          74.51.128.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        al.castillo@cox.com 20100106
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          74.51.208.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        al.castillo@cox.com 20090128
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          74.116.252.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip blocks
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20080123
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          74.120.120.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip blocks
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20080123
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          74.126.48.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20080828
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          74.200.50.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20091210
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          96.31.176.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20110201
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          97.72.0.0/15
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20100323
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          98.142.80.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20100115
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          128.242.20.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20070727
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          141.246.0.0/16
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20041118
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          160.76.8.0/21
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20100323
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          160.76.254.0/23
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20111013
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          167.132.0.0/16
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip blocks
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20081017
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          168.97.248.0/23
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20090604
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          168.97.250.0/23
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20090402
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          170.31.0.0/16
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20041206
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          170.131.0.0/16
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20070221
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          170.131.128.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20061006
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          170.131.131.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20061006
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          170.131.132.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20061006
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          170.131.135.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20061006
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          170.131.136.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20061006
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          170.131.137.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20061006
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          170.131.224.0/19
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20050517
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          170.131.252.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20061006
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          170.200.164.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        al.castillo@cox.com 20090217
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          170.200.168.0/21
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        al.castillo@cox.com 20090217
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          171.74.0.0/16
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20050930
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          173.224.16.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20100113
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          173.229.128.0/17
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20060313
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          174.32.0.0/15
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20100323
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          184.52.0.0/15
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20100323
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          192.189.65.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20060313
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          198.175.140.0/23
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060612
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          198.203.221.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20091207
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          198.207.8.0/21
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20060313
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          199.27.124.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20111111
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          199.27.192.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20060313
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          199.58.136.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20101209
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          199.168.240.0/21
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20110727
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          199.193.212.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20110919
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.11.176.0/21
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060915
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.13.176.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20050427
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.16.232.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20051118
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.26.85.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip blocks
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20071026
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.27.19.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20070328
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.27.195.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20080821
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.44.10.0/23
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20110505
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.44.11.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060915
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.44.12.0/23
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20110505
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.44.14.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20110505
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.58.232.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20051101
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.68.226.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20091207
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.76.64.0/18
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20080325
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.96.128.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        Remove ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20070913
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.96.180.0/23
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060915
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.96.188.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060915
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.137.0.0/21
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20100223
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.194.141.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20090331
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.234.208.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        remove ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        al.castillo@cox.com 20090701
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.251.138.0/23
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060915
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          205.144.144.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20110829
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          205.144.146.0/23
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20100802
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          205.144.146.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20100802
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          205.144.147.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20090311
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          205.144.157.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20090819
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          205.186.64.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20090804
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          205.202.80.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        remove ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        al.castillo@cox.com 20090701
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          205.202.96.0/19
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        remove ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        al.castillo@cox.com 20090701
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          205.202.176.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        remove ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        al.castillo@cox.com 20090701
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          205.202.192.0/18
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        remove ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        al.castillo@cox.com 20090701
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          205.207.156.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20081203
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          205.245.168.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20101012
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          205.247.204.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060915
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          206.107.192.0/23
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20101012
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          206.131.192.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20070328
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          206.201.22.0/23
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20051101
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          206.221.52.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20051117
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          207.5.112.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060915
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          207.15.2.0/23
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060915
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          207.15.32.0/21
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060915
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          207.68.208.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20101012
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          207.126.128.0/21
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060915
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          207.138.56.0/21
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060630
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          207.188.32.0/19
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20061012
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          207.218.64.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060915
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          207.218.128.0/21
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20051101
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          208.4.60.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        Add ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20070913
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          208.4.61.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        Add ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20070913
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          208.4.62.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        Add ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20070913
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          208.4.63.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        Add ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20070913
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          208.70.129.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20090924
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          208.70.131.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        eric.hrabovsky@cox.com 20091005
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          208.70.132.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20090924
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          208.70.134.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20090924
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          208.70.135.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20090924
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          208.72.36.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20061121
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          208.74.192.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20070209
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          208.77.172.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20070522
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          208.77.173.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20070806
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          208.77.174.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20080418
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          208.79.0.0/21
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20070621
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          208.80.88.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20070727
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          208.82.108.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip blocks
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20071008
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          208.88.72.0/21
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip blocks
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20080529
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          208.95.32.0/22
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip blocks
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20081016
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          208.139.162.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060915
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          208.147.62.0/23
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20050225
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          209.34.192.0/19
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20051018
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          209.34.192.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        brian.sudol@cox.com 20050316
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          209.54.16.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20110712
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          209.74.224.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20060313
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          209.74.227.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20060313
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          209.144.88.0/23
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        remove ip blocks
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20071008
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.58.224.0/19
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20060915
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.58.224.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20070928
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.58.240.0/21
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20070928
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.58.248.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20070928
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.58.249.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20070928
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.58.250.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20070928
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.58.251.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20070928
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.58.252.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20070928
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.58.253.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20070928
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.58.254.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20070928
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.58.255.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        justin.neece@cox.com 20070928
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.69.99.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20110316
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.69.100.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20111102
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.69.102.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20111102
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.69.106.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20110316
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.69.108.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20110316
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.69.109.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20110316
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.205.192.0/20
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20051101
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.0.0/19
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20080821
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.243.228.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20050712
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.243.230.0/24
+descr:          CBS Cox Omaha
+origin:         AS14710
+remarks:        new ip block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        kerri.johnsen@cox.com 20050712
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route6:         2001:578:c08::/45
+descr:          Cox Nebraska Telecom
+origin:         AS14710
+remarks:        new ipv6 block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20101006
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route6:         2001:57a:5000::/36
+descr:          Cox Nebraska Telecom
+origin:         AS14710
+remarks:        new ipv6 block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20101006
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route6:         2605:3600::/32
+descr:          Cox Nebraska Telecom
+origin:         AS14710
+remarks:        new ipv6 block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20101229
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route6:         2607:f3f8::/32
+descr:          Cox Nebraska Telecom
+origin:         AS14710
+remarks:        new ipv6 block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20101006
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route6:         2620:0:2300::/44
+descr:          Cox Nebraska Telecom
+origin:         AS14710
+remarks:        new ipv6 block
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        scott.gates@cox.com 20101111
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+mntner:         COXOMAHA-MNT
+descr:          Maintainer Object for Cox Communications Omaha
+admin-c:        DM1-LEVEL3
+tech-c:         DM1-LEVEL3
+upd-to:         ip.admin@cox.com
+mnt-nfy:        ip.admin@cox.com
+auth:           MAIL-FROM ip.admin@cox.com
+notify:         ip.admin@cox.com
+mnt-by:         COXOMAHA-MNT
+changed:        ip.admin@cox.com20040303 20040310
+source:         LEVEL3
+
+
