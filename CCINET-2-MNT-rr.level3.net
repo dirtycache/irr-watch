@@ -103884,6 +103884,16 @@ mnt-by:        CCINET-2-MNT
 changed:       cciatl-nocengineer@cox.com 20211118
 source:        LEVEL3
 
+route:         68.233.0.0/19
+descr:         WICH CB TRANSIT ROUTE
+origin:        AS22773
+remarks:       Change Ticket #ECR000001234571 - JobID:191539
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211124
+source:        LEVEL3
+
 route6:        2001:578::/30
 descr:         COX IPv6 Aggregate Space
 origin:        AS22773
