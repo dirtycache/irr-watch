@@ -406,6 +406,7 @@ ip prefix-list NN permit 162.244.140.0/22
 ip prefix-list NN permit 162.249.46.0/23
 ip prefix-list NN permit 162.249.46.0/24
 ip prefix-list NN permit 162.249.47.0/24
+ip prefix-list NN permit 164.63.244.0/24
 ip prefix-list NN permit 164.63.245.0/24
 ip prefix-list NN permit 165.254.62.0/24
 ip prefix-list NN permit 165.254.152.0/23
