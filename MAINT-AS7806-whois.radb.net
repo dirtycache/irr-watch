@@ -277,22 +277,6 @@ mnt-by:     MAINT-AS7806
 changed:    noc-radb@binary.net 20210428  #15:58:19Z
 source:     RADB
 
-aut-num:    AS7806
-as-name:    BN-7806
-descr:      IRR-Binary-Net-LLC
-import:     from AS-ANY   accept ANY
-export:     to AS-ANY   announce AS7806
-export:     to AS-ANY   announce AS11982
-export:     to AS-ANY   announce AS394870
-export:     to AS-ANY   announce AS393614
-export:     to AS-ANY   announce AS11610
-admin-c:    NOC Network Operations Center
-tech-c:     NOC Network Operations Center
-notify:     noc-radb@binary.net
-mnt-by:     MAINT-AS7806
-changed:    noc-radb@binary.net 20211111  #14:54:51Z
-source:     RADB
-
 as-set:     AS-BINARYNET
 descr:      Binary Net's ASNs
 members:    AS7806, AS7806:AS-TRANSIT
@@ -375,4 +359,21 @@ tech-c:     NOC Network Operations Center
 notify:     info@inebraska.com
 mnt-by:     MAINT-AS7806
 changed:    noc-radb@binary.net 20211111  #16:16:21Z
+source:     RADB
+
+aut-num:    AS7806
+as-name:    BN-7806
+descr:      IRR-Binary-Net-LLC
+member-of:  AS-BINARYNET
+import:     from AS-ANY   accept ANY
+export:     to AS-ANY   announce AS7806
+export:     to AS-ANY   announce AS11982
+export:     to AS-ANY   announce AS394870
+export:     to AS-ANY   announce AS393614
+export:     to AS-ANY   announce AS11610
+admin-c:    NOC Network Operations Center
+tech-c:     NOC Network Operations Center
+notify:     noc-radb@binary.net
+mnt-by:     MAINT-AS7806
+changed:    noc-radb@binary.net 20211124  #22:38:59Z
 source:     RADB

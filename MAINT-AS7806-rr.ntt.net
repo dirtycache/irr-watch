@@ -305,6 +305,7 @@ rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for so
 aut-num:        AS7806
 as-name:        BN-7806
 descr:          IRR-Binary-Net-LLC
+member-of:      AS-BINARYNET
 import:         from AS-ANY   accept ANY
 export:         to AS-ANY   announce AS7806
 export:         to AS-ANY   announce AS11982
@@ -315,7 +316,7 @@ admin-c:        NOC Network Operations Center
 tech-c:         NOC Network Operations Center
 notify:         noc-radb@binary.net
 mnt-by:         MAINT-AS7806
-changed:        noc-radb@binary.net 20211111  #14:54:51Z
+changed:        noc-radb@binary.net 20211124  #22:38:59Z
 source:         RADB
 
 aut-num:        AS11610
