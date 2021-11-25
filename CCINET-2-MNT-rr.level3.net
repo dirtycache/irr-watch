@@ -103894,6 +103894,36 @@ mnt-by:        CCINET-2-MNT
 changed:       cciatl-nocengineer@cox.com 20211124
 source:        LEVEL3
 
+route:         50.117.86.0/24
+descr:         MRFD MRKT-DATA-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001232404 - JobID:191615
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211125
+source:        LEVEL3
+
+route:         23.230.40.0/24
+descr:         MRFD MRKT-DATA-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001232404 - JobID:191617
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211125
+source:        LEVEL3
+
+route:         23.230.32.0/24
+descr:         MRFD MRKT-DATA-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001232404 - JobID:191617
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211125
+source:        LEVEL3
+
 route6:        2001:578::/30
 descr:         COX IPv6 Aggregate Space
 origin:        AS22773
