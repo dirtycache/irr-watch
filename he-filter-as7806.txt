@@ -8614,6 +8614,8 @@ ip prefix-list NN permit 36.223.160.0/20
 ip prefix-list NN permit 37.1.160.0/19
 ip prefix-list NN permit 37.10.0.0/18
 ip prefix-list NN permit 37.18.176.0/22
+ip prefix-list NN permit 37.19.64.0/22
+ip prefix-list NN permit 37.19.68.0/22
 ip prefix-list NN permit 37.26.112.0/20
 ip prefix-list NN permit 37.44.192.0/22
 ip prefix-list NN permit 37.46.10.0/23
