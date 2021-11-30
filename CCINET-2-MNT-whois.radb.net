@@ -102816,16 +102816,6 @@ mnt-by:        CCINET-2-MNT
 changed:       cciatl-nocengineer@cox.com 20210521
 source:        LEVEL3
 
-route:         98.187.78.0/24
-descr:         HMRD MRKT-DATA-BUSINESS
-origin:        AS22773
-remarks:       Change Ticket #ECR000001106123 - JobID:119880
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       cciatl-nocengineer@cox.com 20210524
-source:        LEVEL3
-
 route:         98.186.24.0/21
 descr:         PROV MRKT-DATA-BUSINESS
 origin:        AS22773
@@ -106894,6 +106884,16 @@ route:         98.181.88.0/22
 descr:         PHX MRKT-DATA-BUSINESS
 origin:        AS22773
 remarks:       Change Ticket #ECR000001235306 - JobID:192080
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211130
+source:        LEVEL3
+
+route:         98.187.78.0/24
+descr:         RNKE MRKT-DATA-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001106123 - JobID:192148
 notify:        CCIATL-NOCEngineer@cox.com
 notify:        thebackbone@cox.com
 mnt-by:        CCINET-2-MNT
