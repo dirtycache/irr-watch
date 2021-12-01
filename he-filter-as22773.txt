@@ -5048,7 +5048,11 @@ ip prefix-list NN permit 98.180.224.0/21
 ip prefix-list NN permit 98.180.232.0/21
 ip prefix-list NN permit 98.180.240.0/20
 ip prefix-list NN permit 98.181.0.0/18
+ip prefix-list NN permit 98.181.72.0/22
+ip prefix-list NN permit 98.181.78.0/23
 ip prefix-list NN permit 98.181.88.0/22
+ip prefix-list NN permit 98.181.92.0/23
+ip prefix-list NN permit 98.181.94.0/23
 ip prefix-list NN permit 98.181.96.0/21
 ip prefix-list NN permit 98.181.104.0/22
 ip prefix-list NN permit 98.181.109.0/24
