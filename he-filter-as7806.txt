@@ -35211,6 +35211,7 @@ ip prefix-list NN permit 122.98.56.0/21
 ip prefix-list NN permit 122.98.56.0/22
 ip prefix-list NN permit 122.98.60.0/22
 ip prefix-list NN permit 122.98.64.0/23
+ip prefix-list NN permit 122.98.64.0/24
 ip prefix-list NN permit 122.98.88.0/21
 ip prefix-list NN permit 122.98.88.0/22
 ip prefix-list NN permit 122.98.92.0/22
