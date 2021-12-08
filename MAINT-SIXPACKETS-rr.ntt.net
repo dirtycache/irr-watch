@@ -38,16 +38,6 @@ source:         NTTCOM
 last-modified:  2021-12-07T23:01:35Z
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
-route6:         2602:800:1006::/48
-descr:          NET6-2602-800-1006-1 (SixPackets - MW)
-origin:         AS397677
-notify:         ipadmin@sixpackets.com
-mnt-by:         MAINT-SIXPACKETS
-changed:        adam.korab@sixpackets.com 20211207
-source:         NTTCOM
-last-modified:  2021-12-07T23:01:35Z
-rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
-
 aut-num:        AS397677
 as-name:        ASN-SIXPACKETS
 descr:          SixPackets
