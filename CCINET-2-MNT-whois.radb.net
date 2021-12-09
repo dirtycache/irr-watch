@@ -101200,16 +101200,6 @@ mnt-by:        CCINET-2-MNT
 changed:       cciatl-nocengineer@cox.com 20210217
 source:        LEVEL3
 
-route:         149.104.0.0/16
-descr:         MRFD CB TRANSIT ROUTE
-origin:        AS22773
-remarks:       Change Ticket #ECR000001042070 - JobID:100509
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       cciatl-nocengineer@cox.com 20210218
-source:        LEVEL3
-
 route:         184.181.49.0/24
 descr:         OMAHA CBS ROUTE
 origin:        AS22773
