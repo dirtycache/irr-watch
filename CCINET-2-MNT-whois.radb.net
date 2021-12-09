@@ -83716,16 +83716,6 @@ mnt-by:        CCINET-2-MNT
 changed:       brian.kallinen@cox.com 20170404
 source:        LEVEL3
 
-route:         166.108.240.0/24
-descr:         KSCY CBS TRANSIT
-origin:        AS22773
-remarks:       Change Ticket # ECR000000373864
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       brian.kallinen@cox.com 20170411
-source:        LEVEL3
-
 route:         72.204.220.0/22
 descr:         ELMW MRKT-VOIP-BUSINESS
 origin:        AS22773
