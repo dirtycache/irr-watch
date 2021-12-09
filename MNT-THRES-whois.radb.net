@@ -108,16 +108,6 @@ mnt-by:         MNT-THRES
 changed:        tim@osburn.com 20151104
 source:         ARIN
 
-as-set:         AS-THRESHINC
-descr:          AS-7752 (Threshold Communications Inc.) Customers
-members:        AS7752, AS14939, AS12237, AS40184, AS31995, AS14500, AS30380, AS40883, AS54688, AS26419, AS393274, AS63479, AS394514
-tech-c:         NOC11357-ARIN
-admin-c:        NOC11357-ARIN
-notify:         noc@thresholdcommunications.com
-mnt-by:         MNT-THRES
-changed:        noc@thresholdcommunications.com 20200420
-source:         ARIN
-
 route:		209.189.192.0/19
 member-of:	rs-threshinc-threshold
 descr:		THRESHOLD COMMUNICATIONS,INC.
@@ -219,6 +209,14 @@ notify:		tim@osburn.com
 mnt-by:		MNT-THRES
 changed:	tim@osburn.com 20140103
 source:		ARIN
+
+as-set:         AS-THRESHINC
+descr:          AS-7752 (Threshold Communications Inc.) Customers
+members:        AS7752,AS14939,AS40184,AS40883,AS54688,AS26419,AS63479,AS394514,AS26566
+notify:         noc@thresholdcommunications.com
+mnt-by:         MNT-THRES
+changed:        noc@thresholdcommunications.com 20211209
+source:         ARIN
 
 route:          204.87.226.0/24
 descr:          Jessie Oberreuter (NET-OCEAN-NET-1)
