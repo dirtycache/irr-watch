@@ -82,32 +82,6 @@ admin-c:        ADMIN3125-ARIN
 changed:        tim@osburn.com 20160525
 source:         ARIN
 
-aut-num:        AS7752
-as-name:        THRESHINC
-descr:          THRESHOLD COMMUNICATIONS,INC.
-descr:          16541 Redmond Way
-descr:          #245C
-descr:          Redmond, WA 98052
-descr:          US
-import:         from AS4323 accept ANY
-import:         from AS6461 accept ANY
-import:         from AS2914 accept ANY
-import:         from AS6939 accept ANY
-import:         from AS20454 accept ANY
-import:         from AS11404 accept ANY
-export:         to AS4323 announce AS-THRESHINC
-export:         to AS6461 announce AS-THRESHINC
-export:         to AS2914 announce AS-THRESHINC
-export:         to AS6939 announce AS-THRESHINC
-export:         to AS20454 announce AS-THRESHINC
-export:         to AS11404 announce AS-THRESHINC
-admin-c:        NOC11357-ARIN
-tech-c:         TO204-ARIN
-notify:         tim@osburn.com
-mnt-by:         MNT-THRES
-changed:        tim@osburn.com 20151104
-source:         ARIN
-
 route:		209.189.192.0/19
 member-of:	rs-threshinc-threshold
 descr:		THRESHOLD COMMUNICATIONS,INC.
@@ -216,6 +190,32 @@ members:        AS7752,AS14939,AS40184,AS40883,AS54688,AS26419,AS63479,AS394514,
 notify:         noc@thresholdcommunications.com
 mnt-by:         MNT-THRES
 changed:        noc@thresholdcommunications.com 20211209
+source:         ARIN
+
+aut-num:        AS7752
+as-name:        THRESHINC
+descr:          Threshold Communications, Inc.
+descr:          7345 164th Ave NE
+descr:          Suite 145 - #245
+descr:          Redmond, WA 98052
+descr:          USA
+import:         from AS1299 accept ANY
+import:         from AS2914 accept ANY
+import:         from AS3257 accept ANY
+import:         from AS6461 accept ANY
+import:         from AS6939 accept ANY
+import:         from AS20055 accept ANY
+import:         from AS20454 accept ANY
+export:         to AS1299 announce AS-THRESHINC
+export:         to AS2914 announce AS-THRESHINC
+export:         to AS3257 announce AS-THRESHINC
+export:         to AS6461 announce AS-THRESHINC
+export:         to AS6939 announce AS-THRESHINC
+export:         to AS20055 announce AS-THRESHINC
+export:         to AS20454 announce AS-THRESHINC
+notify:         noc@thresholdcommunications.com
+mnt-by:         MNT-THRES
+changed:        noc@thresholdcommunications.com 20211210
 source:         ARIN
 
 route:          204.87.226.0/24
