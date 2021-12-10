@@ -6044,7 +6044,6 @@ ip prefix-list NN permit 149.48.229.0/24
 ip prefix-list NN permit 149.48.230.0/24
 ip prefix-list NN permit 149.57.40.0/21
 ip prefix-list NN permit 149.97.144.0/22
-ip prefix-list NN permit 149.104.0.0/16
 ip prefix-list NN permit 149.111.0.0/16
 ip prefix-list NN permit 149.120.0.0/16
 ip prefix-list NN permit 149.169.0.0/16
@@ -6496,7 +6495,6 @@ ip prefix-list NN permit 166.102.9.0/24
 ip prefix-list NN permit 166.102.154.0/24
 ip prefix-list NN permit 166.102.168.0/24
 ip prefix-list NN permit 166.108.238.0/24
-ip prefix-list NN permit 166.108.240.0/24
 ip prefix-list NN permit 166.113.64.0/18
 ip prefix-list NN permit 166.123.0.0/16
 ip prefix-list NN permit 166.123.0.0/17
