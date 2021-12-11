@@ -105,28 +105,28 @@ source:        ARIN
 
 aut-num:       AS7752
 as-name:       THRESHINC
-descr:         THRESHOLD COMMUNICATIONS,INC.
-descr:         16541 Redmond Way
-descr:         #245C
+descr:         Threshold Communications, Inc.
+descr:         7345 164th Ave NE
+descr:         Suite 145 - #245
 descr:         Redmond, WA 98052
-descr:         US
-admin-c:       NOC11357-ARIN
-tech-c:        TO204-ARIN
-import:        from AS4323 accept ANY
-import:        from AS6461 accept ANY
+descr:         USA
+import:        from AS1299 accept ANY
 import:        from AS2914 accept ANY
+import:        from AS3257 accept ANY
+import:        from AS6461 accept ANY
 import:        from AS6939 accept ANY
+import:        from AS20055 accept ANY
 import:        from AS20454 accept ANY
-import:        from AS11404 accept ANY
-export:        to AS4323 announce AS-THRESHINC
-export:        to AS6461 announce AS-THRESHINC
+export:        to AS1299 announce AS-THRESHINC
 export:        to AS2914 announce AS-THRESHINC
+export:        to AS3257 announce AS-THRESHINC
+export:        to AS6461 announce AS-THRESHINC
 export:        to AS6939 announce AS-THRESHINC
+export:        to AS20055 announce AS-THRESHINC
 export:        to AS20454 announce AS-THRESHINC
-export:        to AS11404 announce AS-THRESHINC
-notify:        tim@osburn.com
+notify:        noc@thresholdcommunications.com
 mnt-by:        MNT-THRES
-changed:       tim@osburn.com 20151104
+changed:       noc@thresholdcommunications.com 20211210
 source:        ARIN
 
 mntner:        MNT-THRES
