@@ -104214,6 +104214,136 @@ mnt-by:        CCINET-2-MNT
 changed:       cciatl-nocengineer@cox.com 20211213
 source:        LEVEL3
 
+route:         207.126.128.0/21
+descr:         CBS Cox Omaha
+origin:        AS22773
+remarks:       new ip block
+notify:        ip.admin@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       kerri.johnsen@cox.com 20060915
+changed:       dixon.hutchinson@lumen.com 20211207
+source:        LEVEL3
+
+route:         209.144.88.0/23
+descr:         CBS Cox Omaha
+origin:        AS22773
+remarks:       remove ip blocks
+notify:        ip.admin@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       justin.neece@cox.com 20071008
+changed:       dixon.hutchinson@lumen.com 20211207
+source:        LEVEL3
+
+route:         192.189.65.0/24
+descr:         CBS Cox Omaha
+origin:        AS22773
+remarks:       new ip block
+notify:        ip.admin@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       scott.gates@cox.com 20060313
+changed:       dixon.hutchinson@lumen.com 20211207
+source:        LEVEL3
+
+route:         64.206.0.0/18
+descr:         CBS Cox Omaha
+origin:        AS22773
+remarks:       new ip blocks
+notify:        ip.admin@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       justin.neece@cox.com 20081016
+changed:       dixon.hutchinson@lumen.com 20211207
+source:        LEVEL3
+
+route:         38.109.36.0/24
+descr:         CBS Cox Omaha
+origin:        AS22773
+remarks:       new ip block
+notify:        ip.admin@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       scott.gates@cox.com 20090105
+changed:       dixon.hutchinson@lumen.com 20211207
+source:        LEVEL3
+
+route:         12.10.93.0/24
+descr:         CBS Cox Omaha
+origin:        AS22773
+remarks:       new ip block
+notify:        ip.admin@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       scott.gates@cox.com 20091203
+changed:       dixon.hutchinson@lumen.com 20211207
+source:        LEVEL3
+
+route:         12.10.113.0/24
+descr:         CBS Cox Omaha
+origin:        AS22773
+remarks:       new ip block
+notify:        ip.admin@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       scott.gates@cox.com 20091203
+changed:       dixon.hutchinson@lumen.com 20211207
+source:        LEVEL3
+
+route:         12.10.161.0/24
+descr:         CBS Cox Omaha
+origin:        AS22773
+remarks:       new ip block
+notify:        ip.admin@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       scott.gates@cox.com 20091203
+changed:       dixon.hutchinson@lumen.com 20211207
+source:        LEVEL3
+
+route:         12.10.165.0/24
+descr:         CBS Cox Omaha
+origin:        AS22773
+remarks:       new ip block
+notify:        ip.admin@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       scott.gates@cox.com 20091203
+changed:       dixon.hutchinson@lumen.com 20211207
+source:        LEVEL3
+
+route:         12.10.201.0/24
+descr:         CBS Cox Omaha
+origin:        AS22773
+remarks:       new ip block
+notify:        ip.admin@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       scott.gates@cox.com 20091203
+changed:       dixon.hutchinson@lumen.com 20211207
+source:        LEVEL3
+
+route:         12.10.100.0/24
+descr:         CBS Cox Omaha
+origin:        AS22773
+remarks:       new ip block
+notify:        ip.admin@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       scott.gates@cox.com 20091203
+changed:       dixon.hutchinson@lumen.com 20211207
+source:        LEVEL3
+
+route:         56.146.240.0/20
+descr:         CBS Cox Omaha
+origin:        AS22773
+remarks:       new ip block
+notify:        ip.admin@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       al.castillo@cox.com 20100106
+changed:       dixon.hutchinson@lumen.com 20211207
+source:        LEVEL3
+
+route:         205.144.146.0/24
+descr:         CBS Cox Omaha
+origin:        AS22773
+remarks:       new ip block
+notify:        ip.admin@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       scott.gates@cox.com 20100802
+changed:       dixon.hutchinson@lumen.com 20211207
+source:        LEVEL3
+
 route6:        2001:578::/30
 descr:         COX IPv6 Aggregate Space
 origin:        AS22773
