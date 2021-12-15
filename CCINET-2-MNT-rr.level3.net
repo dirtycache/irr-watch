@@ -104344,6 +104344,16 @@ changed:       scott.gates@cox.com 20100802
 changed:       dixon.hutchinson@lumen.com 20211207
 source:        LEVEL3
 
+route:         98.181.82.0/24
+descr:         PHX MRKT-VOIP-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #UNO000034388309 - JobID:199639
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211215
+source:        LEVEL3
+
 route6:        2001:578::/30
 descr:         COX IPv6 Aggregate Space
 origin:        AS22773
