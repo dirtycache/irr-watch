@@ -107119,3 +107119,13 @@ notify:        thebackbone@cox.com
 mnt-by:        CCINET-2-MNT
 changed:       cciatl-nocengineer@cox.com 20211215
 source:        LEVEL3
+
+route:         98.181.68.0/22
+descr:         MACN MRKT-DATA-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001244956 - JobID:199650
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211215
+source:        LEVEL3
