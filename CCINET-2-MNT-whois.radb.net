@@ -58943,16 +58943,6 @@ mnt-by:        CCINET-2-MNT
 changed:       otis.roberts@cox.com 20120329
 source:        LEVEL3
 
-route:         66.242.228.0/24
-descr:         BTNR CB TRANSIT
-origin:        AS22773
-remarks:       Change Ticket # 200867
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       andrew.parris@cox.com 20120402
-source:        LEVEL3
-
 route:         67.77.34.0/24
 descr:         LASV CB TRANSIT
 origin:        AS22773
