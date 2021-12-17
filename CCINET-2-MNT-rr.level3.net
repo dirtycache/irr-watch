@@ -68996,16 +68996,6 @@ mnt-by:        CCINET-2-MNT
 changed:       chris.rose@level3.com 20141008
 source:        LEVEL3
 
-route:         70.186.16.0/21
-descr:         KSCY KSCY-BGP-IN
-origin:        AS22773
-remarks:       Change Ticket ECR000000162149
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       clayton.haydel@cox.com 20141009
-source:        LEVEL3
-
 route:         184.184.120.0/21
 descr:         BTNR BTNR-BGP-IN
 origin:        AS22773
@@ -104392,6 +104382,16 @@ notify:        CCIATL-NOCEngineer@cox.com
 notify:        thebackbone@cox.com
 mnt-by:        CCINET-2-MNT
 changed:       cciatl-nocengineer@cox.com 20211217
+source:        LEVEL3
+
+route:         70.186.16.0/21
+descr:         JHSN-DATA-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket ECR000001245260
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       dara.davixs@cox.com 20211217
 source:        LEVEL3
 
 route6:        2001:578::/30
