@@ -107159,3 +107159,13 @@ notify:        thebackbone@cox.com
 mnt-by:        CCINET-2-MNT
 changed:       dara.davixs@cox.com 20211217
 source:        LEVEL3
+
+route:         158.51.226.0/23
+descr:         MTC1 CB TRANSIT ROUTE
+origin:        AS22773
+remarks:       Change Ticket #ECR000001247248 - JobID:200618
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211219
+source:        LEVEL3
