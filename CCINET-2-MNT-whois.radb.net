@@ -107179,3 +107179,13 @@ notify:        thebackbone@cox.com
 mnt-by:        CCINET-2-MNT
 changed:       cciatl-nocengineer@cox.com 20211221
 source:        LEVEL3
+
+route:         98.170.190.0/23
+descr:         SNDG MRKT-DATA-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001248249 - JobID:201059
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211221
+source:        LEVEL3
