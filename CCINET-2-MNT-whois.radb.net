@@ -63673,57 +63673,7 @@ mnt-by:        CCINET-2-MNT
 changed:       terrence.taylor@cox.com 20121202
 source:        LEVEL3
 
-route:         8.35.224.0/20
-descr:         PHX CB TRANSIT
-origin:        AS22773
-remarks:       Change Ticket # 46412
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       terrence.taylor@cox.com 20121202
-source:        LEVEL3
-
 route:         8.35.128.0/20
-descr:         PHX CB TRANSIT
-origin:        AS22773
-remarks:       Change Ticket # 46412
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       terrence.taylor@cox.com 20121202
-source:        LEVEL3
-
-route:         8.35.96.0/20
-descr:         PHX CB TRANSIT
-origin:        AS22773
-remarks:       Change Ticket # 46412
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       terrence.taylor@cox.com 20121202
-source:        LEVEL3
-
-route:         8.35.64.0/20
-descr:         PHX CB TRANSIT
-origin:        AS22773
-remarks:       Change Ticket # 46412
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       terrence.taylor@cox.com 20121202
-source:        LEVEL3
-
-route:         8.33.48.0/20
-descr:         PHX CB TRANSIT
-origin:        AS22773
-remarks:       Change Ticket # 46412
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       terrence.taylor@cox.com 20121202
-source:        LEVEL3
-
-route:         8.31.144.0/20
 descr:         PHX CB TRANSIT
 origin:        AS22773
 remarks:       Change Ticket # 46412
