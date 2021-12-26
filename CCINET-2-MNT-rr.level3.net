@@ -107056,6 +107056,16 @@ mnt-by:        CCINET-2-MNT
 changed:       starling.jones@cox.com 20211106
 source:        LEVEL3
 
+route6:        2600:370E:7000::/43
+descr:         Las Vegas CBS ROUTE
+origin:        AS22773
+remarks:       Change Ticket # ECR000001251119
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       starling.jones@cox.com 20211226
+source:        LEVEL3
+
 aut-num:       AS13364
 as-name:       CCINET-2
 descr:         CCI SD @Work

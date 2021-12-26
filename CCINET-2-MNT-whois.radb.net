@@ -107179,3 +107179,13 @@ notify:        thebackbone@cox.com
 mnt-by:        CCINET-2-MNT
 changed:       cciatl-nocengineer@cox.com 20211223
 source:        LEVEL3
+
+route6:        2600:370E:7000::/43
+descr:         Las Vegas CBS ROUTE
+origin:        AS22773
+remarks:       Change Ticket # ECR000001251119
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       starling.jones@cox.com 20211226
+source:        LEVEL3
