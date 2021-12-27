@@ -107189,3 +107189,13 @@ notify:        thebackbone@cox.com
 mnt-by:        CCINET-2-MNT
 changed:       starling.jones@cox.com 20211226
 source:        LEVEL3
+
+route:         98.170.188.0/23
+descr:         MTC1 MRKT-DATA-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001251075 - JobID:201861
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211227
+source:        LEVEL3
