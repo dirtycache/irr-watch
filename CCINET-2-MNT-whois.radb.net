@@ -103866,16 +103866,6 @@ mnt-by:        CCINET-2-MNT
 changed:       martin.kinsman@cox.com 20210817
 source:        LEVEL3
 
-route:         98.184.32.0/20
-descr:         MRKT-DATA-BUSINESS
-origin:        AS22773
-remarks:       Change Ticket # ECR000001161318
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       martin.kinsman@cox.com 20210817
-source:        LEVEL3
-
 route:         199.48.183.0/24
 descr:         PHX CB TRANSIT ROUTE
 origin:        AS22773
@@ -107198,4 +107188,14 @@ notify:        CCIATL-NOCEngineer@cox.com
 notify:        thebackbone@cox.com
 mnt-by:        CCINET-2-MNT
 changed:       cciatl-nocengineer@cox.com 20211227
+source:        LEVEL3
+
+route:         98.184.32.0/20
+descr:         PHX MRKT-DATA-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #UNO000034440618 - JobID:202553
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20211230
 source:        LEVEL3
