@@ -5899,7 +5899,6 @@ ip prefix-list NN permit 142.131.194.0/23
 ip prefix-list NN permit 142.202.184.0/24
 ip prefix-list NN permit 142.202.232.0/22
 ip prefix-list NN permit 142.202.232.0/24
-ip prefix-list NN permit 143.73.0.0/16
 ip prefix-list NN permit 143.116.15.0/24
 ip prefix-list NN permit 143.131.160.0/19
 ip prefix-list NN permit 143.192.0.0/16
