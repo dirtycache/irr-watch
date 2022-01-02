@@ -8350,7 +8350,6 @@ ip prefix-list NN permit 185.170.59.0/24
 ip prefix-list NN permit 185.173.244.0/24
 ip prefix-list NN permit 185.173.246.0/24
 ip prefix-list NN permit 185.177.116.0/24
-ip prefix-list NN permit 185.194.29.0/24
 ip prefix-list NN permit 185.197.193.0/24
 ip prefix-list NN permit 185.208.207.0/24
 ip prefix-list NN permit 185.213.150.0/24
