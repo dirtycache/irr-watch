@@ -103374,16 +103374,6 @@ mnt-by:        CCINET-2-MNT
 changed:       cciatl-nocengineer@cox.com 20211105
 source:        LEVEL3
 
-route:         85.237.80.0/22
-descr:         MRFD MRKT-VOIP-BUSINESS
-origin:        AS22773
-remarks:       Change Ticket #ECR000001221210 - JobID:180448
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       cciatl-nocengineer@cox.com 20211105
-source:        LEVEL3
-
 route:         85.237.72.0/21
 descr:         MRFD MRKT-VOIP-BUSINESS
 origin:        AS22773
@@ -103495,16 +103485,6 @@ changed:       cciatl-nocengineer@cox.com 20211105
 source:        LEVEL3
 
 route:         185.137.36.0/22
-descr:         MRFD MRKT-VOIP-BUSINESS
-origin:        AS22773
-remarks:       Change Ticket #ECR000001221210 - JobID:180448
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       cciatl-nocengineer@cox.com 20211105
-source:        LEVEL3
-
-route:         185.115.108.0/22
 descr:         MRFD MRKT-VOIP-BUSINESS
 origin:        AS22773
 remarks:       Change Ticket #ECR000001221210 - JobID:180448
