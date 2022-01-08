@@ -9904,7 +9904,6 @@ ip prefix-list NN permit 207.158.38.0/24
 ip prefix-list NN permit 207.158.52.0/24
 ip prefix-list NN permit 207.162.128.0/19
 ip prefix-list NN permit 207.162.153.0/24
-ip prefix-list NN permit 207.167.64.0/18
 ip prefix-list NN permit 207.168.128.0/19
 ip prefix-list NN permit 207.171.32.0/19
 ip prefix-list NN permit 207.171.232.0/23
