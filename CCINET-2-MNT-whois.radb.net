@@ -107189,3 +107189,13 @@ notify:        thebackbone@cox.com
 mnt-by:        CCINET-2-MNT
 changed:       gary.rhinehart@cox.com 20220110
 source:        LEVEL3
+
+route:         192.245.2.0/24
+descr:         OMAHA CBS ROUTE
+origin:        AS22773
+remarks:       Change Ticket # ECR000001250961
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       gary.rhinehart@cox.com 20220110
+source:        LEVEL3
