@@ -107139,3 +107139,53 @@ notify:        thebackbone@cox.com
 mnt-by:        CCINET-2-MNT
 changed:       cciatl-nocengineer@cox.com 20220110
 source:        LEVEL3
+
+route:         129.203.66.0/24
+descr:         Las Vegas CBS ROUTE
+origin:        AS22773
+remarks:       Change Ticket # ECR000001251119
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       gary.rhinehart@cox.com 20220110
+source:        LEVEL3
+
+route:         143.131.179.0/24
+descr:         Las Vegas CBS ROUTE
+origin:        AS22773
+remarks:       Change Ticket # ECR000001251119
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       gary.rhinehart@cox.com 20220110
+source:        LEVEL3
+
+route:         143.131.181.0/24
+descr:         Las Vegas CBS ROUTE
+origin:        AS22773
+remarks:       Change Ticket # ECR000001251119
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       gary.rhinehart@cox.com 20220110
+source:        LEVEL3
+
+route:         129.203.8.0/22
+descr:         Las Vegas CBS ROUTE
+origin:        AS22773
+remarks:       Change Ticket # ECR000001251119
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       gary.rhinehart@cox.com 20220110
+source:        LEVEL3
+
+route:         143.131.178.0/24
+descr:         Las Vegas CBS ROUTE
+origin:        AS22773
+remarks:       Change Ticket # ECR000001251119
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       gary.rhinehart@cox.com 20220110
+source:        LEVEL3
