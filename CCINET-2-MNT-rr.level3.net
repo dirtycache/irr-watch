@@ -104334,6 +104334,26 @@ mnt-by:        CCINET-2-MNT
 changed:       cciatl-nocengineer@cox.com 20211230
 source:        LEVEL3
 
+route:         45.154.205.0/24
+descr:         MTC1 CB TRANSIT ROUTE
+origin:        AS22773
+remarks:       Change Ticket #ECR000001253543 - JobID:205906
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20220110
+source:        LEVEL3
+
+route:         185.255.122.0/24
+descr:         MTC1 CB TRANSIT ROUTE
+origin:        AS22773
+remarks:       Change Ticket #ECR000001253543 - JobID:205906
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20220110
+source:        LEVEL3
+
 route6:        2001:578::/30
 descr:         COX IPv6 Aggregate Space
 origin:        AS22773
@@ -106984,6 +107004,16 @@ notify:        CCIATL-NOCEngineer@cox.com
 notify:        thebackbone@cox.com
 mnt-by:        CCINET-2-MNT
 changed:       starling.jones@cox.com 20211226
+source:        LEVEL3
+
+route6:        2A03:94E1::/32
+descr:         MTC1 CB TRANSIT ROUTE
+origin:        AS22773
+remarks:       Change Ticket #ECR000001253543 - JobID:205908
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20220110
 source:        LEVEL3
 
 aut-num:       AS13364
