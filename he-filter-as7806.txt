@@ -38245,7 +38245,6 @@ ip prefix-list NN permit 162.216.36.0/24
 ip prefix-list NN permit 162.216.52.0/24
 ip prefix-list NN permit 162.216.88.0/21
 ip prefix-list NN permit 162.216.95.0/24
-ip prefix-list NN permit 162.216.128.0/22
 ip prefix-list NN permit 162.216.136.0/21
 ip prefix-list NN permit 162.216.232.0/22
 ip prefix-list NN permit 162.216.236.0/22
