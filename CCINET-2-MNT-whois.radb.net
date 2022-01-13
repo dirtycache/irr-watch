@@ -107199,3 +107199,23 @@ notify:        thebackbone@cox.com
 mnt-by:        CCINET-2-MNT
 changed:       gary.rhinehart@cox.com 20220110
 source:        LEVEL3
+
+route:         70.185.84.0/24
+descr:         JHSN MRKT-DATA-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket # ECR000001260361
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20220113
+source:        LEVEL3
+
+route:         70.185.83.0/24
+descr:         JHSN MRKT-DATA-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket # ECR000001260361
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20220113
+source:        LEVEL3
