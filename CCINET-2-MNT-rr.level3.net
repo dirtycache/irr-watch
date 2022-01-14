@@ -104434,6 +104434,16 @@ mnt-by:        CCINET-2-MNT
 changed:       cciatl-nocengineer@cox.com 20220113
 source:        LEVEL3
 
+route:         199.16.240.0/22
+descr:         RSMT CB TRANSIT ROUTE
+origin:        AS22773
+remarks:       Change Ticket #ECR000001261366 - JobID:210870
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20220114
+source:        LEVEL3
+
 route6:        2001:578::/30
 descr:         COX IPv6 Aggregate Space
 origin:        AS22773
