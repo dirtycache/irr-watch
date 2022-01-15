@@ -107229,3 +107229,13 @@ notify:        thebackbone@cox.com
 mnt-by:        CCINET-2-MNT
 changed:       cciatl-nocengineer@cox.com 20220114
 source:        LEVEL3
+
+route:         205.220.132.0/24
+descr:         RSMT CB TRANSIT ROUTE
+origin:        AS22773
+remarks:       Change Ticket #ECR000001261931 - JobID:212126
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20220115
+source:        LEVEL3
