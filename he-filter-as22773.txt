@@ -9418,6 +9418,7 @@ ip prefix-list NN permit 205.214.248.0/22
 ip prefix-list NN permit 205.214.252.0/22
 ip prefix-list NN permit 205.218.1.0/24
 ip prefix-list NN permit 205.218.118.0/23
+ip prefix-list NN permit 205.220.132.0/24
 ip prefix-list NN permit 205.220.248.0/24
 ip prefix-list NN permit 205.228.0.0/18
 ip prefix-list NN permit 205.234.16.0/24
