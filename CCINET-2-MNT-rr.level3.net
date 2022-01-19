@@ -103014,16 +103014,6 @@ mnt-by:        CCINET-2-MNT
 changed:       starling.jones@cox.com 20211001
 source:        LEVEL3
 
-route:         154.61.160.0/20
-descr:         NOVA CBS ROUTE
-origin:        AS22773
-remarks:       Change Ticket #ECR000001198951
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       starling.jones@cox.com 20211001
-source:        LEVEL3
-
 route:         98.184.0.0/21
 descr:         LSVG MRKT-DATA-BUSINESS
 origin:        AS22773
