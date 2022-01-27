@@ -104514,6 +104514,26 @@ mnt-by:        CCINET-2-MNT
 changed:       cciatl-nocengineer@cox.com 20220126
 source:        LEVEL3
 
+route:         161.245.0.0/16
+descr:         TULS MRKT-DATA-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001270025 - JobID:229238
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20220127
+source:        LEVEL3
+
+route:         170.21.0.0/16
+descr:         TULS MRKT-DATA-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001270025 - JobID:229238
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20220127
+source:        LEVEL3
+
 route6:        2001:578::/30
 descr:         COX IPv6 Aggregate Space
 origin:        AS22773
