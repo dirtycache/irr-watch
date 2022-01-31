@@ -61584,16 +61584,6 @@ mnt-by:        CCINET-2-MNT
 changed:       andrew.parris@cox.com 20120720
 source:        LEVEL3
 
-route:         209.241.0.0/24
-descr:         RSMT CB TRANSIT
-origin:        AS22773
-remarks:       Change Ticket # 25576
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       ethan.makuch@cox.com 20120720
-source:        LEVEL3
-
 route:         207.115.235.0/24
 descr:         RSMT CB TRANSIT
 origin:        AS22773
@@ -61614,37 +61604,7 @@ mnt-by:        CCINET-2-MNT
 changed:       ethan.makuch@cox.com 20120720
 source:        LEVEL3
 
-route:         207.175.132.0/24
-descr:         RSMT CB TRANSIT
-origin:        AS22773
-remarks:       Change Ticket # 25576
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       ethan.makuch@cox.com 20120720
-source:        LEVEL3
-
 route:         216.202.92.0/23
-descr:         RSMT CB TRANSIT
-origin:        AS22773
-remarks:       Change Ticket # 25576
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       ethan.makuch@cox.com 20120720
-source:        LEVEL3
-
-route:         209.241.234.0/23
-descr:         RSMT CB TRANSIT
-origin:        AS22773
-remarks:       Change Ticket # 25576
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       ethan.makuch@cox.com 20120720
-source:        LEVEL3
-
-route:         209.241.158.0/24
 descr:         RSMT CB TRANSIT
 origin:        AS22773
 remarks:       Change Ticket # 25576
