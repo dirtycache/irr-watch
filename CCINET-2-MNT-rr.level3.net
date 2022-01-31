@@ -56504,16 +56504,6 @@ mnt-by:        CCINET-2-MNT
 changed:       andrew.parris@cox.com 20120110
 source:        LEVEL3
 
-route:         216.229.0.0/19
-descr:         KSCY CB TRANSIT
-origin:        AS22773
-remarks:       Change Ticket # 187293
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       andrew.parris@cox.com 20120110
-source:        LEVEL3
-
 route:         216.243.228.0/24
 descr:         KSCY CB TRANSIT
 origin:        AS22773
