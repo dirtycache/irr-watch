@@ -19,7 +19,7 @@ admin-c:    Jim Coleman
 tech-c:     Frank Diggs
 upd-to:     netadmin@jecnet.net
 mnt-nfy:    netadmin@jecnet.net
-auth:       CRYPT-PW u7aDxF.5ejs.M  #set by Merit RADb support 20200106 #20:07:55Z
+auth:       CRYPT-PW HIDDENCRYPTPW  #set by Merit RADb support 20200106 #20:07:55Z
 mnt-by:     MAINT-AS395439
 changed:    do-not-reply@merit.edu 20200106  #20:07:55Z
 source:     RADB

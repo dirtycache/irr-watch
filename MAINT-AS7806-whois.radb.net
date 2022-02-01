@@ -271,7 +271,7 @@ admin-c:    NOC Network Operations Center
 tech-c:     NOC Network Operations Center
 upd-to:     noc-radb@binary.net
 mnt-nfy:    noc-radb@binary.net
-auth:       CRYPT-PW SIfI01CPKfcqU
+auth:       CRYPT-PW HIDDENCRYPTPW
 notify:     noc-radb@binary.net
 mnt-by:     MAINT-AS7806
 changed:    noc-radb@binary.net 20210428  #15:58:19Z
