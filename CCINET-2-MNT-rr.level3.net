@@ -72039,16 +72039,6 @@ mnt-by:        CCINET-2-MNT
 changed:       Dennis.Carrasquillo@cox.com 20150712
 source:        LEVEL3
 
-route:         192.122.0.0/24
-descr:         PROV PROV-DATA-BUSINESS
-origin:        AS22773
-remarks:       Change Ticket ECR000000210815
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       Matthew.Cook@cox.com 20150713
-source:        LEVEL3
-
 route:         184.180.96.0/20
 descr:         BTNR BTNR-DATA-RESIDENTIAL
 origin:        AS22773
