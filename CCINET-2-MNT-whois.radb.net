@@ -88116,16 +88116,6 @@ mnt-by:        CCINET-2-MNT
 changed:       veronica.jenkins@cox.com 20180818
 source:        LEVEL3
 
-route6:        2A0D:3480:14FD::/48
-descr:         OC CBS BGP
-origin:        AS22773
-remarks:       Change Ticket # ECR000000515280
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       veronica.jenkins@cox.com 20180825
-source:        LEVEL3
-
 route:         12.132.213.0/24
 descr:         PHX CBS ROUTE
 origin:        AS22773

@@ -106223,16 +106223,6 @@ mnt-by:        CCINET-2-MNT
 changed:       brian.kallinen@cox.com 20180611
 source:        LEVEL3
 
-route6:        2A0D:3480:14FD::/48
-descr:         OC CBS BGP
-origin:        AS22773
-remarks:       Change Ticket # ECR000000515280
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       veronica.jenkins@cox.com 20180825
-source:        LEVEL3
-
 route6:        2620:137:8000::/44
 descr:         OKC CBS TRANSIT
 origin:        AS22773
