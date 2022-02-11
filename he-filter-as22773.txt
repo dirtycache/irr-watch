@@ -8077,7 +8077,6 @@ ip prefix-list NN permit 192.112.84.0/24
 ip prefix-list NN permit 192.112.150.0/24
 ip prefix-list NN permit 192.112.183.0/24
 ip prefix-list NN permit 192.119.32.0/20
-ip prefix-list NN permit 192.122.0.0/24
 ip prefix-list NN permit 192.122.178.0/24
 ip prefix-list NN permit 192.122.211.0/24
 ip prefix-list NN permit 192.124.129.0/24
