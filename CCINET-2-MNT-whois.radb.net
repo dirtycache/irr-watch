@@ -107249,3 +107249,13 @@ notify:        thebackbone@cox.com
 mnt-by:        CCINET-2-MNT
 changed:       starling.jones@cox.com 20220130
 source:        LEVEL3
+
+route:         98.168.80.0/20
+descr:         PHX MRKT-DATA-BUSINESS
+origin:        AS22773
+remarks:       Change Ticket #ECR000001280670 - JobID:251416
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20220214
+source:        LEVEL3
