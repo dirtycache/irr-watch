@@ -4281,6 +4281,7 @@ ip prefix-list NN permit 98.166.0.0/16
 ip prefix-list NN permit 98.167.0.0/17
 ip prefix-list NN permit 98.167.128.0/17
 ip prefix-list NN permit 98.168.0.0/18
+ip prefix-list NN permit 98.168.80.0/20
 ip prefix-list NN permit 98.168.128.0/18
 ip prefix-list NN permit 98.168.192.0/18
 ip prefix-list NN permit 98.169.0.0/16
