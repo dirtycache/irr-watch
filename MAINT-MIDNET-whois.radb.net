@@ -1,28 +1,18 @@
 Warning: RIPE flags used with a traditional server.
-as-set:         AS16970:AS-MIDNET-ALL
-descr:          MIDnet originate + transit
-members:        AS16970:AS-MIDNET
-members:        AS16970:AS-MIDNET-TRANSIT
-remarks:        Level3 members: NTTCOM::AS16970:AS-MIDNET
-remarks:        Level3 members: NTTCOM::AS16970:AS-MIDNET-TRANSIT
+mntner:         MAINT-MIDNET
+descr:          MIDnet maintainer AS16970
 admin-c:        IPADM882-ARIN
 tech-c:         IPADM882-ARIN
+upd-to:         ipadmin@mid.net
+mnt-nfy:        ipadmin@mid.net
+auth:           MD5-PW DummyValue  # Filtered for security
+auth:           PGPKEY-A58A41C6
+auth:           PGPKEY-54AF4ACF
 notify:         ipadmin@mid.net
 mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20211125
+changed:        adam.korab@mid.net 20211117
 source:         NTTCOM
-last-modified:  2022-02-01T23:07:39Z
-
-as-set:         AS16970:AS-MIDNET
-descr:          MIDnet originate
-members:        AS16970
-admin-c:        IPADM882-ARIN
-tech-c:         IPADM882-ARIN
-notify:         ipadmin@sixpackets.com
-mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20211125
-source:         NTTCOM
-last-modified:  2022-02-01T23:07:39Z
+last-modified:  2022-02-17T00:38:55Z
 
 aut-num:        AS16970
 as-name:        ASN-MIDNET
@@ -42,105 +32,7 @@ notify:         ipadmin@mid.net
 mnt-by:         MAINT-MIDNET
 changed:        adam.korab@mid.net 20211115
 source:         NTTCOM
-last-modified:  2022-02-01T23:07:39Z
-
-mntner:         MAINT-MIDNET
-descr:          MIDnet maintainer AS16970
-admin-c:        IPADM882-ARIN
-tech-c:         IPADM882-ARIN
-upd-to:         ipadmin@mid.net
-mnt-nfy:        ipadmin@mid.net
-auth:           MD5-PW DummyValue  # Filtered for security
-auth:           PGPKEY-A58A41C6
-auth:           PGPKEY-54AF4ACF
-notify:         ipadmin@mid.net
-mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20211117
-source:         NTTCOM
-last-modified:  2022-02-01T23:07:39Z
-
-person:         MIDnet IP Admin
-address:        594 Sawdust Rd #319
-address:        The Woodlands, TX 77380
-phone:          +1-281-846-3838
-e-mail:         ipadmin@mid.net
-nic-hdl:        IPADM882-ARIN
-mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20211115
-source:         NTTCOM
-last-modified:  2022-02-01T23:07:39Z
-
-route6:         2602:800:1000::/44
-descr:          MIDnet
-origin:         AS16970
-notify:         ipadmin@mid.net
-mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20211115
-source:         NTTCOM
-last-modified:  2022-02-01T23:07:39Z
-
-route:          23.169.240.0/24
-descr:          NET-23-169-240-0-1
-origin:         AS16970
-notify:         ipadmin@mid.net
-mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20211115
-source:         NTTCOM
-last-modified:  2022-02-01T23:07:39Z
-
-route:          23.169.241.0/24
-descr:          NET-23-169-241-0-1
-origin:         AS16970
-notify:         ipadmin@mid.net
-mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20211115
-source:         NTTCOM
-last-modified:  2022-02-01T23:07:39Z
-
-route:          23.169.242.0/24
-descr:          NET-23-169-242-0-1
-origin:         AS16970
-notify:         ipadmin@mid.net
-mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20211115
-source:         NTTCOM
-last-modified:  2022-02-01T23:07:39Z
-
-route:          23.169.243.0/24
-descr:          NET-23-169-243-0-1
-origin:         AS16970
-notify:         ipadmin@mid.net
-mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20211115
-source:         NTTCOM
-last-modified:  2022-02-01T23:07:39Z
-
-route:          23.169.244.0/24
-descr:          NET-23-169-244-0-1
-origin:         AS16970
-notify:         ipadmin@mid.net
-mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20211115
-source:         NTTCOM
-last-modified:  2022-02-01T23:07:39Z
-
-route:          23.169.245.0/24
-descr:          NET-23-169-245-0-1
-origin:         AS16970
-notify:         ipadmin@mid.net
-mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20211115
-source:         NTTCOM
-last-modified:  2022-02-01T23:07:39Z
-
-route:          64.40.23.0/24
-descr:          NET-64-40-23-0-1
-origin:         AS16970
-notify:         ipadmin@mid.net
-mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20211115
-source:         NTTCOM
-last-modified:  2022-02-01T23:07:39Z
+last-modified:  2022-02-17T00:38:55Z
 
 key-cert:       PGPKEY-54AF4ACF
 method:         PGP
@@ -200,7 +92,104 @@ certif:         -----BEGIN PGP PUBLIC KEY BLOCK-----
 mnt-by:         MAINT-MIDNET
 changed:        adam.korab@mid.net 20211115
 source:         NTTCOM
-last-modified:  2022-02-01T23:07:47Z
+last-modified:  2022-02-17T00:38:55Z
+
+route:          23.169.240.0/24
+descr:          NET-23-169-240-0-1
+origin:         AS16970
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20211115
+source:         NTTCOM
+last-modified:  2022-02-17T00:38:55Z
+
+route:          23.169.241.0/24
+descr:          NET-23-169-241-0-1
+origin:         AS16970
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20211115
+source:         NTTCOM
+last-modified:  2022-02-17T00:38:55Z
+
+route:          23.169.242.0/24
+descr:          NET-23-169-242-0-1
+origin:         AS16970
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20211115
+source:         NTTCOM
+last-modified:  2022-02-17T00:38:55Z
+
+route:          23.169.243.0/24
+descr:          NET-23-169-243-0-1
+origin:         AS16970
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20211115
+source:         NTTCOM
+last-modified:  2022-02-17T00:38:55Z
+
+route:          23.169.244.0/24
+descr:          NET-23-169-244-0-1
+origin:         AS16970
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20211115
+source:         NTTCOM
+last-modified:  2022-02-17T00:38:55Z
+
+route:          23.169.245.0/24
+descr:          NET-23-169-245-0-1
+origin:         AS16970
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20211115
+source:         NTTCOM
+last-modified:  2022-02-17T00:38:55Z
+
+route:          64.40.23.0/24
+descr:          NET-64-40-23-0-1
+origin:         AS16970
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20211115
+source:         NTTCOM
+last-modified:  2022-02-17T00:38:55Z
+
+route6:         2602:800:1000::/44
+descr:          MIDnet
+origin:         AS16970
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20211115
+source:         NTTCOM
+last-modified:  2022-02-17T00:38:55Z
+
+as-set:         AS16970:AS-MIDNET-ALL
+descr:          MIDnet originate + transit
+members:        AS16970:AS-MIDNET
+members:        AS16970:AS-MIDNET-TRANSIT
+remarks:        Level3 members: NTTCOM::AS16970:AS-MIDNET
+remarks:        Level3 members: NTTCOM::AS16970:AS-MIDNET-TRANSIT
+admin-c:        IPADM882-ARIN
+tech-c:         IPADM882-ARIN
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20211125
+source:         NTTCOM
+last-modified:  2022-02-17T00:38:55Z
+
+as-set:         AS16970:AS-MIDNET
+descr:          MIDnet originate
+members:        AS16970
+admin-c:        IPADM882-ARIN
+tech-c:         IPADM882-ARIN
+notify:         ipadmin@sixpackets.com
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20211125
+source:         NTTCOM
+last-modified:  2022-02-17T00:38:55Z
 
 as-set:         AS16970:AS-MIDNET-TRANSIT
 descr:          MIDnet transit only
@@ -208,14 +197,27 @@ members:        AS14296
 members:        AS40139:AS-JTECH
 members:        AS397677:AS-SIXPACKETS
 members:        AS398883
+members:        AS-BINARYNET
 remarks:        Level3 members: ARIN::AS14296
 remarks:        Level3 members: RADB::AS40139:AS-JTECH
 remarks:        Level3 members: NTTCOM::AS397677:AS-SIXPACKETS
 remarks:        Level3 members: ARIN::AS398883
+remarks:        Level3 members: RADB::AS-BINARYNET
 admin-c:        IPADM882-ARIN
 tech-c:         IPADM882-ARIN
 notify:         ipadmin@mid.net
 mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20220201
+changed:        adam.korab@mid.net 20220216
 source:         NTTCOM
-last-modified:  2022-02-01T23:12:39Z
+last-modified:  2022-02-17T00:38:55Z
+
+person:         MIDnet IP Admin
+address:        594 Sawdust Rd #319
+address:        The Woodlands, TX 77380
+phone:          +1-281-846-3838
+e-mail:         ipadmin@mid.net
+nic-hdl:        IPADM882-ARIN
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20211115
+source:         NTTCOM
+last-modified:  2022-02-17T00:39:03Z
