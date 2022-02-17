@@ -104534,6 +104534,66 @@ mnt-by:        CCINET-2-MNT
 changed:       cciatl-nocengineer@cox.com 20220216
 source:        LEVEL3
 
+route:         216.127.116.0/22
+descr:         Las Vegas CBS ROUTE
+origin:        AS22773
+remarks:       Change Ticket # ECR000001284091
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       starling.jones@cox.com 20220217
+source:        LEVEL3
+
+route:         208.95.108.0/22
+descr:         Las Vegas CBS ROUTE
+origin:        AS22773
+remarks:       Change Ticket # ECR000001284091
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       starling.jones@cox.com 20220217
+source:        LEVEL3
+
+route:         74.212.140.0/22
+descr:         Las Vegas CBS ROUTE
+origin:        AS22773
+remarks:       Change Ticket # ECR000001284091
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       starling.jones@cox.com 20220217
+source:        LEVEL3
+
+route:         74.212.128.0/21
+descr:         Las Vegas CBS ROUTE
+origin:        AS22773
+remarks:       Change Ticket # ECR000001284091
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       starling.jones@cox.com 20220217
+source:        LEVEL3
+
+route:         74.113.216.0/21
+descr:         Las Vegas CBS ROUTE
+origin:        AS22773
+remarks:       Change Ticket # ECR000001284091
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       starling.jones@cox.com 20220217
+source:        LEVEL3
+
+route:         69.38.208.0/20
+descr:         Las Vegas CBS ROUTE
+origin:        AS22773
+remarks:       Change Ticket # ECR000001284091
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       starling.jones@cox.com 20220217
+source:        LEVEL3
+
 route6:        2001:578::/30
 descr:         COX IPv6 Aggregate Space
 origin:        AS22773
