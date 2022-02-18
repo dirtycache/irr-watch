@@ -214,6 +214,22 @@ changed:        noc-radb@binary.net 20210428  #14:15:05Z
 source:         RADB
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
+route:          216.229.21.0/24
+origin:         AS7806
+descr:          NET-216-229-21-0-1
+mnt-by:         MAINT-AS7806
+changed:        adam.korab@sixpackets.com 20220218
+source:         RADB
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.22.0/24
+origin:         AS7806
+descr:          NET-216-229-21-0-1
+mnt-by:         MAINT-AS7806
+changed:        adam.korab@sixpackets.com 20220218
+source:         RADB
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
 route:          216.229.23.0/24
 origin:         AS7806
 descr:          Binary Net, LLC
@@ -259,6 +275,14 @@ origin:         AS7806
 descr:          Binary Net, LLC
 mnt-by:         MAINT-AS7806
 changed:        noc-radb@binary.net 20210428  #14:06:13Z
+source:         RADB
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.29.0/24
+origin:         AS7806
+descr:          NET-216-229-21-0-1
+mnt-by:         MAINT-AS7806
+changed:        adam.korab@sixpackets.com 20220218
 source:         RADB
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
