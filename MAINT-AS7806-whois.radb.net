@@ -265,18 +265,6 @@ mnt-by:     MAINT-AS7806
 changed:    noc-radb@binary.net 20210428  #15:54:54Z
 source:     RADB
 
-mntner:     MAINT-AS7806
-descr:      Binary Net, LLC
-admin-c:    NOC Network Operations Center
-tech-c:     NOC Network Operations Center
-upd-to:     noc-radb@binary.net
-mnt-nfy:    noc-radb@binary.net
-auth:       CRYPT-PW HIDDENCRYPTPW
-notify:     noc-radb@binary.net
-mnt-by:     MAINT-AS7806
-changed:    noc-radb@binary.net 20210428  #15:58:19Z
-source:     RADB
-
 as-set:     AS-BINARYNET
 descr:      Binary Net's ASNs
 members:    AS7806, AS7806:AS-TRANSIT
@@ -376,4 +364,20 @@ tech-c:     NOC Network Operations Center
 notify:     noc-radb@binary.net
 mnt-by:     MAINT-AS7806
 changed:    noc-radb@binary.net 20211124  #22:38:59Z
+source:     RADB
+
+mntner:     MAINT-AS7806
+descr:      Binary Net, LLC
+admin-c:    NOC Network Operations Center
+tech-c:     NOC Network Operations Center
+tech-c:     IPADM835-ARIN
+mnt-nfy:    noc-radb@binary.net
+mnt-nfy:    ipadmin@sixpackets.com
+upd-to:     noc-radb@binary.net
+upd-to:     ipadmin@sixpackets.com
+auth:       CRYPT-PW HIDDENCRYPTPW
+notify:     noc-radb@binary.net
+notify:     ipadmin@sixpackets.com
+mnt-by:     MAINT-AS7806
+changed:    adam@binary.net 20220218
 source:     RADB
