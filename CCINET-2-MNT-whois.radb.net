@@ -54123,16 +54123,6 @@ mnt-by:        CCINET-2-MNT
 changed:       eric.kilpatrick@cox.com 20110915
 source:        LEVEL3
 
-route:         64.63.128.0/18
-descr:         RSMTDSRJ01 CB TRANSIT
-origin:        AS22773
-remarks:       Change Ticket # 171963
-notify:        CCIATL-NOCEngineer@cox.com
-notify:        thebackbone@cox.com
-mnt-by:        CCINET-2-MNT
-changed:       eric.kilpatrick@cox.com 20110915
-source:        LEVEL3
-
 route:         64.63.0.0/24
 descr:         RSMTDSRJ01 CB TRANSIT
 origin:        AS22773
