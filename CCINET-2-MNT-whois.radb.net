@@ -107389,3 +107389,13 @@ notify:        thebackbone@cox.com
 mnt-by:        CCINET-2-MNT
 changed:       cciatl-nocengineer@cox.com 20220221
 source:        LEVEL3
+
+route:         165.140.4.0/22
+descr:         MRFD CB TRANSIT ROUTE
+origin:        AS22773
+remarks:       Change Ticket #ECR000001284917 - JobID:259612
+notify:        CCIATL-NOCEngineer@cox.com
+notify:        thebackbone@cox.com
+mnt-by:        CCINET-2-MNT
+changed:       cciatl-nocengineer@cox.com 20220222
+source:        LEVEL3
