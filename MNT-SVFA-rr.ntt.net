@@ -1,0 +1,62 @@
+route:          104.36.227.0/24
+origin:         AS14296
+descr:          Harris County Emergency Services District #7
+                656 E Louetta Rd
+                Spring TX 77373
+admin-c:        BURKE152-ARIN
+tech-c:         BURKE152-ARIN
+mnt-by:         MNT-SVFA
+created:        2022-01-30T03:01:49Z
+last-modified:  2022-01-30T03:01:49Z
+source:         ARIN
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          104.36.227.0/24
+origin:         AS33662
+descr:          Harris County Emergency Services District #7
+                656 E Louetta Rd
+                Spring TX 77373
+mnt-by:         MNT-SVFA
+source:         ARIN
+tech-c:         BURKE152-ARIN
+admin-c:        BURKE152-ARIN
+created:        2020-09-27T20:52:10Z
+last-modified:  2020-09-29T15:35:40Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route6:         2602:80e:8000::/44
+origin:         AS14296
+descr:          Harris County Emergency Services District #7
+                656 E Louetta Rd
+                Spring TX 77373
+admin-c:        BURKE152-ARIN
+tech-c:         BURKE152-ARIN
+mnt-by:         MNT-SVFA
+created:        2022-01-30T03:02:29Z
+last-modified:  2022-01-30T03:02:29Z
+source:         ARIN
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+aut-num:        AS14296
+as-name:        AS-SPRINGFD
+descr:          Harris County Emergency Services District No. 7
+import:         from AS14296:AS-PEERS accept ANY AND NOT {0.0.0.0/0}
+export:         to AS14296:AS-PEERS announce AS14296
+admin-c:        BURKE152-ARIN
+tech-c:         BURKE152-ARIN
+mnt-by:         MNT-SVFA
+created:        2022-01-30T03:00:24Z
+last-modified:  2022-01-30T03:00:24Z
+source:         ARIN
+
+as-set:         AS14296:AS-PEERS
+descr:          Harris County Emergency Services District No. 7
+members:        AS33662,AS16970
+admin-c:        BURKE152-ARIN
+tech-c:         BURKE152-ARIN
+mnt-by:         MNT-SVFA
+created:        2022-01-30T02:57:26Z
+last-modified:  2022-01-30T02:57:26Z
+source:         ARIN
+
+
