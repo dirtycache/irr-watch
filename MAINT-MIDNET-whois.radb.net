@@ -139,15 +139,6 @@ changed:        adam.korab@mid.net 20211115
 source:         NTTCOM
 last-modified:  2022-02-17T00:38:55Z
 
-route:          23.169.245.0/24
-descr:          NET-23-169-245-0-1
-origin:         AS16970
-notify:         ipadmin@mid.net
-mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20211115
-source:         NTTCOM
-last-modified:  2022-02-17T00:38:55Z
-
 route:          64.40.23.0/24
 descr:          NET-64-40-23-0-1
 origin:         AS16970
@@ -221,3 +212,12 @@ mnt-by:         MAINT-MIDNET
 changed:        adam.korab@mid.net 20211115
 source:         NTTCOM
 last-modified:  2022-02-17T00:39:03Z
+
+route:          23.169.245.0/24
+descr:          NET-23-169-245-0-1
+origin:         AS14296
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20220223
+source:         NTTCOM
+last-modified:  2022-02-23T16:17:37Z
