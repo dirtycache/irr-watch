@@ -43,10 +43,10 @@ source:        NTTCOM
 
 route:         23.169.245.0/24
 descr:         NET-23-169-245-0-1
-origin:        AS16970
+origin:        AS14296
 notify:        ipadmin@mid.net
 mnt-by:        MAINT-MIDNET
-changed:       adam.korab@mid.net 20211115
+changed:       adam.korab@mid.net 20220223
 source:        NTTCOM
 
 route:         64.40.23.0/24
