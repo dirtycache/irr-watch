@@ -56,4 +56,15 @@ created:        2022-01-30T02:57:26Z
 last-modified:  2022-01-30T02:57:26Z
 source:         ARIN
 
+as-set:         AS-SPRINGFD
+descr:          656 E Louetta Rd
+                Spring TX 77373
+members:        AS14296
+admin-c:        BURKE152-ARIN
+tech-c:         BURKE152-ARIN
+mnt-by:         MNT-SVFA
+created:        2022-02-23T16:40:30Z
+last-modified:  2022-02-23T16:40:30Z
+source:         ARIN
+
 
