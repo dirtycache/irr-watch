@@ -49,4 +49,13 @@ tech-c:        BURKE152-ARIN
 mnt-by:        MNT-SVFA
 source:        ARIN
 
+as-set:        AS-SPRINGFD
+descr:         656 E Louetta Rd
+               Spring TX 77373
+members:       AS14296
+admin-c:       BURKE152-ARIN
+tech-c:        BURKE152-ARIN
+mnt-by:        MNT-SVFA
+source:        ARIN
+
 
