@@ -776,6 +776,15 @@ changed:       swulf@pslightwave.com 20201207
 source:        NTTCOM
 
 route:         172.86.237.0/24
+descr:         FBCNET-24
+origin:        AS393535
+remarks:       Proxy object for Fort Bend County by PS Lightwave
+notify:        netops@pslightwave.com
+mnt-by:        MAINT-PSLIGHTWAVE
+changed:       tcoronado@pslightwave.com
+source:        NTTCOM
+
+route:         172.86.237.0/24
 descr:         FBCNET-NET-01
 origin:        AS3935335
 remarks:       Proxy for Fort Bend County by PS Lightwave

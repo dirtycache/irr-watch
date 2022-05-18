@@ -1799,3 +1799,13 @@ e-mail:         swulf@pslightwave.com
 mnt-by:         MAINT-PSLIGHTWAVE
 changed:        kpack@us.ntt.net 20190926
 source:         NTTCOM
+
+route:          172.86.237.0/24
+descr:          FBCNET-24
+origin:         AS393535
+remarks:        Proxy object for Fort Bend County by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        tcoronado@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-05-12T15:21:49Z
