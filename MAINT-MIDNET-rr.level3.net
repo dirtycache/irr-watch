@@ -3,10 +3,10 @@
 
 route:         23.169.240.0/24
 descr:         NET-23-169-240-0-1
-origin:        AS16970
+origin:        AS32824
 notify:        ipadmin@mid.net
 mnt-by:        MAINT-MIDNET
-changed:       adam.korab@mid.net 20211115
+changed:       adam.korab@mid.net 20220515
 source:        NTTCOM
 
 route:         23.169.241.0/24
@@ -124,11 +124,13 @@ source:        NTTCOM
 as-set:        AS16970:AS-MIDNET-TRANSIT
 descr:         MIDnet transit only
 members:       AS14296
+members:       AS32824
 members:       AS40139:AS-JTECH
 members:       AS397677:AS-SIXPACKETS
 members:       AS398883
 members:       AS-BINARYNET
 remarks:       Level3 members: ARIN::AS14296
+remarks:       Level3 members: NTTCOM::AS32824
 remarks:       Level3 members: RADB::AS40139:AS-JTECH
 remarks:       Level3 members: NTTCOM::AS397677:AS-SIXPACKETS
 remarks:       Level3 members: ARIN::AS398883
@@ -137,7 +139,7 @@ admin-c:       IPADM882-ARIN
 tech-c:        IPADM882-ARIN
 notify:        ipadmin@mid.net
 mnt-by:        MAINT-MIDNET
-changed:       adam.korab@mid.net 20220216
+changed:       adam.korab@mid.net 20220515
 source:        NTTCOM
 
 
