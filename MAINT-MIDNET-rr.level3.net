@@ -1,0 +1,145 @@
+
+% RIPEdb(3.0.0a13) with ISI RPSL extensions
+
+route:         23.169.240.0/24
+descr:         NET-23-169-240-0-1
+origin:        AS32824
+notify:        ipadmin@mid.net
+mnt-by:        MAINT-MIDNET
+changed:       adam.korab@mid.net 20220515
+source:        NTTCOM
+
+route:         23.169.241.0/24
+descr:         NET-23-169-241-0-1
+origin:        AS16970
+notify:        ipadmin@mid.net
+mnt-by:        MAINT-MIDNET
+changed:       adam.korab@mid.net 20211115
+source:        NTTCOM
+
+route:         23.169.242.0/24
+descr:         NET-23-169-242-0-1
+origin:        AS16970
+notify:        ipadmin@mid.net
+mnt-by:        MAINT-MIDNET
+changed:       adam.korab@mid.net 20211115
+source:        NTTCOM
+
+route:         23.169.243.0/24
+descr:         NET-23-169-243-0-1
+origin:        AS16970
+notify:        ipadmin@mid.net
+mnt-by:        MAINT-MIDNET
+changed:       adam.korab@mid.net 20211115
+source:        NTTCOM
+
+route:         23.169.244.0/24
+descr:         NET-23-169-244-0-1
+origin:        AS16970
+notify:        ipadmin@mid.net
+mnt-by:        MAINT-MIDNET
+changed:       adam.korab@mid.net 20211115
+source:        NTTCOM
+
+route:         23.169.245.0/24
+descr:         NET-23-169-245-0-1
+origin:        AS14296
+notify:        ipadmin@mid.net
+mnt-by:        MAINT-MIDNET
+changed:       adam.korab@mid.net 20220223
+source:        NTTCOM
+
+route:         64.40.23.0/24
+descr:         NET-64-40-23-0-1
+origin:        AS16970
+notify:        ipadmin@mid.net
+mnt-by:        MAINT-MIDNET
+changed:       adam.korab@mid.net 20211115
+source:        NTTCOM
+
+route6:        2602:800:1000::/44
+descr:         MIDnet
+origin:        AS16970
+notify:        ipadmin@mid.net
+mnt-by:        MAINT-MIDNET
+changed:       adam.korab@mid.net 20211115
+source:        NTTCOM
+
+aut-num:       AS16970
+as-name:       ASN-MIDNET
+descr:         MIDnet
+admin-c:       IPADM882-ARIN
+tech-c:        IPADM882-ARIN
+import:        from AS174      accept ANY AND NOT {0.0.0.0/0}
+import:        from AS2914     accept ANY AND NOT {0.0.0.0/0}
+import:        from AS11042    accept ANY AND NOT {0.0.0.0/0}
+import:        from AS394437   accept ANY AND NOT {0.0.0.0/0}
+export:        to AS174        announce AS16970:AS-MIDNET-ALL
+export:        to AS2914       announce AS16970:AS-MIDNET-ALL
+export:        to AS11042      announce AS16970:AS-MIDNET-ALL
+export:        to AS394437     announce AS16970:AS-MIDNET-ALL
+export:        to AS ANY       announce AS16970:AS-MIDNET
+notify:        ipadmin@mid.net
+mnt-by:        MAINT-MIDNET
+changed:       adam.korab@mid.net 20211115
+source:        NTTCOM
+
+mntner:        MAINT-MIDNET
+descr:         MIDnet maintainer AS16970
+admin-c:       IPADM882-ARIN
+tech-c:        IPADM882-ARIN
+upd-to:        ipadmin@mid.net
+mnt-nfy:       ipadmin@mid.net
+auth:          MD5-PW DummyValue  # Filtered for security
+auth:          PGPKEY-A58A41C6
+auth:          PGPKEY-54AF4ACF
+notify:        ipadmin@mid.net
+mnt-by:        MAINT-MIDNET
+changed:       adam.korab@mid.net 20211117
+source:        NTTCOM
+
+as-set:        AS16970:AS-MIDNET
+descr:         MIDnet originate
+members:       AS16970
+admin-c:       IPADM882-ARIN
+tech-c:        IPADM882-ARIN
+notify:        ipadmin@sixpackets.com
+mnt-by:        MAINT-MIDNET
+changed:       adam.korab@mid.net 20211125
+source:        NTTCOM
+
+as-set:        AS16970:AS-MIDNET-ALL
+descr:         MIDnet originate + transit
+members:       AS16970:AS-MIDNET
+members:       AS16970:AS-MIDNET-TRANSIT
+remarks:       Level3 members: NTTCOM::AS16970:AS-MIDNET
+remarks:       Level3 members: NTTCOM::AS16970:AS-MIDNET-TRANSIT
+admin-c:       IPADM882-ARIN
+tech-c:        IPADM882-ARIN
+notify:        ipadmin@mid.net
+mnt-by:        MAINT-MIDNET
+changed:       adam.korab@mid.net 20211125
+source:        NTTCOM
+
+as-set:        AS16970:AS-MIDNET-TRANSIT
+descr:         MIDnet transit only
+members:       AS14296
+members:       AS32824
+members:       AS40139:AS-JTECH
+members:       AS397677:AS-SIXPACKETS
+members:       AS398883
+members:       AS-BINARYNET
+remarks:       Level3 members: ARIN::AS14296
+remarks:       Level3 members: NTTCOM::AS32824
+remarks:       Level3 members: RADB::AS40139:AS-JTECH
+remarks:       Level3 members: NTTCOM::AS397677:AS-SIXPACKETS
+remarks:       Level3 members: ARIN::AS398883
+remarks:       Level3 members: RADB::AS-BINARYNET
+admin-c:       IPADM882-ARIN
+tech-c:        IPADM882-ARIN
+notify:        ipadmin@mid.net
+mnt-by:        MAINT-MIDNET
+changed:       adam.korab@mid.net 20220515
+source:        NTTCOM
+
+
