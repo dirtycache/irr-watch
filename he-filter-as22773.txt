@@ -691,6 +691,7 @@ ip prefix-list NN permit 38.9.243.0/24
 ip prefix-list NN permit 38.9.244.0/24
 ip prefix-list NN permit 38.9.245.0/24
 ip prefix-list NN permit 38.44.192.0/19
+ip prefix-list NN permit 38.65.84.0/22
 ip prefix-list NN permit 38.65.216.0/23
 ip prefix-list NN permit 38.66.0.0/20
 ip prefix-list NN permit 38.68.16.0/24
