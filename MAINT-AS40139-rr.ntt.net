@@ -250,15 +250,15 @@ source:         RADB
 
 as-set:         AS40139:AS-JTECH-TRANSIT
 descr:          JTech transit
-members:        AS397677:AS-SIXPACKETS
+members:        AS16970:AS-MIDNET-ALL
 admin-c:        DNSAD166-ARIN
 tech-c:         DNSAD166-ARIN
 tech-c:         IPADM835-ARIN
-remarks:        Level3 members: NTTCOM::AS397677:AS-SIXPACKETS
+remarks:        Level3 members: NTTCOM::AS16970:AS-MIDNET-ALL
 notify:         dns@jacksontechnical.com
 notify:         ipadmin@sixpackets.com
 mnt-by:         MAINT-AS40139
-changed:        adam.korab@sixpackets.com 20211115
+changed:        adam.korab@sixpackets.com 20220524  #04:50:44Z
 source:         RADB
 
 mntner:         MAINT-AS40139
