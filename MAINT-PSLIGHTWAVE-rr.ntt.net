@@ -340,6 +340,72 @@ changed:        kmays@pslightwave.com 20170512
 source:         NTTCOM
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
+route:          69.41.16.0/20
+descr:          LONESTAR-NET-SLASH20
+origin:         AS19927
+remarks:        Proxy for  Lone Star College System District
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-05-25T00:19:26Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          69.41.20.0/24
+descr:          LONESTAR-NET-04
+origin:         AS19927
+remarks:        Proxy for  Lone Star College System District
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-05-25T00:25:13Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          69.41.21.0/24
+descr:          LONESTAR-NET-5
+origin:         AS19927
+remarks:        Proxy for Lone Star College System District
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-05-25T00:26:10Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          69.41.22.0/24
+descr:          LONESTAR-NET-6
+origin:         AS19927
+remarks:        Proxy for Lone Star College System District
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-05-25T00:27:03Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          69.41.23.0/24
+descr:          LONESTAR-NET-7
+origin:         AS19927
+remarks:        Proxy for Lone Star College System District
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-05-25T00:18:08Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          69.41.29.0/24
+descr:          LONESTAR-NET-8
+origin:         AS19927
+remarks:        Proxy for Lone Star College System District
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-05-25T00:18:53Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
 route:          72.20.128.0/24
 descr:          NET-72-20-128-0
 origin:         AS394437
