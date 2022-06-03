@@ -919,7 +919,6 @@ ip prefix-list NN permit 45.154.205.0/24
 ip prefix-list NN permit 45.155.128.0/23
 ip prefix-list NN permit 45.155.130.0/23
 ip prefix-list NN permit 45.157.129.0/24
-ip prefix-list NN permit 45.194.16.0/21
 ip prefix-list NN permit 45.196.128.0/20
 ip prefix-list NN permit 45.196.144.0/21
 ip prefix-list NN permit 45.199.156.0/23
