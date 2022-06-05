@@ -8446,6 +8446,7 @@ ip prefix-list NN permit 44.103.50.0/24
 ip prefix-list NN permit 44.110.0.0/24
 ip prefix-list NN permit 45.0.0.0/16
 ip prefix-list NN permit 45.0.192.0/22
+ip prefix-list NN permit 45.0.212.0/22
 ip prefix-list NN permit 45.0.252.0/22
 ip prefix-list NN permit 45.3.128.0/17
 ip prefix-list NN permit 45.7.44.0/22
@@ -39463,6 +39464,7 @@ ip prefix-list NN permit 170.252.16.0/24
 ip prefix-list NN permit 170.252.17.0/24
 ip prefix-list NN permit 170.252.20.0/22
 ip prefix-list NN permit 170.252.32.0/23
+ip prefix-list NN permit 170.252.32.0/24
 ip prefix-list NN permit 170.252.33.0/24
 ip prefix-list NN permit 170.252.34.0/24
 ip prefix-list NN permit 170.252.35.0/24
