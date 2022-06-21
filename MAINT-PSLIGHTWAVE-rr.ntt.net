@@ -908,6 +908,17 @@ changed:        swulf@pslightwave.com 20190313
 source:         NTTCOM
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
+route:          163.185.249.0/24
+descr:          SLB-NET-04
+origin:         AS394437
+remarks:        Proxy for Schlumberger by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-06-21T22:29:45Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
 route:          165.254.152.0/23
 descr:          PLW-NTT-Net1
 origin:         AS394437
