@@ -811,6 +811,15 @@ mnt-by:        MAINT-PSLIGHTWAVE
 changed:       swulf@pslightwave.com 20190313
 source:        NTTCOM
 
+route:         163.185.249.0/24
+descr:         SLB-NET-04
+origin:        AS394437
+remarks:       Proxy for Schlumberger by PS Lightwave
+notify:        netops@pslightwave.com
+mnt-by:        MAINT-PSLIGHTWAVE
+changed:       swulf@pslightwave.com
+source:        NTTCOM
+
 route:         165.254.152.0/23
 descr:         PLW-NTT-Net1
 origin:        AS394437
