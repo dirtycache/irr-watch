@@ -7778,7 +7778,6 @@ ip prefix-list NN permit 173.244.212.0/22
 ip prefix-list NN permit 173.244.216.0/23
 ip prefix-list NN permit 173.244.218.0/23
 ip prefix-list NN permit 173.244.220.0/23
-ip prefix-list NN permit 173.249.160.0/19
 ip prefix-list NN permit 173.253.128.0/17
 ip prefix-list NN permit 174.26.28.0/23
 ip prefix-list NN permit 174.32.0.0/15
