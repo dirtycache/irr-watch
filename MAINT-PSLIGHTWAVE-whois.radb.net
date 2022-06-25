@@ -1879,3 +1879,13 @@ mnt-by:         MAINT-PSLIGHTWAVE
 changed:        swulf@pslightwave.com
 source:         NTTCOM
 last-modified:  2022-06-21T22:29:45Z
+
+route:          198.145.236.0/24
+descr:          ASPEN-MEDIA-NET-PLW-01
+origin:         AS394437
+remarks:        Proxy for Aspen Media Network by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-06-25T02:07:00Z
