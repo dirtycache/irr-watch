@@ -9410,7 +9410,6 @@ ip prefix-list NN permit 192.136.136.0/24
 ip prefix-list NN permit 192.138.176.0/24
 ip prefix-list NN permit 192.138.177.0/24
 ip prefix-list NN permit 192.138.178.0/24
-ip prefix-list NN permit 192.142.232.0/21
 ip prefix-list NN permit 192.144.70.0/23
 ip prefix-list NN permit 192.145.28.0/24
 ip prefix-list NN permit 192.145.29.0/24
