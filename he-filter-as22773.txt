@@ -859,7 +859,6 @@ ip prefix-list NN permit 45.128.54.0/24
 ip prefix-list NN permit 45.128.96.0/22
 ip prefix-list NN permit 45.131.168.0/23
 ip prefix-list NN permit 45.131.170.0/23
-ip prefix-list NN permit 45.132.96.0/22
 ip prefix-list NN permit 45.133.112.0/24
 ip prefix-list NN permit 45.133.113.0/24
 ip prefix-list NN permit 45.133.114.0/23
