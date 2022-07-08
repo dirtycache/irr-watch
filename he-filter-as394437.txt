@@ -360,6 +360,7 @@ ip prefix-list NN permit 129.230.251.0/24
 ip prefix-list NN permit 129.230.252.0/22
 ip prefix-list NN permit 129.230.255.0/24
 ip prefix-list NN permit 136.244.0.0/18
+ip prefix-list NN permit 136.244.0.0/24
 ip prefix-list NN permit 141.193.92.0/22
 ip prefix-list NN permit 144.177.64.0/24
 ip prefix-list NN permit 144.177.65.0/24
