@@ -384,6 +384,11 @@ ip prefix-list NN permit 147.108.78.0/24
 ip prefix-list NN permit 147.108.79.0/24
 ip prefix-list NN permit 147.108.80.0/22
 ip prefix-list NN permit 147.108.84.0/22
+ip prefix-list NN permit 147.108.100.0/24
+ip prefix-list NN permit 147.108.148.0/24
+ip prefix-list NN permit 147.108.149.0/24
+ip prefix-list NN permit 147.108.181.0/24
+ip prefix-list NN permit 147.108.182.0/24
 ip prefix-list NN permit 149.182.216.0/23
 ip prefix-list NN permit 149.182.216.0/24
 ip prefix-list NN permit 149.182.217.0/24
