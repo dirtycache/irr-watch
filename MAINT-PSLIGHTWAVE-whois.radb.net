@@ -1428,255 +1428,6 @@ mnt-by:         MAINT-PSLIGHTWAVE
 changed:        swulf@pslightwave.com 20151029
 source:         NTTCOM
 
-aut-num:        AS394437
-as-name:        PSLIGHTWAVE
-descr:          PS Lightwave, Inc
-admin-c:        SWU-ARIN
-tech-c:         SWU-ARIN
-import:         from AS2914 accept ANY and not {0.0.0.0/0}
-import:         from AS3356 accept ANY and not {0.0.0.0/0}
-import:         from AS174 accept ANY and not {0.0.0.0/0}
-import:         from AS22442 accept ANY and not {0.0.0.0/0}
-mp-import:      afi ipv6.unicast from AS2914 accept ANY
-mp-import:      afi ipv6.unicast from AS3356 accept ANY
-mp-import:      afi ipv6.unicast from AS174 accept ANY
-mp-import:      afi ipv6.unicast from AS6939 accept ANY
-import:         from AS32779 accept AS32779
-import:         from AS62867 accept AS62867
-import:         from AS53406 accept AS53406
-import:         from AS394252 accept AS394252
-import:         from AS19927 accept AS19927
-import:         from AS32457 accept AS32457
-import:         from AS394324 accept AS394324
-import:         from AS11124 accept AS11124
-import:         from AS19725 accept AS19725
-import:         from AS22803 accept AS22803
-import:         from AS25618 accept AS25618
-import:         from AS26675 accept AS26675
-import:         from AS36434 accept AS36434
-import:         from AS33203 accept AS33203
-import:         from AS30049 accept AS30049
-import:         from AS63153 accept AS63153
-import:         from AS19074 accept AS19074
-import:         from AS22239 accept AS22239
-import:         from AS394414 accept AS394414
-import:         from AS27297 accept AS27297
-import:         from AS32606 accept AS32606
-import:         from AS393535 accept AS393535
-import:         from AS55007 accept AS55007
-import:         from AS14889 accept AS14889
-import:         from AS46209 accept AS46209
-import:         from AS54772 accept AS54772
-import:         from AS393865 accept AS393865
-import:         from AS393414 accept AS393414
-import:         from AS32626 accept AS32626
-import:         from AS22403 accept AS22403
-import:         from AS54363 accept AS54363
-import:         from AS18704 accept AS18704
-import:         from AS63455 accept AS63455
-import:         from AS63325 accept AS63325
-import:         from AS32443 accept AS32443
-import:         from AS394131 accept AS394131
-import:         from AS54781 accept AS54781
-import:         from AS26779 accept AS26779
-import:         from AS398147 accept AS398147
-import:         from AS397953 accept AS397953
-import:         from AS397412 accept AS397412
-import:         from AS11942 accept AS11942
-import:         from AS397371 accept AS397371
-import:         from AS397736 accept AS397736
-import:         from AS32208 accept AS32208
-import:         from AS16970 accept AS16970
-import:         from AS54808 accept AS54808
-import:         from AS2535 accept AS2535
-import:         from AS22362 accept AS22362
-import:         from AS399620 accept AS399620
-import:         from AS399767 accept AS399767
-import:         from AS63171 accept AS63171
-import:         from AS20278 accept AS20278
-mp-import:      afi ipv6.unicast from AS397736 accept AS397736
-mp-import:      afi ipv6.unicast from AS20278 accept AS20278
-export:         to AS2914 announce AS394437
-export:         to AS2914 announce AS22442
-export:         to AS2914 announce AS32779
-export:         to AS2914 announce AS62867
-export:         to AS2914 announce AS53406
-export:         to AS2914 announce AS394252
-export:         to AS2914 announce AS19927
-export:         to AS2914 announce AS32457
-export:         to AS2914 announce AS394324
-export:         to AS2914 announce AS11124
-export:         to AS2914 announce AS19725
-export:         to AS2914 announce AS22803
-export:         to AS2914 announce AS25618
-export:         to AS2914 announce AS26675
-export:         to AS2914 announce AS36434
-export:         to AS2914 announce AS33203
-export:         to AS2914 announce AS30049
-export:         to AS2914 announce AS63153
-export:         to AS2914 announce AS19074
-export:         to AS2914 announce AS22239
-export:         to AS2914 announce AS394414
-export:         to AS2914 announce AS27297
-export:         to AS2914 announce AS32606
-export:         to AS2914 announce AS393535
-export:         to AS2914 announce AS55007
-export:         to AS2914 announce AS14889
-export:         to AS2914 announce AS46209
-export:         to AS2914 announce AS54772
-export:         to AS2914 announce AS393865
-export:         to AS2914 announce AS393414
-export:         to AS2914 announce AS32626
-export:         to AS2914 announce AS22403
-export:         to AS2914 announce AS54363
-export:         to AS2914 announce AS18704
-export:         to AS2914 announce AS63455
-export:         to AS2914 announce AS63325
-export:         to AS2914 announce AS32443
-export:         to AS2914 announce AS394131
-export:         to AS2914 announce AS54781
-export:         to AS2914 announce AS26779
-export:         to AS2914 announce AS398147
-export:         to AS2914 announce AS397953
-export:         to AS2914 announce AS397412
-export:         to AS2914 announce AS11942
-export:         to AS2914 announce AS397371
-export:         to AS2914  announce AS397736
-export:         to AS2914 announce AS32208
-export:         to AS2914 announce AS16970
-export:         to AS2914 announce AS54808
-export:         to AS2914 announce AS2535
-export:         to AS2914 announce AS22362
-export:         to AS2914 announce AS399620
-export:         to AS2914 announce AS399767
-export:         to AS2914 announce AS63171
-export:         to AS2914 announce AS20278
-export:         to AS3356 announce AS394437
-export:         to AS3356 announce AS22442
-export:         to AS3356 announce AS32779
-export:         to AS3356 announce AS62867
-export:         to AS3356 announce AS53406
-export:         to AS3356 announce AS394252
-export:         to AS3356 announce AS19927
-export:         to AS3356 announce AS32457
-export:         to AS3356 announce AS394324
-export:         to AS3356 announce AS11124
-export:         to AS3356 announce AS19725
-export:         to AS3356 announce AS22803
-export:         to AS3356 announce AS25618
-export:         to AS3356 announce AS26675
-export:         to AS3356 announce AS36434
-export:         to AS3356 announce AS33203
-export:         to AS3356 announce AS30049
-export:         to AS3356 announce AS63153
-export:         to AS3356 announce AS19074
-export:         to AS3356 announce AS22239
-export:         to AS3356 announce AS394414
-export:         to AS3356 announce AS27297
-export:         to AS3356 announce AS32606
-export:         to AS3356 announce AS393535
-export:         to AS3356 announce AS55007
-export:         to AS3356 announce AS14889
-export:         to AS3356 announce AS46209
-export:         to AS3356 announce AS54772
-export:         to AS3356 announce AS393865
-export:         to AS3356 announce AS393414
-export:         to AS3356 announce AS32626
-export:         to AS3356 announce AS22403
-export:         to AS3356 announce AS54363
-export:         to AS3356 announce AS18704
-export:         to AS3356 announce AS63455
-export:         to AS3356 announce AS63325
-export:         to AS3356 announce AS32443
-export:         to AS3356 announce AS394131
-export:         to AS3356 announce AS54781
-export:         to AS3356 announce AS26779
-export:         to AS3356 announce AS398147
-export:         to AS3356 announce AS397953
-export:         to AS3356 announce AS397412
-export:         to AS3356 announce AS11942
-export:         to AS3356 announce AS397371
-export:         to AS3356  announce AS397736
-export:         to AS3356 announce AS32208
-export:         to AS3356 announce AS16970
-export:         to AS3356 announce AS54808
-export:         to AS3356 announce AS2535
-export:         to AS3356 announce AS22362
-export:         to AS3356 announce AS399620
-export:         to AS3356 announce AS399767
-export:         to AS3356 announce AS63171
-export:         to AS3356 announce AS20278
-export:         to AS174 announce AS394437
-export:         to AS174 announce AS22442
-export:         to AS174 announce AS32779
-export:         to AS174 announce AS62867
-export:         to AS174 announce AS53406
-export:         to AS174 announce AS394252
-export:         to AS174 announce AS19927
-export:         to AS174 announce AS32457
-export:         to AS174 announce AS394324
-export:         to AS174 announce AS11124
-export:         to AS174 announce AS19725
-export:         to AS174 announce AS22803
-export:         to AS174 announce AS25618
-export:         to AS174 announce AS26675
-export:         to AS174 announce AS36434
-export:         to AS174 announce AS33203
-export:         to AS174 announce AS30049
-export:         to AS174 announce AS63153
-export:         to AS174 announce AS19074
-export:         to AS174 announce AS22239
-export:         to AS174 announce AS394414
-export:         to AS174 announce AS27297
-export:         to AS174 announce AS32606
-export:         to AS174 announce AS393535
-export:         to AS174 announce AS55007
-export:         to AS174 announce AS14889
-export:         to AS174 announce AS46209
-export:         to AS174 announce AS54772
-export:         to AS174 announce AS393865
-export:         to AS174 announce AS393414
-export:         to AS174 announce AS32626
-export:         to AS174 announce AS22403
-export:         to AS174 announce AS54363
-export:         to AS174 announce AS18704
-export:         to AS174 announce AS18704
-export:         to AS174 announce AS63455
-export:         to AS174 announce AS63325
-export:         to AS174 announce AS32443
-export:         to AS174 announce AS394131
-export:         to AS174 announce AS54781
-export:         to AS174 announce AS26779
-export:         to AS174 announce AS398147
-export:         to AS174 announce AS397953
-export:         to AS174 announce AS397412
-export:         to AS174 announce AS11942
-export:         to AS174 announce AS397371
-export:         to AS174  announce AS397736
-export:         to AS174 announce AS32208
-export:         to AS174 announce AS16970
-export:         to AS174 announce AS54808
-export:         to AS174 announce AS2535
-export:         to AS174 announce AS22362
-export:         to AS174 announce AS399620
-export:         to AS174 announce AS399767
-export:         to AS174 announce AS63171
-export:         to AS174 announce AS20278
-mp-export:      afi ipv6.unicast to AS174    announce AS394437
-mp-export:      afi ipv6.unicast to AS2914   announce AS394437
-mp-export:      afi ipv6.unicast to AS3356   announce AS394437
-mp-export:      afi ipv6.unicast to AS6939   announce AS394437
-mp-export:      afi ipv6.unicast to AS174    announce AS397736
-mp-export:      afi ipv6.unicast to AS2914   announce AS397736
-mp-export:      afi ipv6.unicast to AS3356   announce AS397736
-mp-export:      afi ipv6.unicast to AS6939   announce AS397736
-mp-export:      afi ipv6.unicast to AS20278   announce AS397736
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com
-source:         NTTCOM
-last-modified:  2021-07-16T16:40:19Z
-
 aut-num:        AS396849
 as-name:        KPRC
 descr:          GRAHAM MEDIA GROUP, HOUSTON, INC. (GMGH)            =20
@@ -1743,28 +1494,6 @@ mnt-by:         MAINT-PSLIGHTWAVE
 changed:        swulf@pslightwave.com
 source:         NTTCOM
 last-modified:  2021-06-23T14:07:17Z
-
-as-set:         AS-PSLIGHTWAVE
-descr:          AS set for PS Lightwave
-members:        AS394437,AS22442,AS32779,AS62867,AS53406,AS394252
-members:        AS19927,AS32457,AS394324,AS11124,AS19725
-members:        AS22803,AS25618,AS26675,AS36434,AS33203
-members:        AS30049,AS63153,AS19074,AS22239,AS394414
-members:        AS27297,AS32606,AS393535,AS55007,AS14889
-members:        AS46209,AS54772,AS393865,AS393414,AS32626
-members:        AS22403,AS54363,AS18704,AS63455,AS32686
-members:        AS396849,AS63325,AS32443,AS54781,AS16970:AS-MIDNET-ALL
-members:        AS26779,AS398147,AS397953,AS397412,AS11942
-members:        AS397371,AS397736,AS36239,AS35899,AS32208
-members:        AS54808,AS2535,AS22362,AS399767,AS399620
-members:        AS63171,AS20278
-tech-c:         SWU-ARIN
-admin-c:        SWU-ARIN
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com
-source:         NTTCOM
-last-modified:  2021-07-16T16:37:26Z
 
 mntner:         MAINT-PSLIGHTWAVE
 descr:          PS Lightwave
@@ -1889,3 +1618,300 @@ mnt-by:         MAINT-PSLIGHTWAVE
 changed:        swulf@pslightwave.com
 source:         NTTCOM
 last-modified:  2022-06-25T02:07:00Z
+
+aut-num:        AS397770
+as-name:        TRINITYLINK-01
+descr:          Trinity Link LLC
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        tcoronado@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-08-18T20:10:31Z
+
+route:          72.46.99.0/24
+descr:          TRINITYLINK-01
+origin:         AS397770
+remarks:        Proxy object for Trinity Link by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        tcoronado@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-08-18T20:10:38Z
+
+as-set:         AS-PSLIGHTWAVE
+descr:          AS set for PS Lightwave
+members:        AS394437,AS22442,AS32779,AS62867,AS53406,AS394252
+members:        AS19927,AS32457,AS394324,AS11124,AS19725
+members:        AS22803,AS25618,AS26675,AS36434,AS33203
+members:        AS30049,AS63153,AS19074,AS22239,AS394414
+members:        AS27297,AS32606,AS393535,AS55007,AS14889
+members:        AS46209,AS54772,AS393865,AS393414,AS32626
+members:        AS22403,AS54363,AS18704,AS63455,AS32686
+members:        AS396849,AS63325,AS32443,AS54781,AS16970:AS-MIDNET-ALL
+members:        AS26779,AS398147,AS397953,AS397412,AS11942
+members:        AS397371,AS397736,AS36239,AS35899,AS32208
+members:        AS54808,AS2535,AS22362,AS399767,AS399620
+members:        AS63171,AS20278,AS397770
+tech-c:         SWU-ARIN
+admin-c:        SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        tcoronado@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-08-18T20:20:34Z
+
+aut-num:        AS394437
+as-name:        PSLIGHTWAVE
+descr:          PS Lightwave, Inc
+admin-c:        SWU-ARIN
+tech-c:         SWU-ARIN
+import:         from AS2914 accept ANY and not {0.0.0.0/0}
+import:         from AS3356 accept ANY and not {0.0.0.0/0}
+import:         from AS174 accept ANY and not {0.0.0.0/0}
+import:         from AS22442 accept ANY and not {0.0.0.0/0}
+mp-import:      afi ipv6.unicast from AS2914 accept ANY
+mp-import:      afi ipv6.unicast from AS3356 accept ANY
+mp-import:      afi ipv6.unicast from AS174 accept ANY
+mp-import:      afi ipv6.unicast from AS6939 accept ANY
+import:         from AS32779 accept AS32779
+import:         from AS62867 accept AS62867
+import:         from AS53406 accept AS53406
+import:         from AS394252 accept AS394252
+import:         from AS19927 accept AS19927
+import:         from AS32457 accept AS32457
+import:         from AS394324 accept AS394324
+import:         from AS11124 accept AS11124
+import:         from AS19725 accept AS19725
+import:         from AS22803 accept AS22803
+import:         from AS25618 accept AS25618
+import:         from AS26675 accept AS26675
+import:         from AS36434 accept AS36434
+import:         from AS33203 accept AS33203
+import:         from AS30049 accept AS30049
+import:         from AS63153 accept AS63153
+import:         from AS19074 accept AS19074
+import:         from AS22239 accept AS22239
+import:         from AS394414 accept AS394414
+import:         from AS27297 accept AS27297
+import:         from AS32606 accept AS32606
+import:         from AS393535 accept AS393535
+import:         from AS55007 accept AS55007
+import:         from AS14889 accept AS14889
+import:         from AS46209 accept AS46209
+import:         from AS54772 accept AS54772
+import:         from AS393865 accept AS393865
+import:         from AS393414 accept AS393414
+import:         from AS32626 accept AS32626
+import:         from AS22403 accept AS22403
+import:         from AS54363 accept AS54363
+import:         from AS18704 accept AS18704
+import:         from AS63455 accept AS63455
+import:         from AS63325 accept AS63325
+import:         from AS32443 accept AS32443
+import:         from AS394131 accept AS394131
+import:         from AS54781 accept AS54781
+import:         from AS26779 accept AS26779
+import:         from AS398147 accept AS398147
+import:         from AS397953 accept AS397953
+import:         from AS397412 accept AS397412
+import:         from AS11942 accept AS11942
+import:         from AS397371 accept AS397371
+import:         from AS397736 accept AS397736
+import:         from AS32208 accept AS32208
+import:         from AS16970 accept AS16970
+import:         from AS54808 accept AS54808
+import:         from AS2535 accept AS2535
+import:         from AS22362 accept AS22362
+import:         from AS399620 accept AS399620
+import:         from AS399767 accept AS399767
+import:         from AS63171 accept AS63171
+import:         from AS20278 accept AS20278
+import:         from AS397770 accept AS397770
+mp-import:      afi ipv6.unicast from AS397736 accept AS397736
+mp-import:      afi ipv6.unicast from AS20278 accept AS20278
+export:         to AS2914 announce AS394437
+export:         to AS2914 announce AS22442
+export:         to AS2914 announce AS32779
+export:         to AS2914 announce AS62867
+export:         to AS2914 announce AS53406
+export:         to AS2914 announce AS394252
+export:         to AS2914 announce AS19927
+export:         to AS2914 announce AS32457
+export:         to AS2914 announce AS394324
+export:         to AS2914 announce AS11124
+export:         to AS2914 announce AS19725
+export:         to AS2914 announce AS22803
+export:         to AS2914 announce AS25618
+export:         to AS2914 announce AS26675
+export:         to AS2914 announce AS36434
+export:         to AS2914 announce AS33203
+export:         to AS2914 announce AS30049
+export:         to AS2914 announce AS63153
+export:         to AS2914 announce AS19074
+export:         to AS2914 announce AS22239
+export:         to AS2914 announce AS394414
+export:         to AS2914 announce AS27297
+export:         to AS2914 announce AS32606
+export:         to AS2914 announce AS393535
+export:         to AS2914 announce AS55007
+export:         to AS2914 announce AS14889
+export:         to AS2914 announce AS46209
+export:         to AS2914 announce AS54772
+export:         to AS2914 announce AS393865
+export:         to AS2914 announce AS393414
+export:         to AS2914 announce AS32626
+export:         to AS2914 announce AS22403
+export:         to AS2914 announce AS54363
+export:         to AS2914 announce AS18704
+export:         to AS2914 announce AS63455
+export:         to AS2914 announce AS63325
+export:         to AS2914 announce AS32443
+export:         to AS2914 announce AS394131
+export:         to AS2914 announce AS54781
+export:         to AS2914 announce AS26779
+export:         to AS2914 announce AS398147
+export:         to AS2914 announce AS397953
+export:         to AS2914 announce AS397412
+export:         to AS2914 announce AS11942
+export:         to AS2914 announce AS397371
+export:         to AS2914  announce AS397736
+export:         to AS2914 announce AS32208
+export:         to AS2914 announce AS16970
+export:         to AS2914 announce AS54808
+export:         to AS2914 announce AS2535
+export:         to AS2914 announce AS22362
+export:         to AS2914 announce AS399620
+export:         to AS2914 announce AS399767
+export:         to AS2914 announce AS63171
+export:         to AS2914 announce AS20278
+export:         to AS2914 announce AS397770
+export:         to AS3356 announce AS394437
+export:         to AS3356 announce AS22442
+export:         to AS3356 announce AS32779
+export:         to AS3356 announce AS62867
+export:         to AS3356 announce AS53406
+export:         to AS3356 announce AS394252
+export:         to AS3356 announce AS19927
+export:         to AS3356 announce AS32457
+export:         to AS3356 announce AS394324
+export:         to AS3356 announce AS11124
+export:         to AS3356 announce AS19725
+export:         to AS3356 announce AS22803
+export:         to AS3356 announce AS25618
+export:         to AS3356 announce AS26675
+export:         to AS3356 announce AS36434
+export:         to AS3356 announce AS33203
+export:         to AS3356 announce AS30049
+export:         to AS3356 announce AS63153
+export:         to AS3356 announce AS19074
+export:         to AS3356 announce AS22239
+export:         to AS3356 announce AS394414
+export:         to AS3356 announce AS27297
+export:         to AS3356 announce AS32606
+export:         to AS3356 announce AS393535
+export:         to AS3356 announce AS55007
+export:         to AS3356 announce AS14889
+export:         to AS3356 announce AS46209
+export:         to AS3356 announce AS54772
+export:         to AS3356 announce AS393865
+export:         to AS3356 announce AS393414
+export:         to AS3356 announce AS32626
+export:         to AS3356 announce AS22403
+export:         to AS3356 announce AS54363
+export:         to AS3356 announce AS18704
+export:         to AS3356 announce AS63455
+export:         to AS3356 announce AS63325
+export:         to AS3356 announce AS32443
+export:         to AS3356 announce AS394131
+export:         to AS3356 announce AS54781
+export:         to AS3356 announce AS26779
+export:         to AS3356 announce AS398147
+export:         to AS3356 announce AS397953
+export:         to AS3356 announce AS397412
+export:         to AS3356 announce AS11942
+export:         to AS3356 announce AS397371
+export:         to AS3356  announce AS397736
+export:         to AS3356 announce AS32208
+export:         to AS3356 announce AS16970
+export:         to AS3356 announce AS54808
+export:         to AS3356 announce AS2535
+export:         to AS3356 announce AS22362
+export:         to AS3356 announce AS399620
+export:         to AS3356 announce AS399767
+export:         to AS3356 announce AS63171
+export:         to AS3356 announce AS20278
+export:         to AS3356 announce AS397770
+export:         to AS174 announce AS394437
+export:         to AS174 announce AS22442
+export:         to AS174 announce AS32779
+export:         to AS174 announce AS62867
+export:         to AS174 announce AS53406
+export:         to AS174 announce AS394252
+export:         to AS174 announce AS19927
+export:         to AS174 announce AS32457
+export:         to AS174 announce AS394324
+export:         to AS174 announce AS11124
+export:         to AS174 announce AS19725
+export:         to AS174 announce AS22803
+export:         to AS174 announce AS25618
+export:         to AS174 announce AS26675
+export:         to AS174 announce AS36434
+export:         to AS174 announce AS33203
+export:         to AS174 announce AS30049
+export:         to AS174 announce AS63153
+export:         to AS174 announce AS19074
+export:         to AS174 announce AS22239
+export:         to AS174 announce AS394414
+export:         to AS174 announce AS27297
+export:         to AS174 announce AS32606
+export:         to AS174 announce AS393535
+export:         to AS174 announce AS55007
+export:         to AS174 announce AS14889
+export:         to AS174 announce AS46209
+export:         to AS174 announce AS54772
+export:         to AS174 announce AS393865
+export:         to AS174 announce AS393414
+export:         to AS174 announce AS32626
+export:         to AS174 announce AS22403
+export:         to AS174 announce AS54363
+export:         to AS174 announce AS18704
+export:         to AS174 announce AS18704
+export:         to AS174 announce AS63455
+export:         to AS174 announce AS63325
+export:         to AS174 announce AS32443
+export:         to AS174 announce AS394131
+export:         to AS174 announce AS54781
+export:         to AS174 announce AS26779
+export:         to AS174 announce AS398147
+export:         to AS174 announce AS397953
+export:         to AS174 announce AS397412
+export:         to AS174 announce AS11942
+export:         to AS174 announce AS397371
+export:         to AS174  announce AS397736
+export:         to AS174 announce AS32208
+export:         to AS174 announce AS16970
+export:         to AS174 announce AS54808
+export:         to AS174 announce AS2535
+export:         to AS174 announce AS22362
+export:         to AS174 announce AS399620
+export:         to AS174 announce AS399767
+export:         to AS174 announce AS63171
+export:         to AS174 announce AS20278
+export:         to AS174 announce AS397770
+mp-export:      afi ipv6.unicast to AS174    announce AS394437
+mp-export:      afi ipv6.unicast to AS2914   announce AS394437
+mp-export:      afi ipv6.unicast to AS3356   announce AS394437
+mp-export:      afi ipv6.unicast to AS6939   announce AS394437
+mp-export:      afi ipv6.unicast to AS174    announce AS397736
+mp-export:      afi ipv6.unicast to AS2914   announce AS397736
+mp-export:      afi ipv6.unicast to AS3356   announce AS397736
+mp-export:      afi ipv6.unicast to AS6939   announce AS397736
+mp-export:      afi ipv6.unicast to AS20278   announce AS397736
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-08-18T20:26:45Z
