@@ -44,24 +44,6 @@ changed:        adam.korab@mid.net 20211125
 source:         NTTCOM
 last-modified:  2022-08-09T21:48:12Z
 
-as-set:         AS16970:AS-MIDNET-TRANSIT
-descr:          MIDnet transit only
-members:        AS40139:AS-JTECH
-members:        AS397677:AS-SIXPACKETS
-members:        AS398883
-members:        AS-BINARYNET
-remarks:        Level3 members: RADB::AS40139:AS-JTECH
-remarks:        Level3 members: NTTCOM::AS397677:AS-SIXPACKETS
-remarks:        Level3 members: ARIN::AS398883
-remarks:        Level3 members: RADB::AS-BINARYNET
-admin-c:        IPADM882-ARIN
-tech-c:         IPADM882-ARIN
-notify:         ipadmin@mid.net
-mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20220809
-source:         NTTCOM
-last-modified:  2022-08-09T21:48:12Z
-
 mntner:         MAINT-MIDNET
 descr:          MIDnet maintainer AS16970
 admin-c:        IPADM882-ARIN
@@ -300,3 +282,23 @@ mnt-by:         MAINT-MIDNET
 changed:        adam.korab@mid.net 20220816
 source:         NTTCOM
 last-modified:  2022-08-16T21:39:49Z
+
+as-set:         AS16970:AS-MIDNET-TRANSIT
+descr:          MIDnet transit customers
+members:        AS40139:AS-JTECH
+members:        AS397677:AS-SIXPACKETS
+members:        AS398883
+members:        AS-BINARYNET
+members:        AS-OCOSA
+remarks:        Level3 members: RADB::AS40139:AS-JTECH
+remarks:        Level3 members: NTTCOM::AS397677:AS-SIXPACKETS
+remarks:        Level3 members: ARIN::AS398883
+remarks:        Level3 members: RADB::AS-BINARYNET
+remarks:        Level3 members: ARIN::AS-OCOSA
+admin-c:        IPADM882-ARIN
+tech-c:         IPADM882-ARIN
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20220822
+source:         NTTCOM
+last-modified:  2022-08-22T20:10:54Z
