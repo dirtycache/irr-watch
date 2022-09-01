@@ -1641,28 +1641,6 @@ changed:        tcoronado@pslightwave.com
 source:         NTTCOM
 last-modified:  2022-08-18T20:10:38Z
 
-as-set:         AS-PSLIGHTWAVE
-descr:          AS set for PS Lightwave
-members:        AS394437,AS22442,AS32779,AS62867,AS53406,AS394252
-members:        AS19927,AS32457,AS394324,AS11124,AS19725
-members:        AS22803,AS25618,AS26675,AS36434,AS33203
-members:        AS30049,AS63153,AS19074,AS22239,AS394414
-members:        AS27297,AS32606,AS393535,AS55007,AS14889
-members:        AS46209,AS54772,AS393865,AS393414,AS32626
-members:        AS22403,AS54363,AS18704,AS63455,AS32686
-members:        AS396849,AS63325,AS32443,AS54781,AS16970:AS-MIDNET-ALL
-members:        AS26779,AS398147,AS397953,AS397412,AS11942
-members:        AS397371,AS397736,AS36239,AS35899,AS32208
-members:        AS54808,AS2535,AS22362,AS399767,AS399620
-members:        AS63171,AS20278,AS397770
-tech-c:         SWU-ARIN
-admin-c:        SWU-ARIN
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        tcoronado@pslightwave.com
-source:         NTTCOM
-last-modified:  2022-08-18T20:20:34Z
-
 aut-num:        AS394437
 as-name:        PSLIGHTWAVE
 descr:          PS Lightwave, Inc
@@ -1915,3 +1893,47 @@ mnt-by:         MAINT-PSLIGHTWAVE
 changed:        swulf@pslightwave.com
 source:         NTTCOM
 last-modified:  2022-08-18T20:26:45Z
+
+aut-num:        AS19856
+as-name:        BRAZOSPORT
+descr:          Brazosport College
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        tcoronado@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-09-01T14:13:34Z
+
+route:          206.40.176.0/20
+descr:          Brazosport College
+origin:         AS19856
+remarks:        Proxy object for Trinity Link by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        tcoronado@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-09-01T14:17:12Z
+
+as-set:         AS-PSLIGHTWAVE
+descr:          AS set for PS Lightwave
+members:        AS394437,AS22442,AS32779,AS62867,AS53406,AS394252
+members:        AS19927,AS32457,AS394324,AS11124,AS19725
+members:        AS22803,AS25618,AS26675,AS36434,AS33203
+members:        AS30049,AS63153,AS19074,AS22239,AS394414
+members:        AS27297,AS32606,AS393535,AS55007,AS14889
+members:        AS46209,AS54772,AS393865,AS393414,AS32626
+members:        AS22403,AS54363,AS18704,AS63455,AS32686
+members:        AS396849,AS63325,AS32443,AS54781,AS16970:AS-MIDNET-ALL
+members:        AS26779,AS398147,AS397953,AS397412,AS11942
+members:        AS397371,AS397736,AS36239,AS35899,AS32208
+members:        AS54808,AS2535,AS22362,AS399767,AS399620
+members:        AS63171,AS20278,AS397770,AS19856
+tech-c:         SWU-ARIN
+admin-c:        SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        tcoronado@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-09-01T14:26:26Z
