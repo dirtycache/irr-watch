@@ -582,6 +582,7 @@ ip prefix-list NN permit 205.196.190.0/24
 ip prefix-list NN permit 205.196.191.0/24
 ip prefix-list NN permit 205.228.78.0/24
 ip prefix-list NN permit 205.247.204.0/24
+ip prefix-list NN permit 206.40.176.0/20
 ip prefix-list NN permit 206.82.248.0/24
 ip prefix-list NN permit 206.131.192.0/20
 ip prefix-list NN permit 206.195.100.0/24
