@@ -282,16 +282,18 @@ members:        AS398883
 members:        AS-BINARYNET
 members:        AS-OCOSA
 members:        AS398355
+members:        AS137509
 remarks:        Level3 members: RADB::AS40139:AS-JTECH
 remarks:        Level3 members: NTTCOM::AS397677:AS-SIXPACKETS
 remarks:        Level3 members: ARIN::AS398883
 remarks:        Level3 members: RADB::AS-BINARYNET
 remarks:        Level3 members: ARIN::AS-OCOSA
 remarks:        Level3 members: ARIN::AS398355
+remarks:        Level3 members: ARIN::AS137509
 admin-c:        IPADM882-ARIN
 tech-c:         IPADM882-ARIN
 notify:         ipadmin@mid.net
 mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20220827
+changed:        adam.korab@mid.net 20220902
 source:         NTTCOM
-last-modified:  2022-08-27T22:22:14Z
+last-modified:  2022-09-02T17:48:04Z
