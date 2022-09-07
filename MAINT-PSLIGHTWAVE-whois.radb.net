@@ -172,15 +172,6 @@ mnt-by:         MAINT-PSLIGHTWAVE
 changed:        swulf@pslightwave.com 20190927
 source:         NTTCOM
 
-route:          66.60.245.0/24
-descr:          PLW-NET-02
-origin:         AS394437
-remarks:        PS LIGHTWAVE
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com 20170426
-source:         NTTCOM
-
 route:          66.60.247.0/24
 descr:          PLW-NET-36
 origin:         AS394437
@@ -940,15 +931,6 @@ mnt-by:         MAINT-PSLIGHTWAVE
 changed:        swulf@pslightwave.com
 source:         NTTCOM
 last-modified:  2021-10-07T00:07:43Z
-
-route:          198.170.190.0/24
-descr:          Stafford-ISD
-origin:         AS394437
-remarks:        Proxy object by PS LightWave
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com 20160224
-source:         NTTCOM
 
 route:          198.185.112.0/24
 descr:          GROCERS-NET-02
