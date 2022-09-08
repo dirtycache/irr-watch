@@ -519,7 +519,6 @@ ip prefix-list NN permit 198.170.190.0/24
 ip prefix-list NN permit 198.170.192.0/23
 ip prefix-list NN permit 198.170.192.0/24
 ip prefix-list NN permit 198.170.193.0/24
-ip prefix-list NN permit 198.170.206.0/23
 ip prefix-list NN permit 198.185.112.0/24
 ip prefix-list NN permit 198.187.12.0/24
 ip prefix-list NN permit 198.217.24.0/22
@@ -530,7 +529,6 @@ ip prefix-list NN permit 199.184.119.0/24
 ip prefix-list NN permit 200.23.85.0/24
 ip prefix-list NN permit 204.2.20.0/24
 ip prefix-list NN permit 204.2.37.0/24
-ip prefix-list NN permit 204.2.80.0/24
 ip prefix-list NN permit 204.27.195.0/24
 ip prefix-list NN permit 204.57.112.0/23
 ip prefix-list NN permit 204.57.114.0/24
