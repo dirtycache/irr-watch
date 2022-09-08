@@ -1645,6 +1645,28 @@ changed:        tcoronado@pslightwave.com
 source:         NTTCOM
 last-modified:  2022-09-01T14:17:12Z
 
+aut-num:        AS15753
+as-name:        BP-US-2
+descr:          BP International Ltd
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        tcoronado@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-09-08T21:11:42Z
+
+route:          164.63.253.0/24
+descr:          BP International Ltd
+origin:         AS15753
+remarks:        Proxy object for Sun Coast by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        tcoronado@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-09-08T21:14:23Z
+
 as-set:         AS-PSLIGHTWAVE
 descr:          AS set for PS Lightwave
 members:        AS394437,AS22442,AS32779,AS62867,AS53406,AS394252
@@ -1658,14 +1680,14 @@ members:        AS396849,AS63325,AS32443,AS54781,AS16970:AS-MIDNET-ALL
 members:        AS26779,AS398147,AS397953,AS397412,AS11942
 members:        AS397371,AS397736,AS36239,AS35899,AS32208
 members:        AS54808,AS2535,AS22362,AS399767,AS399620
-members:        AS63171,AS20278,AS397770,AS19856
+members:        AS63171,AS20278,AS397770,AS19856,AS15753
 tech-c:         SWU-ARIN
 admin-c:        SWU-ARIN
 notify:         netops@pslightwave.com
 mnt-by:         MAINT-PSLIGHTWAVE
 changed:        tcoronado@pslightwave.com
 source:         NTTCOM
-last-modified:  2022-09-01T14:26:26Z
+last-modified:  2022-09-08T21:17:28Z
 
 aut-num:        AS394437
 as-name:        PSLIGHTWAVE
@@ -1735,6 +1757,7 @@ import:         from AS63171 accept AS63171
 import:         from AS20278 accept AS20278
 import:         from AS397770 accept AS397770
 import:         from AS19856 accept AS19856
+import:         from AS15753 accept AS15753
 mp-import:      afi ipv6.unicast from AS397736 accept AS397736
 mp-import:      afi ipv6.unicast from AS20278 accept AS20278
 export:         to AS2914 announce AS394437
@@ -1794,6 +1817,7 @@ export:         to AS2914 announce AS63171
 export:         to AS2914 announce AS20278
 export:         to AS2914 announce AS397770
 export:         to AS2914 announce AS19856
+export:         to AS2914 announce AS15753
 export:         to AS3356 announce AS394437
 export:         to AS3356 announce AS22442
 export:         to AS3356 announce AS32779
@@ -1851,6 +1875,7 @@ export:         to AS3356 announce AS63171
 export:         to AS3356 announce AS20278
 export:         to AS3356 announce AS397770
 export:         to AS3356 announce AS19856
+export:         to AS3356 announce AS15753
 export:         to AS174 announce AS394437
 export:         to AS174 announce AS22442
 export:         to AS174 announce AS32779
@@ -1909,6 +1934,7 @@ export:         to AS174 announce AS63171
 export:         to AS174 announce AS20278
 export:         to AS174 announce AS397770
 export:         to AS174 announce AS19856
+export:         to AS174 announce AS15753
 mp-export:      afi ipv6.unicast to AS174    announce AS394437
 mp-export:      afi ipv6.unicast to AS2914   announce AS394437
 mp-export:      afi ipv6.unicast to AS3356   announce AS394437
@@ -1922,4 +1948,4 @@ notify:         netops@pslightwave.com
 mnt-by:         MAINT-PSLIGHTWAVE
 changed:        swulf@pslightwave.com
 source:         NTTCOM
-last-modified:  2022-09-01T14:32:19Z
+last-modified:  2022-09-08T21:24:13Z
