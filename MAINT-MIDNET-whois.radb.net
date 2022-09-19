@@ -130,28 +130,6 @@ changed:        adam.korab@mid.net 20211125
 source:         NTTCOM
 last-modified:  2022-09-14T02:00:20Z
 
-as-set:         AS16970:AS-MIDNET-TRANSIT
-descr:          MIDnet transit only
-members:        AS40139:AS-JTECH
-members:        AS397677:AS-SIXPACKETS
-members:        AS398883
-members:        AS-BINARYNET
-members:        AS-OCOSA
-members:        AS398355,AS395332,AS137509,AS399924,AS26457
-remarks:        Level3 members: RADB::AS40139:AS-JTECH
-remarks:        Level3 members: NTTCOM::AS397677:AS-SIXPACKETS
-remarks:        Level3 members: ARIN::AS398883
-remarks:        Level3 members: RADB::AS-BINARYNET
-remarks:        Level3 members: ARIN::AS-OCOSA
-remarks:        Level3 members: ARIN::AS398355, ARIN::AS395322, ALTDB::AS137509, ARIN::399924, ARIN::AS26457
-admin-c:        IPADM882-ARIN
-tech-c:         IPADM882-ARIN
-notify:         ipadmin@mid.net
-mnt-by:         MAINT-MIDNET
-changed:        adam.korab@mid.net 20220914
-source:         NTTCOM
-last-modified:  2022-09-14T02:00:20Z
-
 route6:         2602:800:1000::/44
 descr:          MIDnet
 origin:         AS16970
@@ -376,3 +354,25 @@ mnt-by:         MAINT-MIDNET
 changed:        adam.korab@mid.net 20220915
 source:         NTTCOM
 last-modified:  2022-09-15T20:40:25Z
+
+as-set:         AS16970:AS-MIDNET-TRANSIT
+descr:          MIDnet transit only
+members:        AS40139:AS-JTECH
+members:        AS397677:AS-SIXPACKETS
+members:        AS398883
+members:        AS-BINARYNET
+members:        AS-OCOSA
+members:        AS398355,AS395332,AS137509,AS399924,AS26457,AS34927
+remarks:        Level3 members: RADB::AS40139:AS-JTECH
+remarks:        Level3 members: NTTCOM::AS397677:AS-SIXPACKETS
+remarks:        Level3 members: ARIN::AS398883
+remarks:        Level3 members: RADB::AS-BINARYNET
+remarks:        Level3 members: ARIN::AS-OCOSA
+remarks:        Level3 members: ARIN::AS398355, ARIN::AS395322, ALTDB::AS137509, ARIN::399924, ARIN::AS26457, RIPE::AS34927
+admin-c:        IPADM882-ARIN
+tech-c:         IPADM882-ARIN
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20220919
+source:         NTTCOM
+last-modified:  2022-09-19T05:06:48Z
