@@ -1949,3 +1949,13 @@ mnt-by:         MAINT-PSLIGHTWAVE
 changed:        swulf@pslightwave.com
 source:         NTTCOM
 last-modified:  2022-09-08T21:24:13Z
+
+route:          128.254.160.0/22
+descr:          TRINITYLINK-01
+origin:         AS397770
+remarks:        Proxy object for Trinity Link by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        tcoronado@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-10-20T21:58:15Z
