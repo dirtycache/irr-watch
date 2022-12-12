@@ -1959,3 +1959,27 @@ mnt-by:         MAINT-PSLIGHTWAVE
 changed:        tcoronado@pslightwave.com
 source:         NTTCOM
 last-modified:  2022-10-20T21:58:15Z
+
+aut-num:        AS17035
+as-name:        NBCUNI-17035
+descr:          NBCUniversal
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-12-12T23:15:56Z
+
+aut-num:        AS1678
+as-name:        DOW
+descr:          The Dow Chemical Company
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-12-12T23:19:20Z
