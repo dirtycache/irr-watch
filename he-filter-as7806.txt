@@ -1487,7 +1487,6 @@ ip prefix-list NN permit 23.1.240.0/24
 ip prefix-list NN permit 23.1.241.0/24
 ip prefix-list NN permit 23.1.242.0/23
 ip prefix-list NN permit 23.1.244.0/22
-ip prefix-list NN permit 23.1.248.0/22
 ip prefix-list NN permit 23.1.252.0/23
 ip prefix-list NN permit 23.1.254.0/24
 ip prefix-list NN permit 23.1.255.0/24
@@ -1786,7 +1785,6 @@ ip prefix-list NN permit 23.13.208.0/22
 ip prefix-list NN permit 23.13.212.0/22
 ip prefix-list NN permit 23.13.216.0/23
 ip prefix-list NN permit 23.13.219.0/24
-ip prefix-list NN permit 23.13.220.0/22
 ip prefix-list NN permit 23.13.240.0/20
 ip prefix-list NN permit 23.14.0.0/20
 ip prefix-list NN permit 23.14.52.0/22
@@ -1906,7 +1904,6 @@ ip prefix-list NN permit 23.32.40.0/23
 ip prefix-list NN permit 23.32.42.0/23
 ip prefix-list NN permit 23.32.44.0/24
 ip prefix-list NN permit 23.32.45.0/24
-ip prefix-list NN permit 23.32.52.0/22
 ip prefix-list NN permit 23.32.56.0/22
 ip prefix-list NN permit 23.32.56.0/24
 ip prefix-list NN permit 23.32.57.0/24
@@ -2111,7 +2108,6 @@ ip prefix-list NN permit 23.35.100.0/22
 ip prefix-list NN permit 23.35.104.0/22
 ip prefix-list NN permit 23.35.108.0/23
 ip prefix-list NN permit 23.35.110.0/23
-ip prefix-list NN permit 23.35.112.0/20
 ip prefix-list NN permit 23.35.128.0/20
 ip prefix-list NN permit 23.35.146.0/23
 ip prefix-list NN permit 23.35.149.0/24
@@ -2807,8 +2803,6 @@ ip prefix-list NN permit 23.47.152.0/22
 ip prefix-list NN permit 23.47.156.0/23
 ip prefix-list NN permit 23.47.158.0/24
 ip prefix-list NN permit 23.47.159.0/24
-ip prefix-list NN permit 23.47.160.0/22
-ip prefix-list NN permit 23.47.164.0/23
 ip prefix-list NN permit 23.47.166.0/23
 ip prefix-list NN permit 23.47.168.0/22
 ip prefix-list NN permit 23.47.172.0/22
@@ -4381,7 +4375,6 @@ ip prefix-list NN permit 23.192.40.0/22
 ip prefix-list NN permit 23.192.44.0/22
 ip prefix-list NN permit 23.192.48.0/20
 ip prefix-list NN permit 23.192.64.0/20
-ip prefix-list NN permit 23.192.80.0/20
 ip prefix-list NN permit 23.192.96.0/22
 ip prefix-list NN permit 23.192.100.0/22
 ip prefix-list NN permit 23.192.104.0/22
@@ -4823,10 +4816,10 @@ ip prefix-list NN permit 23.200.38.0/24
 ip prefix-list NN permit 23.200.39.0/24
 ip prefix-list NN permit 23.200.40.0/24
 ip prefix-list NN permit 23.200.41.0/24
+ip prefix-list NN permit 23.200.42.0/23
 ip prefix-list NN permit 23.200.54.0/24
 ip prefix-list NN permit 23.200.55.0/24
 ip prefix-list NN permit 23.200.56.0/22
-ip prefix-list NN permit 23.200.60.0/22
 ip prefix-list NN permit 23.200.64.0/21
 ip prefix-list NN permit 23.200.64.0/24
 ip prefix-list NN permit 23.200.65.0/24
@@ -25123,7 +25116,6 @@ ip prefix-list NN permit 72.246.55.0/24
 ip prefix-list NN permit 72.246.56.0/23
 ip prefix-list NN permit 72.246.60.0/22
 ip prefix-list NN permit 72.246.64.0/23
-ip prefix-list NN permit 72.246.66.0/23
 ip prefix-list NN permit 72.246.68.0/23
 ip prefix-list NN permit 72.246.72.0/22
 ip prefix-list NN permit 72.246.76.0/22
@@ -27724,6 +27716,8 @@ ip prefix-list NN permit 94.154.170.0/24
 ip prefix-list NN permit 94.154.174.0/23
 ip prefix-list NN permit 94.154.176.0/24
 ip prefix-list NN permit 94.154.179.0/24
+ip prefix-list NN permit 94.176.214.0/24
+ip prefix-list NN permit 94.176.215.0/24
 ip prefix-list NN permit 94.177.27.0/24
 ip prefix-list NN permit 94.177.118.0/24
 ip prefix-list NN permit 94.188.203.0/24
@@ -38932,7 +38926,6 @@ ip prefix-list NN permit 163.5.111.0/24
 ip prefix-list NN permit 163.5.126.0/24
 ip prefix-list NN permit 163.5.128.0/24
 ip prefix-list NN permit 163.5.165.0/24
-ip prefix-list NN permit 163.5.232.0/24
 ip prefix-list NN permit 163.5.250.0/24
 ip prefix-list NN permit 163.5.253.0/24
 ip prefix-list NN permit 163.53.247.0/24
@@ -46283,7 +46276,6 @@ ip prefix-list NN permit 185.237.35.0/24
 ip prefix-list NN permit 185.237.60.0/22
 ip prefix-list NN permit 185.238.8.0/22
 ip prefix-list NN permit 185.238.212.0/23
-ip prefix-list NN permit 185.238.214.0/23
 ip prefix-list NN permit 185.238.220.0/22
 ip prefix-list NN permit 185.240.24.0/22
 ip prefix-list NN permit 185.240.122.0/24
