@@ -2030,3 +2030,13 @@ mnt-by:         MAINT-PSLIGHTWAVE
 changed:        swulf@pslightwave.com
 source:         NTTCOM
 last-modified:  2022-12-13T00:10:58Z
+
+route:          50.172.163.0/24
+descr:          NET-50-172-163-0-1
+origin:         AS17035
+remarks:        Proxy object for NBCUniversal
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2023-01-04T20:03:04Z
