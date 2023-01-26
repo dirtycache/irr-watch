@@ -1,1 +1,2042 @@
 Warning: RIPE flags used with a traditional server.
+route:          8.2.216.0/24
+descr:          Net-8-2-216-0
+origin:         AS32208
+remarks:        Proxy object for VirtualTone by PSLightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210317
+source:         NTTCOM
+
+route:          8.2.218.0/23
+descr:          Net-8-2-218-0
+origin:         AS32208
+remarks:        Proxy object for VirtualTone by PSLightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210317
+source:         NTTCOM
+
+route:          8.20.63.0/24
+descr:          PLW-Level3-Net1
+origin:         AS394437
+remarks:        Phonoscope Light Wave prefix provided by Level3
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20151123
+source:         NTTCOM
+
+route:          12.156.49.0/24
+descr:          SunCoast-NET-01
+origin:         AS54808
+remarks:        Proxy object for Sun Coast by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210414
+source:         NTTCOM
+
+route:          24.56.128.0/24
+descr:          SmartCity-GRB-Net-5
+origin:         AS32779
+remarks:        Proxy for SmartCity by PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        tcoronado@pslightwave.com 20170308
+source:         NTTCOM
+
+route:          24.56.141.0/24
+descr:          SmartCity-GRB-Net-6
+origin:         AS32686
+remarks:        Proxy for SmartCity by PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20180530
+source:         NTTCOM
+
+route:          24.75.200.0/22
+descr:          SmartCity-GRB-Net-7
+origin:         AS32686
+remarks:        Proxy for SmartCity by PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20180530
+source:         NTTCOM
+
+route:          50.217.20.0/24
+descr:          SunCoast-NET-01
+origin:         AS54808
+remarks:        Proxy object for Sun Coast by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        tcoronado@pslightwave.com 20210610
+source:         NTTCOM
+last-modified:  2021-06-10T20:39:19Z
+
+route:          50.237.51.0/24
+descr:          KPRC-NET-1
+origin:         AS396849
+remarks:        Proxy for KPRC by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20180718
+source:         NTTCOM
+
+route:          64.43.0.0/16
+descr:          TSYSTEMS-NA-DGIL
+origin:         AS18704
+remarks:        Proxy for T-Systems North America, Inc. by PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170214
+source:         NTTCOM
+
+route:          64.110.128.0/21
+descr:          TACHUS-Net-02
+origin:         AS397412
+remarks:        Proxy object for Tachus by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2021-09-10T18:29:12Z
+
+route:          64.154.18.0/24
+descr:          Net-64-154-18-0
+origin:         AS32208
+remarks:        Proxy object for VirtualTone by PSLightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210317
+source:         NTTCOM
+
+route:          64.190.156.0/22
+descr:          LIGHTWAVE-NET-08
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170831
+source:         NTTCOM
+
+route:          66.60.226.0/24
+descr:          DPISD-Network-1
+origin:         AS53406
+remarks:        Deer Park Independent School District
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+
+route:          66.60.232.0/24
+descr:          PLW-NET-34
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          66.60.234.0/24
+descr:          PLW-NET-19
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          66.60.241.0/24
+descr:          PLW-NET-20
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          66.60.244.0/24
+descr:          PLW-NET-35
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          66.60.245.0/24
+descr:          SYSCO-NET-1
+origin:         AS54781
+remarks:        Proxy for Sysco Corporation by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20190927
+source:         NTTCOM
+
+route:          66.60.247.0/24
+descr:          PLW-NET-36
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          66.163.95.0/24
+descr:          FBC Library
+origin:         AS19074
+remarks:        Proxy for Fort Bend County Library
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20160907
+source:         NTTCOM
+
+route:          66.249.97.0/24
+descr:          PLW-NET-37
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          66.249.98.0/24
+descr:          PLW-NET-38
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          66.249.99.0/24
+descr:          PLW-NET-03
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          66.249.100.0/24
+descr:          PLW-NET-21
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          66.249.101.0/24
+descr:          PLW-NET-04
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          66.249.108.0/24
+descr:          PLW-NET-22
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          66.249.111.0/24
+descr:          PLW-NET-23
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          66.249.112.0/24
+descr:          PLW-NET-23
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+
+route:          66.249.113.0/24
+descr:          PLW-NET-24
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          66.249.119.0/24
+descr:          PLW-Net-66-249-119
+origin:         AS394437
+remarks:        PS Lightwave Network 66-249-119
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210308
+source:         NTTCOM
+
+route:          66.249.124.0/24
+descr:          Mustang Engineering
+origin:         AS14889
+remarks:        PSL-Mustang-Net-1
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+
+route:          66.249.124.0/24
+descr:          PLW-NET-45
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170512
+source:         NTTCOM
+
+route:          72.20.128.0/24
+descr:          NET-72-20-128-0
+origin:         AS394437
+remarks:        PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20190405
+source:         NTTCOM
+
+route:          72.20.129.0/24
+descr:          SUGAR-CREEK-PSL-NET-91
+origin:         AS20432
+remarks:        Sugar Creek Baptist Church
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+
+route:          72.20.129.0/24
+descr:          PLW-NET-25
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          72.20.132.0/24
+descr:          PLW-NET-44
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170512
+source:         NTTCOM
+
+route:          72.20.133.0/24
+descr:          PLW-NET-26
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          72.20.134.0/24
+descr:          PLW-NET-48
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170512
+source:         NTTCOM
+
+route:          72.20.135.0/24
+descr:          PLW-NET-27
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          72.20.137.0/24
+descr:          PLW-NET-137
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+
+route:          72.20.138.0/24
+descr:          PLW-NET-28
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          72.20.140.0/24
+descr:          PLW-NET-29
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          72.20.144.0/24
+descr:          MUSTANG-PSL-NET-01
+origin:         AS14889
+remarks:        Mustang Engineering L.P.
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+
+route:          72.20.144.0/24
+descr:          PLW-NET-144
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+
+route:          72.20.146.0/24
+descr:          PLW-NET-46
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170512
+source:         NTTCOM
+
+route:          72.20.147.0/24
+descr:          PLW-NET-147
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+
+route:          72.20.151.0/24
+descr:          PLW-NET-06
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+
+route:          72.20.152.0/24
+descr:          PLW-GTL-Network-01
+origin:         AS22362
+remarks:        Proxy object for Global Tel*link Corporation by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2021-06-22T15:01:38Z
+
+route:          72.20.152.0/24
+descr:          PLW-NET-06
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          72.20.153.0/24
+descr:          PLW-NET-07
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          72.20.155.0/24
+descr:          PLW-NET-08
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          72.20.156.0/24
+descr:          PLW-NET-09
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          72.20.157.0/24
+descr:          PLW-NET-30
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          72.20.158.0/24
+descr:          Cameron
+origin:         AS25618
+remarks:        PSL-Cameron-Net-2
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+
+route:          72.20.158.0/24
+descr:          PLW-NET-158
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+
+route:          72.20.159.0/24
+descr:          PLW-NET-39
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          72.46.96.0/22
+descr:          LIGHTWAVE-NET-03
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170530
+source:         NTTCOM
+
+route:          74.124.32.0/24
+descr:          PLW-NET-11
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          74.124.33.0/24
+descr:          PLW-NET-31
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          74.124.44.0/24
+descr:          Stratitsphere-Network-01
+origin:         AS53659
+remarks:        Stratitsphere
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+
+route:          74.124.44.0/24
+descr:          PLW-NET-31
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+
+route:          74.124.48.0/24
+descr:          Stratitsphere-Network-02
+origin:         AS53659
+remarks:        Stratitsphere
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+
+route:          74.124.48.0/24
+descr:          PLW-NET-31
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+
+route:          74.124.51.0/24
+descr:          PLW-NET-47
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170512
+source:         NTTCOM
+
+route:          74.124.58.0/24
+descr:          PLW-NET-32
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          74.124.59.0/24
+descr:          PLW-NET-14
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          96.8.32.0/23
+descr:          SmartCity-GRB-Net-9
+origin:         AS32686
+remarks:        Proxy for SmartCity by PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20180530
+source:         NTTCOM
+
+route:          98.96.0.0/17
+descr:          TACHUS-Net-03
+origin:         AS397412
+remarks:        Proxy object for Tachus by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2021-10-08T03:43:38Z
+
+route:          104.255.204.0/24
+descr:          CFISD-Net-1
+origin:         AS26779
+remarks:        Proxy object for CFISD by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210122
+source:         NTTCOM
+
+route:          104.255.205.0/24
+descr:          CFISD-Net-2
+origin:         AS26779
+remarks:        Proxy object for CFISD by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210122
+source:         NTTCOM
+
+route:          104.255.206.0/24
+descr:          CFISD-Net-3
+origin:         AS26779
+remarks:        Proxy object for CFISD by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210122
+source:         NTTCOM
+
+route:          104.255.207.0/24
+descr:          CFISD-Net-4
+origin:         AS26779
+remarks:        Proxy object for CFISD by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210122
+source:         NTTCOM
+
+route:          129.230.241.0/24
+descr:          BP-Network-PLW-01
+origin:         AS2535
+remarks:        Proxy object for BP North America by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210426
+source:         NTTCOM
+
+route:          136.244.0.0/18
+descr:          TACHUS-Net-01
+origin:         AS397412
+remarks:        Proxy object for Tachus by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20200501
+source:         NTTCOM
+
+route:          141.193.92.0/24
+descr:          NET-141-193-92-0
+origin:         AS19227
+remarks:        PS Lightwave - Lonestar College
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20190423
+source:         NTTCOM
+
+route:          141.193.92.0/22
+descr:          LIGHTWAVE-NET-10
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20180403
+source:         NTTCOM
+
+route:          144.177.70.0/23
+descr:          Aker-Frontica-Net-70
+origin:         AS394437
+remarks:        Proxy object by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20151210
+source:         NTTCOM
+
+route:          144.177.76.0/23
+descr:          Aker-Frontica-Net-76
+origin:         AS394437
+remarks:        Proxy object by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20151210
+source:         NTTCOM
+
+route:          144.177.78.0/23
+descr:          Aker-Frontica-Net-78
+origin:         AS394437
+remarks:        Proxy object by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20151210
+source:         NTTCOM
+
+route:          161.38.249.0/24
+descr:          COM-Net-01
+origin:         AS398147
+remarks:        Proxy for College of the Mainland by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20191204
+source:         NTTCOM
+
+route:          162.249.46.0/24
+descr:          Carriage-Net-01
+origin:         AS63325
+remarks:        Proxy for Carriage Services by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20191031
+source:         NTTCOM
+
+route:          162.249.46.0/23
+descr:          Carriage-Services-Net-1
+origin:         AS394437
+remarks:        Proxy for Carriage Services by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20190313
+source:         NTTCOM
+
+route:          165.254.152.0/23
+descr:          PLW-NTT-Net1
+origin:         AS394437
+remarks:        PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20190405
+source:         NTTCOM
+
+route:          170.39.204.0/24
+descr:          HCDE-TEXAS-Net-01
+origin:         AS397371
+remarks:        Proxy object for HCDE by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20201207
+source:         NTTCOM
+
+route:          172.86.237.0/24
+descr:          FBCNET-NET-01
+origin:         AS3935335
+remarks:        Proxy for Fort Bend County by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20191025
+source:         NTTCOM
+
+route:          172.99.12.0/22
+descr:          SOFTWAY-NET-1
+origin:         AS394131
+remarks:        Proxy for Softway Solution by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20190430
+source:         NTTCOM
+
+route:          185.65.146.0/24
+descr:          Net-185-65-146-0
+origin:         AS36239
+remarks:        Proxy objecy by PSLightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210317
+source:         NTTCOM
+
+route:          190.102.96.0/24
+descr:          Net-190-102-96-0
+origin:         AS35899
+remarks:        Proxy object by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210317
+source:         NTTCOM
+
+route:          190.102.97.0/24
+descr:          Net-190-102-97-0
+origin:         AS35899
+remarks:        Proxy object by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210317
+source:         NTTCOM
+
+route:          192.23.124.0/24
+descr:          SLB-NET-02
+origin:         AS394437
+remarks:        Phonoscope LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20160624
+source:         NTTCOM
+
+route:          192.23.125.0/24
+descr:          SLB-NET-01
+origin:         AS394437
+remarks:        Phonoscope LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20160624
+source:         NTTCOM
+
+route:          192.23.126.0/24
+descr:          SLB-NET-03
+origin:         AS394437
+remarks:        Phonoscope LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20160624
+source:         NTTCOM
+
+route:          192.55.241.0/24
+descr:          NET-192-55-241-0-1
+origin:         AS63171
+remarks:        Proxy object for Pasadena ISD by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2021-06-23T14:34:06Z
+
+route:          192.77.187.0/24
+descr:          CJES-NET-ARIN-1
+origin:         AS63455
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20171201
+source:         NTTCOM
+
+route:          192.80.60.0/24
+descr:          PearlandISD-Net-01
+origin:         AS394324
+remarks:        Proxy object by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20151029
+source:         NTTCOM
+
+route:          192.139.215.0/24
+descr:          REPSOL-NET-1
+origin:         AS32443
+remarks:        Proxy for Repsol by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20190312
+source:         NTTCOM
+
+route:          192.139.215.0/24
+descr:          REPSOL-NET-1
+origin:         AS394437
+remarks:        Proxy for Repsol by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20190108
+source:         NTTCOM
+
+route:          192.150.255.0/24
+descr:          SITUS-NET-01
+origin:         AS393865
+remarks:        Proxy for SITUS Group by PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20160727
+source:         NTTCOM
+
+route:          198.8.72.0/24
+descr:          AlvinISD-Net-01
+origin:         AS397953
+remarks:        Proxy for Alvin ISD by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20200121
+source:         NTTCOM
+
+route:          198.35.16.0/22
+descr:          LIGHTWAVE-NET-07
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170831
+source:         NTTCOM
+
+route:          198.147.198.0/24
+descr:          KLEIN-NET-01
+origin:         AS54772
+remarks:        Proxy for KISD by PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20160725
+source:         NTTCOM
+
+route:          198.151.208.0/24
+descr:          REG4-CS-05
+origin:         AS26675
+remarks:        Proxy object for RegionIV by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2021-10-07T00:07:43Z
+
+route:          198.185.112.0/24
+descr:          GROCERS-NET-02
+origin:         AS55007
+remarks:        Proxy for Grocers Supply by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20191023
+source:         NTTCOM
+
+route:          199.59.234.0/24
+descr:          National-Oil-Well-Net-2
+origin:         AS22803
+remarks:        proxy object by PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20171128
+source:         NTTCOM
+
+route:          205.196.178.0/24
+descr:          PLW-NET-40
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          205.196.181.0/24
+descr:          PLW-NET-33
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          205.196.182.0/24
+descr:          PLW-NET-15
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          205.196.183.0/24
+descr:          PLW-NET-41
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          205.196.186.0/24
+descr:          PLW-NET-42
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          205.196.187.0/24
+descr:          PLW-NET-43
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          205.196.189.0/24
+descr:          PLW-NET-16
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          205.196.190.0/24
+descr:          PLW-NET-17
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+
+route:          205.196.191.0/24
+descr:          PLW-NET-17
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+
+route:          206.195.100.0/24
+descr:          TSystems -NET-2
+origin:         AS18704
+remarks:        Proxy for TSystems by PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        tcoronado@pslightwave.com 20170913
+source:         NTTCOM
+
+route:          206.195.113.0/24
+descr:          TSystems -NET-3
+origin:         AS18704
+remarks:        Proxy for TSystems by PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        tcoronado@pslightwave.com 20170913
+source:         NTTCOM
+
+route:          206.198.212.0/22
+descr:          LIGHTWAVE-NET-09
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20180202
+source:         NTTCOM
+
+route:          206.198.212.0/24
+descr:          KPRC-NET-2
+origin:         AS396849
+remarks:        Proxy for KPRC by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20180718
+source:         NTTCOM
+
+route:          206.225.176.0/22
+descr:          Metro-Net-01
+origin:         AS30049
+remarks:        Proxy object for Metro by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210122
+source:         NTTCOM
+
+route:          206.225.182.0/24
+descr:          Metro-Net-182
+origin:         AS30049
+remarks:        Proxy object for Metro by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210122
+source:         NTTCOM
+
+route:          206.225.183.0/24
+descr:          Metro-Net-183
+origin:         AS30049
+remarks:        Proxy object for Metro by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210122
+source:         NTTCOM
+
+route:          206.225.184.0/21
+descr:          Metro-Net-184-21
+origin:         AS30049
+remarks:        Proxy object for Metro by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210122
+source:         NTTCOM
+
+route:          206.225.184.0/24
+descr:          Metro-Net-184
+origin:         AS30049
+remarks:        Proxy object for Metro by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210122
+source:         NTTCOM
+
+route:          206.225.186.0/24
+descr:          Metro-Net-186
+origin:         AS30049
+remarks:        Proxy object for Metro by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210122
+source:         NTTCOM
+
+route:          206.225.187.0/24
+descr:          Metro-Net-187
+origin:         AS30049
+remarks:        Proxy object for Metro by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210122
+source:         NTTCOM
+
+route:          206.225.188.0/24
+descr:          Metro-Net-188
+origin:         AS30049
+remarks:        Proxy object for Metro by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210122
+source:         NTTCOM
+
+route:          206.225.189.0/24
+descr:          Metro-Net-189
+origin:         AS30049
+remarks:        Proxy object for Metro by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210122
+source:         NTTCOM
+
+route:          206.225.190.0/24
+descr:          Metro-Net-190
+origin:         AS30049
+remarks:        Proxy object for Metro by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210122
+source:         NTTCOM
+
+route:          206.225.191.0/24
+descr:          Metro-Net-191
+origin:         AS30049
+remarks:        Proxy object for Metro by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210122
+source:         NTTCOM
+
+route:          209.173.252.0/22
+descr:          LIGHTWAVE-NET-01
+origin:         AS394437
+remarks:        Phonoscope LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20160407
+source:         NTTCOM
+
+route:          209.209.89.0/24
+descr:          NCISD-IPBLOCK-1
+origin:         AS399620
+remarks:        Proxy object for New Caney ISD by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2021-06-23T14:09:16Z
+
+route6:         2604:b180:10::/44
+descr:          SmartCity-GRB-Net-IPv6-1
+origin:         AS32779
+remarks:        SmartCity proxy object by PHONOSCOPE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20151201
+source:         NTTCOM
+
+route6:         2604:b180:10::/44
+descr:          GHC911-PSLightwave-IPv6
+origin:         AS46209
+remarks:        GHC911 proxy object by LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20160516
+source:         NTTCOM
+
+route6:         2606:a780::/32
+descr:          PS-Lightwave-IPv6-1
+origin:         AS394437
+remarks:        Phonoscope Light Wave IPv6
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20151201
+source:         NTTCOM
+
+route6:         2620:bf:c000::/48
+descr:          City-of-Houston-Net-IPv6-1
+origin:         AS32457
+remarks:        COH proxy object by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20151016
+source:         NTTCOM
+
+aut-num:        AS2535
+as-name:        BP
+descr:          BP Products North America
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210426
+source:         NTTCOM
+
+aut-num:        AS11942
+as-name:        IPGLOBAL
+descr:          IP Global a PS Lightwave Company
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20200915
+source:         NTTCOM
+
+aut-num:        AS18704
+as-name:        T-SYSTEMS-NA
+descr:          T-Systems North America, Inc.=20
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170213
+source:         NTTCOM
+
+aut-num:        AS22362
+as-name:        GLOBALTELLINK-HNSS
+descr:          Global Tel*link Corporation
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2021-06-21T21:49:14Z
+
+aut-num:        AS26779
+as-name:        CFISD
+descr:          Cypress-Fairbanks ISD
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20191011
+source:         NTTCOM
+
+aut-num:        AS32208
+as-name:        SKL-SERVICES-ASN
+descr:          Proxy object for Virtual Tone by PS Lightwave
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210317
+source:         NTTCOM
+
+aut-num:        AS32443
+as-name:        US-REPSOLSERVICESCOMPANY
+descr:          Proxy for Respol Services Company
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20190312
+source:         NTTCOM
+
+aut-num:        AS32686
+as-name:        SMART-CITY-RPCC
+descr:          Smart City Networks, L.P.
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20180531
+source:         NTTCOM
+
+aut-num:        AS46209
+as-name:        GHC911
+descr:          GHC911
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20160516
+source:         NTTCOM
+
+aut-num:        AS54772
+as-name:        KLEIN-ISD
+descr:          Klein Independent School District
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20160725
+source:         NTTCOM
+
+aut-num:        AS54781
+as-name:        SYSCO-AS
+descr:          Sysco Corporation
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20190926
+source:         NTTCOM
+
+aut-num:        AS54808
+as-name:        SUN-COAST-RESOURCES
+descr:          Sun Coast Resources, Inc.
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210414
+source:         NTTCOM
+
+aut-num:        AS63171
+as-name:        PASADENA-ISD-AS1
+descr:          Pasadena Independent School District
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2021-06-23T14:32:23Z
+
+aut-num:        AS63455
+as-name:        CJES
+descr:          C&J Energy Services
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20171201
+source:         NTTCOM
+
+aut-num:        AS393865
+as-name:        SITUS
+descr:          Situs Group LLC
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20160727
+source:         NTTCOM
+
+aut-num:        AS394131
+as-name:        SOFTWAY-US
+descr:          Softway Solution, Inc.
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20190430
+source:         NTTCOM
+
+aut-num:        AS394324
+as-name:        PEARLAND-ISD
+descr:          Pearland ISD=20
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20151029
+source:         NTTCOM
+
+aut-num:        AS396849
+as-name:        KPRC
+descr:          GRAHAM MEDIA GROUP, HOUSTON, INC. (GMGH)            =20
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20180718
+source:         NTTCOM
+
+aut-num:        AS397371
+as-name:        HCDE-TEXAS
+descr:          Harris County Department of Education
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20201207
+source:         NTTCOM
+
+aut-num:        AS397412
+as-name:        TACHUS
+descr:          Tachus Infrastructure LLC
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20200501
+source:         NTTCOM
+
+aut-num:        AS397953
+as-name:        ALVIN-ISD-01
+descr:          Alvin Independent School District
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20200121
+source:         NTTCOM
+
+aut-num:        AS398147
+as-name:        COLLEGEOFTHEMAINLAND-1
+descr:          College of the Mainland
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20191204
+source:         NTTCOM
+
+aut-num:        AS399620
+as-name:        NCISD
+descr:          New Caney ISD
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2021-06-23T14:07:17Z
+
+mntner:         MAINT-PSLIGHTWAVE
+descr:          PS Lightwave
+admin-c:        PLACEHOLDER-NTTCOM
+tech-c:         PLACEHOLDER-NTTCOM
+upd-to:         netops@pslightwave.com
+mnt-nfy:        netops@pslightwave.com
+auth:           CRYPT-PW DummyValue  # Filtered for security
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20150909
+source:         NTTCOM
+last-modified:  2021-07-30T22:35:54Z
+
+person:         ROBERT JACOBS
+nic-hdl:        RJ490-ARIN
+address:        PS Lightwave
+address:        6105 WESTLINE DR
+address:        Houston, TX 77036
+phone:          +1-713-272-4600
+e-mail:         rjacobs@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20190926
+source:         NTTCOM
+
+person:         SWEN Wulf
+nic-hdl:        SWU-ARIN
+address:        PS Lightwave
+address:        6105 WESTLINE DR
+address:        Houston, TX 77036
+phone:          +1-713-272-4600
+e-mail:         swulf@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20190926
+source:         NTTCOM
+
+route:          172.86.237.0/24
+descr:          FBCNET-24
+origin:         AS393535
+remarks:        Proxy object for Fort Bend County by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        tcoronado@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-05-12T15:21:49Z
+
+route:          69.41.23.0/24
+descr:          LONESTAR-NET-7
+origin:         AS19927
+remarks:        Proxy for Lone Star College System District
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-05-25T00:18:08Z
+
+route:          69.41.29.0/24
+descr:          LONESTAR-NET-8
+origin:         AS19927
+remarks:        Proxy for Lone Star College System District
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-05-25T00:18:53Z
+
+route:          69.41.16.0/20
+descr:          LONESTAR-NET-SLASH20
+origin:         AS19927
+remarks:        Proxy for  Lone Star College System District
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-05-25T00:19:26Z
+
+route:          69.41.20.0/24
+descr:          LONESTAR-NET-04
+origin:         AS19927
+remarks:        Proxy for  Lone Star College System District
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-05-25T00:25:13Z
+
+route:          69.41.21.0/24
+descr:          LONESTAR-NET-5
+origin:         AS19927
+remarks:        Proxy for Lone Star College System District
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-05-25T00:26:10Z
+
+route:          69.41.22.0/24
+descr:          LONESTAR-NET-6
+origin:         AS19927
+remarks:        Proxy for Lone Star College System District
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-05-25T00:27:03Z
+
+route:          163.185.249.0/24
+descr:          SLB-NET-04
+origin:         AS394437
+remarks:        Proxy for Schlumberger by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-06-21T22:29:45Z
+
+route:          198.145.236.0/24
+descr:          ASPEN-MEDIA-NET-PLW-01
+origin:         AS394437
+remarks:        Proxy for Aspen Media Network by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-06-25T02:07:00Z
+
+aut-num:        AS397770
+as-name:        TRINITYLINK-01
+descr:          Trinity Link LLC
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        tcoronado@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-08-18T20:10:31Z
+
+route:          72.46.99.0/24
+descr:          TRINITYLINK-01
+origin:         AS397770
+remarks:        Proxy object for Trinity Link by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        tcoronado@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-08-18T20:10:38Z
+
+aut-num:        AS19856
+as-name:        BRAZOSPORT
+descr:          Brazosport College
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        tcoronado@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-09-01T14:13:34Z
+
+route:          206.40.176.0/20
+descr:          Brazosport College
+origin:         AS19856
+remarks:        Proxy object for Trinity Link by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        tcoronado@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-09-01T14:17:12Z
+
+aut-num:        AS15753
+as-name:        BP-US-2
+descr:          BP International Ltd
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        tcoronado@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-09-08T21:11:42Z
+
+route:          164.63.253.0/24
+descr:          BP International Ltd
+origin:         AS15753
+remarks:        Proxy object for Sun Coast by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        tcoronado@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-09-08T21:14:23Z
+
+route:          128.254.160.0/22
+descr:          TRINITYLINK-01
+origin:         AS397770
+remarks:        Proxy object for Trinity Link by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        tcoronado@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-10-20T21:58:15Z
+
+aut-num:        AS17035
+as-name:        NBCUNI-17035
+descr:          NBCUniversal
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-12-12T23:15:56Z
+
+aut-num:        AS1678
+as-name:        DOW
+descr:          The Dow Chemical Company
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-12-12T23:19:20Z
+
+route:          204.136.182.0/24
+descr:          NET-204-136-182-0-1
+origin:         AS1678
+remarks:        Proxy object for Dow by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-12-12T23:38:32Z
+
+route:          204.163.184.0/24
+descr:          NET-204-163-184-0-1
+origin:         AS1678
+remarks:        Proxy object for Dow by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-12-12T23:39:29Z
+
+as-set:         AS-PSLIGHTWAVE
+descr:          AS set for PS Lightwave
+members:        AS394437,AS22442,AS32779,AS62867,AS53406,AS394252
+members:        AS19927,AS32457,AS394324,AS11124,AS19725
+members:        AS22803,AS25618,AS26675,AS36434,AS33203
+members:        AS30049,AS63153,AS19074,AS22239,AS394414
+members:        AS27297,AS32606,AS393535,AS55007,AS14889
+members:        AS46209,AS54772,AS393865,AS393414,AS32626
+members:        AS22403,AS54363,AS18704,AS63455,AS32686
+members:        AS396849,AS63325,AS32443,AS54781,AS16970:AS-MIDNET-ALL
+members:        AS26779,AS398147,AS397953,AS397412,AS11942
+members:        AS397371,AS397736,AS36239,AS35899,AS32208
+members:        AS54808,AS2535,AS22362,AS399767,AS399620
+members:        AS63171,AS20278,AS397770,AS19856,AS15753
+members:        AS1678,AS17035
+tech-c:         SWU-ARIN
+admin-c:        SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-12-12T23:43:34Z
+
+aut-num:        AS394437
+as-name:        PSLIGHTWAVE
+descr:          PS Lightwave, Inc
+admin-c:        SWU-ARIN
+tech-c:         SWU-ARIN
+import:         from AS2914 accept ANY and not {0.0.0.0/0}
+import:         from AS3356 accept ANY and not {0.0.0.0/0}
+import:         from AS174 accept ANY and not {0.0.0.0/0}
+import:         from AS22442 accept ANY and not {0.0.0.0/0}
+mp-import:      afi ipv6.unicast from AS2914 accept ANY
+mp-import:      afi ipv6.unicast from AS3356 accept ANY
+mp-import:      afi ipv6.unicast from AS174 accept ANY
+mp-import:      afi ipv6.unicast from AS6939 accept ANY
+import:         from AS32779 accept AS32779
+import:         from AS62867 accept AS62867
+import:         from AS53406 accept AS53406
+import:         from AS394252 accept AS394252
+import:         from AS19927 accept AS19927
+import:         from AS32457 accept AS32457
+import:         from AS394324 accept AS394324
+import:         from AS11124 accept AS11124
+import:         from AS19725 accept AS19725
+import:         from AS22803 accept AS22803
+import:         from AS25618 accept AS25618
+import:         from AS26675 accept AS26675
+import:         from AS36434 accept AS36434
+import:         from AS33203 accept AS33203
+import:         from AS30049 accept AS30049
+import:         from AS63153 accept AS63153
+import:         from AS19074 accept AS19074
+import:         from AS22239 accept AS22239
+import:         from AS394414 accept AS394414
+import:         from AS27297 accept AS27297
+import:         from AS32606 accept AS32606
+import:         from AS393535 accept AS393535
+import:         from AS55007 accept AS55007
+import:         from AS14889 accept AS14889
+import:         from AS46209 accept AS46209
+import:         from AS54772 accept AS54772
+import:         from AS393865 accept AS393865
+import:         from AS393414 accept AS393414
+import:         from AS32626 accept AS32626
+import:         from AS22403 accept AS22403
+import:         from AS54363 accept AS54363
+import:         from AS18704 accept AS18704
+import:         from AS63455 accept AS63455
+import:         from AS63325 accept AS63325
+import:         from AS32443 accept AS32443
+import:         from AS394131 accept AS394131
+import:         from AS54781 accept AS54781
+import:         from AS26779 accept AS26779
+import:         from AS398147 accept AS398147
+import:         from AS397953 accept AS397953
+import:         from AS397412 accept AS397412
+import:         from AS11942 accept AS11942
+import:         from AS397371 accept AS397371
+import:         from AS397736 accept AS397736
+import:         from AS32208 accept AS32208
+import:         from AS16970 accept AS16970
+import:         from AS54808 accept AS54808
+import:         from AS2535 accept AS2535
+import:         from AS22362 accept AS22362
+import:         from AS399620 accept AS399620
+import:         from AS399767 accept AS399767
+import:         from AS63171 accept AS63171
+import:         from AS20278 accept AS20278
+import:         from AS397770 accept AS397770
+import:         from AS19856 accept AS19856
+import:         from AS15753 accept AS15753
+import:         from AS1678 accept AS1678
+import:         from AS17035 accept AS17035
+mp-import:      afi ipv6.unicast from AS397736 accept AS397736
+mp-import:      afi ipv6.unicast from AS20278 accept AS20278
+mp-import:      afi ipv6.unicast from AS397412 accept AS397412
+export:         to AS2914 announce AS394437
+export:         to AS2914 announce AS22442
+export:         to AS2914 announce AS32779
+export:         to AS2914 announce AS62867
+export:         to AS2914 announce AS53406
+export:         to AS2914 announce AS394252
+export:         to AS2914 announce AS19927
+export:         to AS2914 announce AS32457
+export:         to AS2914 announce AS394324
+export:         to AS2914 announce AS11124
+export:         to AS2914 announce AS19725
+export:         to AS2914 announce AS22803
+export:         to AS2914 announce AS25618
+export:         to AS2914 announce AS26675
+export:         to AS2914 announce AS36434
+export:         to AS2914 announce AS33203
+export:         to AS2914 announce AS30049
+export:         to AS2914 announce AS63153
+export:         to AS2914 announce AS19074
+export:         to AS2914 announce AS22239
+export:         to AS2914 announce AS394414
+export:         to AS2914 announce AS27297
+export:         to AS2914 announce AS32606
+export:         to AS2914 announce AS393535
+export:         to AS2914 announce AS55007
+export:         to AS2914 announce AS14889
+export:         to AS2914 announce AS46209
+export:         to AS2914 announce AS54772
+export:         to AS2914 announce AS393865
+export:         to AS2914 announce AS393414
+export:         to AS2914 announce AS32626
+export:         to AS2914 announce AS22403
+export:         to AS2914 announce AS54363
+export:         to AS2914 announce AS18704
+export:         to AS2914 announce AS63455
+export:         to AS2914 announce AS63325
+export:         to AS2914 announce AS32443
+export:         to AS2914 announce AS394131
+export:         to AS2914 announce AS54781
+export:         to AS2914 announce AS26779
+export:         to AS2914 announce AS398147
+export:         to AS2914 announce AS397953
+export:         to AS2914 announce AS397412
+export:         to AS2914 announce AS11942
+export:         to AS2914 announce AS397371
+export:         to AS2914  announce AS397736
+export:         to AS2914 announce AS32208
+export:         to AS2914 announce AS16970
+export:         to AS2914 announce AS54808
+export:         to AS2914 announce AS2535
+export:         to AS2914 announce AS22362
+export:         to AS2914 announce AS399620
+export:         to AS2914 announce AS399767
+export:         to AS2914 announce AS63171
+export:         to AS2914 announce AS20278
+export:         to AS2914 announce AS397770
+export:         to AS2914 announce AS19856
+export:         to AS2914 announce AS15753
+export:         to AS2914 announce AS1678
+export:         to AS2914 announce AS17035
+export:         to AS3356 announce AS394437
+export:         to AS3356 announce AS22442
+export:         to AS3356 announce AS32779
+export:         to AS3356 announce AS62867
+export:         to AS3356 announce AS53406
+export:         to AS3356 announce AS394252
+export:         to AS3356 announce AS19927
+export:         to AS3356 announce AS32457
+export:         to AS3356 announce AS394324
+export:         to AS3356 announce AS11124
+export:         to AS3356 announce AS19725
+export:         to AS3356 announce AS22803
+export:         to AS3356 announce AS25618
+export:         to AS3356 announce AS26675
+export:         to AS3356 announce AS36434
+export:         to AS3356 announce AS33203
+export:         to AS3356 announce AS30049
+export:         to AS3356 announce AS63153
+export:         to AS3356 announce AS19074
+export:         to AS3356 announce AS22239
+export:         to AS3356 announce AS394414
+export:         to AS3356 announce AS27297
+export:         to AS3356 announce AS32606
+export:         to AS3356 announce AS393535
+export:         to AS3356 announce AS55007
+export:         to AS3356 announce AS14889
+export:         to AS3356 announce AS46209
+export:         to AS3356 announce AS54772
+export:         to AS3356 announce AS393865
+export:         to AS3356 announce AS393414
+export:         to AS3356 announce AS32626
+export:         to AS3356 announce AS22403
+export:         to AS3356 announce AS54363
+export:         to AS3356 announce AS18704
+export:         to AS3356 announce AS63455
+export:         to AS3356 announce AS63325
+export:         to AS3356 announce AS32443
+export:         to AS3356 announce AS394131
+export:         to AS3356 announce AS54781
+export:         to AS3356 announce AS26779
+export:         to AS3356 announce AS398147
+export:         to AS3356 announce AS397953
+export:         to AS3356 announce AS397412
+export:         to AS3356 announce AS11942
+export:         to AS3356 announce AS397371
+export:         to AS3356  announce AS397736
+export:         to AS3356 announce AS32208
+export:         to AS3356 announce AS16970
+export:         to AS3356 announce AS54808
+export:         to AS3356 announce AS2535
+export:         to AS3356 announce AS22362
+export:         to AS3356 announce AS399620
+export:         to AS3356 announce AS399767
+export:         to AS3356 announce AS63171
+export:         to AS3356 announce AS20278
+export:         to AS3356 announce AS397770
+export:         to AS3356 announce AS19856
+export:         to AS3356 announce AS15753
+export:         to AS3356 announce AS1678
+export:         to AS3356 announce AS17035
+export:         to AS174 announce AS394437
+export:         to AS174 announce AS22442
+export:         to AS174 announce AS32779
+export:         to AS174 announce AS62867
+export:         to AS174 announce AS53406
+export:         to AS174 announce AS394252
+export:         to AS174 announce AS19927
+export:         to AS174 announce AS32457
+export:         to AS174 announce AS394324
+export:         to AS174 announce AS11124
+export:         to AS174 announce AS19725
+export:         to AS174 announce AS22803
+export:         to AS174 announce AS25618
+export:         to AS174 announce AS26675
+export:         to AS174 announce AS36434
+export:         to AS174 announce AS33203
+export:         to AS174 announce AS30049
+export:         to AS174 announce AS63153
+export:         to AS174 announce AS19074
+export:         to AS174 announce AS22239
+export:         to AS174 announce AS394414
+export:         to AS174 announce AS27297
+export:         to AS174 announce AS32606
+export:         to AS174 announce AS393535
+export:         to AS174 announce AS55007
+export:         to AS174 announce AS14889
+export:         to AS174 announce AS46209
+export:         to AS174 announce AS54772
+export:         to AS174 announce AS393865
+export:         to AS174 announce AS393414
+export:         to AS174 announce AS32626
+export:         to AS174 announce AS22403
+export:         to AS174 announce AS54363
+export:         to AS174 announce AS18704
+export:         to AS174 announce AS18704
+export:         to AS174 announce AS63455
+export:         to AS174 announce AS63325
+export:         to AS174 announce AS32443
+export:         to AS174 announce AS394131
+export:         to AS174 announce AS54781
+export:         to AS174 announce AS26779
+export:         to AS174 announce AS398147
+export:         to AS174 announce AS397953
+export:         to AS174 announce AS397412
+export:         to AS174 announce AS11942
+export:         to AS174 announce AS397371
+export:         to AS174  announce AS397736
+export:         to AS174 announce AS32208
+export:         to AS174 announce AS16970
+export:         to AS174 announce AS54808
+export:         to AS174 announce AS2535
+export:         to AS174 announce AS22362
+export:         to AS174 announce AS399620
+export:         to AS174 announce AS399767
+export:         to AS174 announce AS63171
+export:         to AS174 announce AS20278
+export:         to AS174 announce AS397770
+export:         to AS174 announce AS19856
+export:         to AS174 announce AS15753
+export:         to AS174 announce AS1678
+export:         to AS174 announce AS17035
+mp-export:      afi ipv6.unicast to AS174    announce AS394437
+mp-export:      afi ipv6.unicast to AS2914   announce AS394437
+mp-export:      afi ipv6.unicast to AS3356   announce AS394437
+mp-export:      afi ipv6.unicast to AS6939   announce AS394437
+mp-export:      afi ipv6.unicast to AS174    announce AS397736
+mp-export:      afi ipv6.unicast to AS2914   announce AS397736
+mp-export:      afi ipv6.unicast to AS3356   announce AS397736
+mp-export:      afi ipv6.unicast to AS6939   announce AS397736
+mp-export:      afi ipv6.unicast to AS174    announce AS20278
+mp-export:      afi ipv6.unicast to AS2914   announce AS20278
+mp-export:      afi ipv6.unicast to AS3356   announce AS20278
+mp-export:      afi ipv6.unicast to AS6939   announce AS20278
+mp-export:      afi ipv6.unicast to AS174    announce AS397412
+mp-export:      afi ipv6.unicast to AS2914   announce AS397412
+mp-export:      afi ipv6.unicast to AS3356   announce AS397412
+mp-export:      afi ipv6.unicast to AS6939   announce AS397412
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-12-13T00:02:56Z
+
+route6:         2606:e2c0::/32
+descr:          TACHUS-IPv6-Net-01
+origin:         AS397412
+remarks:        Proxy object for Tachus Fiber Internet by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-12-13T00:10:58Z
+
+route:          50.172.163.0/24
+descr:          NET-50-172-163-0-1
+origin:         AS17035
+remarks:        Proxy object for NBCUniversal
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2023-01-04T20:03:04Z
