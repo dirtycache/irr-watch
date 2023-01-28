@@ -1744,6 +1744,26 @@ changed:        swulf@pslightwave.com
 source:         NTTCOM
 last-modified:  2022-12-12T23:43:34Z
 
+route6:         2606:e2c0::/32
+descr:          TACHUS-IPv6-Net-01
+origin:         AS397412
+remarks:        Proxy object for Tachus Fiber Internet by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-12-13T00:10:58Z
+
+route:          50.172.163.0/24
+descr:          NET-50-172-163-0-1
+origin:         AS17035
+remarks:        Proxy object for NBCUniversal
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2023-01-04T20:03:04Z
+
 aut-num:        AS394437
 as-name:        PSLIGHTWAVE
 descr:          PS Lightwave, Inc
@@ -1815,6 +1835,7 @@ import:         from AS19856 accept AS19856
 import:         from AS15753 accept AS15753
 import:         from AS1678 accept AS1678
 import:         from AS17035 accept AS17035
+import:         from AS32686 accept AS32686
 mp-import:      afi ipv6.unicast from AS397736 accept AS397736
 mp-import:      afi ipv6.unicast from AS20278 accept AS20278
 mp-import:      afi ipv6.unicast from AS397412 accept AS397412
@@ -1878,6 +1899,7 @@ export:         to AS2914 announce AS19856
 export:         to AS2914 announce AS15753
 export:         to AS2914 announce AS1678
 export:         to AS2914 announce AS17035
+export:         to AS2914 announce AS32686
 export:         to AS3356 announce AS394437
 export:         to AS3356 announce AS22442
 export:         to AS3356 announce AS32779
@@ -1938,6 +1960,7 @@ export:         to AS3356 announce AS19856
 export:         to AS3356 announce AS15753
 export:         to AS3356 announce AS1678
 export:         to AS3356 announce AS17035
+export:         to AS3356 announce AS32686
 export:         to AS174 announce AS394437
 export:         to AS174 announce AS22442
 export:         to AS174 announce AS32779
@@ -1999,6 +2022,7 @@ export:         to AS174 announce AS19856
 export:         to AS174 announce AS15753
 export:         to AS174 announce AS1678
 export:         to AS174 announce AS17035
+export:         to AS174 announce AS32686
 mp-export:      afi ipv6.unicast to AS174    announce AS394437
 mp-export:      afi ipv6.unicast to AS2914   announce AS394437
 mp-export:      afi ipv6.unicast to AS3356   announce AS394437
@@ -2019,24 +2043,4 @@ notify:         netops@pslightwave.com
 mnt-by:         MAINT-PSLIGHTWAVE
 changed:        swulf@pslightwave.com
 source:         NTTCOM
-last-modified:  2022-12-13T00:02:56Z
-
-route6:         2606:e2c0::/32
-descr:          TACHUS-IPv6-Net-01
-origin:         AS397412
-remarks:        Proxy object for Tachus Fiber Internet by PS Lightwave
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com
-source:         NTTCOM
-last-modified:  2022-12-13T00:10:58Z
-
-route:          50.172.163.0/24
-descr:          NET-50-172-163-0-1
-origin:         AS17035
-remarks:        Proxy object for NBCUniversal
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com
-source:         NTTCOM
-last-modified:  2023-01-04T20:03:04Z
+last-modified:  2023-01-28T05:01:23Z
