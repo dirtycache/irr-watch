@@ -366,3 +366,12 @@ mnt-by:         MAINT-MIDNET
 changed:        adam.korab@mid.net 20211115
 source:         NTTCOM
 last-modified:  2023-02-02T07:56:26Z
+
+route6:         2602:fbdf::/36
+descr:          Proxy registration for AS398355
+origin:         AS398355
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20220914
+source:         NTTCOM
+last-modified:  2023-02-02T07:56:20Z
