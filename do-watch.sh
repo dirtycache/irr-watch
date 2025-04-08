@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd /home/eng/irr-watch
+cd /home/adam/irr-watch
 
 MAINTAINER=`cat maintainers.txt | sed "s/ *#.*$//g" | grep .`
 IRRDB=`cat registries.txt | sed "s/ *#.*$//g" | grep .`
