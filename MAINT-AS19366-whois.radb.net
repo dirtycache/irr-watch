@@ -1,0 +1,544 @@
+Warning: RIPE flags used with a traditional server.
+route:          23.128.76.0/24
+origin:         AS401414
+descr:          Fibertown Customer - FH-IMT016
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250217 # 19:38 GMT
+source:         RADB
+last-modified:  2025-02-17T19:38:51Z
+rpki-ov-state:  valid
+
+route:          23.166.80.0/24
+origin:         AS398832
+descr:          Fibertown Customer - FB-STR016
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250217 # 19:40 GMT
+source:         RADB
+last-modified:  2025-02-17T19:40:10Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          23.187.248.0/24
+origin:         AS46505
+descr:          Fibertown Customer - FH-NHI017
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250217 # 19:41 GMT
+source:         RADB
+last-modified:  2025-02-17T19:41:30Z
+rpki-ov-state:  valid
+
+route:          97.107.0.0/20
+origin:         AS19366
+descr:          Fibertown Houston Subnet
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250218 # 21:57 GMT
+source:         RADB
+last-modified:  2025-02-18T21:57:45Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          148.59.153.0/24
+origin:         AS25834
+descr:          Fibertown Customer - FH-GCI001
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250217 # 19:02 GMT
+source:         RADB
+last-modified:  2025-02-17T19:02:09Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          149.112.7.0/24
+origin:         AS13681
+descr:          Fibertown IX Upstream - FT-IX-MW002
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250217 # 19:13 GMT
+source:         RADB
+last-modified:  2025-02-17T19:13:33Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          160.76.7.0/24
+origin:         AS36026
+descr:          Fibertown Customer - FB-BVC003
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250217 # 19:15 GMT
+source:         RADB
+last-modified:  2025-02-17T19:15:19Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          172.86.237.0/24
+origin:         AS393535
+descr:          Fibertown Customer - FoBe01
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250401 # 02:19 GMT
+source:         RADB
+last-modified:  2025-04-01T02:19:01Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          173.195.160.0/20
+origin:         AS393605
+descr:          Fibertown Cusfomer - FB-BVC004
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250217 # 19:17 GMT
+source:         RADB
+last-modified:  2025-02-17T19:17:50Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          174.46.10.0/24
+origin:         AS19366
+descr:          Fibertown Upstream - FB-L3005
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250217 # 19:19 GMT
+source:         RADB
+last-modified:  2025-02-17T19:19:40Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          192.149.125.0/24
+origin:         AS19366
+descr:          Fibertown Customer - FB-ERST006
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250217 # 19:20 GMT
+source:         RADB
+last-modified:  2025-02-17T19:20:50Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          198.46.67.0/24
+origin:         AS19366
+descr:          Fibertown Customer - FB-HCAD009
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250217 # 19:26 GMT
+source:         RADB
+last-modified:  2025-02-17T19:26:42Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          198.190.198.0/24
+origin:         AS36796
+descr:          Fibertown Customer - FH-WCI007
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250217 # 19:22 GMT
+source:         RADB
+last-modified:  2025-02-17T19:22:14Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          198.203.146.0/24
+origin:         AS27307
+descr:          Fibertown Customer - FH-NCS008-1
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250217 # 19:24 GMT
+source:         RADB
+last-modified:  2025-02-17T19:24:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          199.101.240.0/21
+origin:         AS19366
+descr:          Managed Network Solutions IPv4
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        krobertson@fibertown.com 20201016  #15:43:29Z
+source:         RADB
+last-modified:  2023-11-13T16:02:39Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          199.185.102.0/23
+origin:         AS32792
+descr:          Fibertown Customer - FB-TCP010
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250217 # 19:29 GMT
+source:         RADB
+last-modified:  2025-02-17T19:29:34Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.28.12.0/22
+origin:         AS19366
+descr:          Fibertown Customer - FB-KSC011
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250217 # 19:32 GMT
+source:         RADB
+last-modified:  2025-02-17T19:32:52Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.28.12.0/24
+origin:         AS19366
+descr:          Fibertown Customer - FB-KSC011
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250401 # 02:11 GMT
+source:         RADB
+last-modified:  2025-04-01T02:11:48Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.28.13.0/24
+origin:         AS19366
+descr:          Fibertown Customer - FB-KSC011
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250401 # 02:12 GMT
+source:         RADB
+last-modified:  2025-04-01T02:12:21Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.28.14.0/24
+origin:         AS19366
+descr:          Fibertown Customer - FB-KSC011
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250401 # 02:13 GMT
+source:         RADB
+last-modified:  2025-04-01T02:13:09Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.28.15.0/24
+origin:         AS19366
+descr:          Fibertown Customer - FB-KSC011
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250401 # 02:14 GMT
+source:         RADB
+last-modified:  2025-04-01T02:14:41Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.44.157.0/24
+origin:         AS19366
+descr:          Fibertown Customer - FB-NRI012
+member-of:      RS-MNS-CUSTOMERS
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250217 # 19:34 GMT
+source:         RADB
+last-modified:  2025-02-17T19:34:19Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          205.235.16.0/21
+origin:         AS400322
+descr:          Fibertown Customer - FB-NGT013-1
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250217 # 19:35 GMT
+source:         RADB
+last-modified:  2025-02-17T19:35:04Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          205.235.24.0/22
+origin:         AS400322
+descr:          Fibertown Customer - FB-NGT013-2
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+remarks:        NGTel
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250217 # 19:35 GMT
+source:         RADB
+last-modified:  2025-02-17T19:35:49Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          205.235.29.0/24
+origin:         AS400322
+descr:          Fibertown Customer - FB-NGT013-3
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250217 # 19:36 GMT
+source:         RADB
+last-modified:  2025-02-17T19:36:21Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          205.235.30.0/23
+origin:         AS400322
+descr:          Fibertown Customer - FB-NGT013-4
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250217 # 19:37 GMT
+source:         RADB
+last-modified:  2025-02-17T19:37:01Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          207.89.53.0/24
+origin:         AS19366
+descr:          Fibertown Customer - Waste Connections
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250203 # 21:06 GMT
+source:         RADB
+last-modified:  2025-02-03T21:06:55Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          208.85.116.0/24
+origin:         AS27307
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20241112 # 16:47 GMT
+source:         RADB
+last-modified:  2024-11-12T16:47:10Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          208.85.117.0/24
+origin:         AS27307
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20241112 # 16:47 GMT
+source:         RADB
+last-modified:  2024-11-12T16:47:46Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          208.85.118.0/24
+origin:         AS27307
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20241112 # 16:48 GMT
+source:         RADB
+last-modified:  2024-11-12T16:48:35Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          208.85.119.0/24
+origin:         AS27307
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20241112 # 16:49 GMT
+source:         RADB
+last-modified:  2024-11-12T16:49:06Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          209.189.224.0/21
+origin:         AS19366
+descr:          Managed Network Solutions IPv4
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        krobertson@fibertown.com 20201015  #23:18:01Z
+source:         RADB
+last-modified:  2023-11-13T16:02:25Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          209.189.240.0/20
+origin:         AS19366
+descr:          Managed Network Solutions IPv4
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        krobertson@fibertown.com 20201015  #23:17:12Z
+source:         RADB
+last-modified:  2023-11-13T16:02:25Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.81.32.0/20
+origin:         AS19366
+descr:          Managed Network Solutions IPv4
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        krobertson@fibertown.com 20201015  #21:17:13Z
+source:         RADB
+last-modified:  2023-11-13T16:02:25Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.115.182.0/24
+origin:         AS19366
+descr:          Fibertown Customer - FB-CAC015
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250217 # 19:38 GMT
+source:         RADB
+last-modified:  2025-02-17T19:38:10Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route6:         2605:39c0::/32
+origin:         AS19366
+descr:          Managed Network Solutions IPv6
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        krobertson@fibertown.com 20201015  #21:17:32Z
+source:         RADB
+last-modified:  2023-11-13T16:02:25Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route6:         2605:f5c0::/32
+origin:         AS19366
+descr:          Managed Network Solutions - StrayNet
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        krobertson@fibertown.com 20201018  #15:21:12Z
+source:         RADB
+last-modified:  2023-11-13T16:02:39Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+aut-num:        AS19366
+as-name:        MNS-AS19366
+descr:          Managed Network Solutions AUT-NUM-1
+member-of:      AS19366:AS-ALL
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        krobertson@fibertown.com 20201015  #21:16:02Z
+source:         RADB
+last-modified:  2023-11-13T16:02:25Z
+
+as-set:         AS19366:AS-ALL
+descr:          Managed Network Solutions All ASNs
+members:        AS19366:AS-SELF,AS19366:AS-CUSTOMERS
+mbrs-by-ref:    ANY
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        krobertson@fibertown.com 20201015  #21:16:38Z
+source:         RADB
+last-modified:  2023-11-13T16:02:25Z
+
+as-set:         AS19366:AS-CUSTOMERS
+descr:          Managed Network Solutions AS-SET-CUSTOMERS
+members:        AS46724,AS32768,AS32792,AS25834,AS62738,AS27307,AS396975,AS393605,AS398832,AS36796,AS400322,AS55087,AS46505,AS16970:AS-MIDNET-ALL,AS36176,AS25834,AS401414,AS13681
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250407 # 21:17 GMT
+source:         RADB
+last-modified:  2025-04-07T21:17:26Z
+
+as-set:         AS19366:AS-SELF
+descr:          Managed Network Solutions ASN
+members:        AS19366
+mbrs-by-ref:    ANY
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        krobertson@fibertown.com 20201015  #21:13:54Z
+source:         RADB
+last-modified:  2023-11-13T16:02:25Z
+
+role:           Fibertown Network
+address:        110 N Main
+address:        Bryan TX 77803
+phone:          9793939100
+e-mail:         network@fibertown.com
+nic-hdl:        Fibertown-RADB
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20240919 # 2045Z
+source:         RADB
+last-modified:  2024-09-19T20:45:15Z
+
+mntner:         MAINT-AS19366
+descr:          Managed Network Solutions, Inc. #MNSL
+admin-c:        DUMMY-RADB
+tech-c:         DUMMY-RADB
+upd-to:         dnsadmin@managednetworks.com
+mnt-nfy:        dnsadmin@managednetworks.com
+auth:           CRYPT-PW DummyValue  # Filtered for security
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        support@radb.net 20240919 #20:22:17Z
+source:         RADB
+last-modified:  2024-09-19T20:22:18Z
+
+route-set:      RS-MNS-ALL
+members:        RS-MNS-SELF,RS-MNS-CUSTOMERS
+mp-members:     RS-MNS-SELF,RS-MNS-CUSTOMERS
+descr:          Managed Network Solutions All Prefixes
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        krobertson@fibertown.com 20201018  #15:22:25Z
+source:         RADB
+last-modified:  2023-11-13T16:02:39Z
+
+route-set:      RS-MNS-CUSTOMERS
+members:        148.59.153.0/24,174.46.10.0/24,199.124.30.0/23,204.28.12.0/22^+,199.185.102.0/23^+,192.149.125.0/24,205.142.64.0/24,173.195.160.0/20^+,198.46.67.0/24,205.235.16.0/20^+,196.52.16.0/21^+,216.115.182.0/24,162.216.48.0/22^+,148.59.153.0/24,23.166.80.0/24,162.216.48.0/22^+,198.190.198.0/24,192.142.160.0/21^+,204.44.157.0/24
+mp-members:     2605:f5c0::/32
+descr:          Managed Network Solutions Customer Prefixes
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        krobertson@fibertown.com 20210426  #20:32:17Z
+source:         RADB
+last-modified:  2023-11-13T16:05:30Z
+
+route-set:      RS-MNS-SELF
+members:        209.189.224.0/21^+,209.189.240.0/20^+,216.81.32.0/20^+,97.107.0.0/20^+,199.101.240.0/21^+
+mp-members:     2605:39c0::/32
+descr:          Managed Network Solutions Prefixes
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        krobertson@fibertown.com 20210421  #20:11:47Z
+source:         RADB
+last-modified:  2023-11-13T16:05:30Z
+
+person:         Shea Ruhge
+address:        Fibertown Network
+address:        110 N. Main St
+address:        Bryan TX 77803
+phone:          9793939100
+e-mail:         sruhge@fibertown.com
+nic-hdl:        SR007
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20240919 # 2039Z
+source:         RADB
+last-modified:  2024-09-19T20:39:43Z
+
+
