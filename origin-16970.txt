@@ -1,0 +1,305 @@
+route:          23.169.240.0/24
+descr:          NET-23-169-240-0-1
+origin:         AS16970
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20220914
+source:         NTTCOM
+last-modified:  2023-05-18T19:20:01Z
+rpki-ov-state:  valid
+
+route:          23.169.240.0/24
+descr:          RPKI ROA for 23.169.240.0/24 / AS16970
+remarks:        This AS16970 route object represents routing data retrieved
+                from the RPKI. This route object is the result of an automated
+                RPKI-to-IRR conversion process performed by IRRd.
+max-length:     24
+origin:         AS16970
+source:         RPKI  # Trust Anchor: arin
+
+route:          23.169.241.0/24
+descr:          NET-23-169-241-0-1
+origin:         AS16970
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20220816
+source:         NTTCOM
+last-modified:  2023-05-18T19:20:01Z
+rpki-ov-state:  valid
+
+route:          23.169.241.0/24
+descr:          RPKI ROA for 23.169.241.0/24 / AS16970
+remarks:        This AS16970 route object represents routing data retrieved
+                from the RPKI. This route object is the result of an automated
+                RPKI-to-IRR conversion process performed by IRRd.
+max-length:     24
+origin:         AS16970
+source:         RPKI  # Trust Anchor: arin
+
+route:          23.169.242.0/24
+descr:          NET-23-169-242-0-1
+origin:         AS16970
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20220816
+source:         NTTCOM
+last-modified:  2023-05-18T19:20:01Z
+rpki-ov-state:  valid
+
+route:          23.169.242.0/24
+descr:          RPKI ROA for 23.169.242.0/24 / AS16970
+remarks:        This AS16970 route object represents routing data retrieved
+                from the RPKI. This route object is the result of an automated
+                RPKI-to-IRR conversion process performed by IRRd.
+max-length:     24
+origin:         AS16970
+source:         RPKI  # Trust Anchor: arin
+
+route:          23.169.243.0/24
+descr:          NET-23-169-243-0-1
+origin:         AS16970
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20220816
+source:         NTTCOM
+last-modified:  2023-05-18T19:20:01Z
+rpki-ov-state:  valid
+
+route:          23.169.243.0/24
+descr:          RPKI ROA for 23.169.243.0/24 / AS16970
+remarks:        This AS16970 route object represents routing data retrieved
+                from the RPKI. This route object is the result of an automated
+                RPKI-to-IRR conversion process performed by IRRd.
+max-length:     24
+origin:         AS16970
+source:         RPKI  # Trust Anchor: arin
+
+route:          23.169.244.0/24
+descr:          NET-23-169-244-0-1
+origin:         AS16970
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20220816
+source:         NTTCOM
+last-modified:  2023-05-18T19:20:01Z
+rpki-ov-state:  valid
+
+route:          23.169.244.0/24
+descr:          RPKI ROA for 23.169.244.0/24 / AS16970
+remarks:        This AS16970 route object represents routing data retrieved
+                from the RPKI. This route object is the result of an automated
+                RPKI-to-IRR conversion process performed by IRRd.
+max-length:     24
+origin:         AS16970
+source:         RPKI  # Trust Anchor: arin
+
+route:          23.169.245.0/24
+descr:          NET-23-169-245-0-1
+origin:         AS16970
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20220816
+source:         NTTCOM
+last-modified:  2023-05-18T19:20:01Z
+rpki-ov-state:  valid
+
+route:          23.169.245.0/24
+descr:          RPKI ROA for 23.169.245.0/24 / AS16970
+remarks:        This AS16970 route object represents routing data retrieved
+                from the RPKI. This route object is the result of an automated
+                RPKI-to-IRR conversion process performed by IRRd.
+max-length:     24
+origin:         AS16970
+source:         RPKI  # Trust Anchor: arin
+
+route:          23.169.248.0/24
+descr:          NET-23-169-248-0-1
+origin:         AS16970
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20220816
+source:         NTTCOM
+last-modified:  2023-05-18T19:20:01Z
+rpki-ov-state:  valid
+
+route:          23.169.248.0/24
+descr:          RPKI ROA for 23.169.248.0/24 / AS16970
+remarks:        This AS16970 route object represents routing data retrieved
+                from the RPKI. This route object is the result of an automated
+                RPKI-to-IRR conversion process performed by IRRd.
+max-length:     24
+origin:         AS16970
+source:         RPKI  # Trust Anchor: arin
+
+route:          23.169.249.0/24
+descr:          NET-23-169-249-0-1
+origin:         AS16970
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20220816
+source:         NTTCOM
+last-modified:  2023-05-18T19:20:01Z
+rpki-ov-state:  valid
+
+route:          23.169.249.0/24
+descr:          RPKI ROA for 23.169.249.0/24 / AS16970
+remarks:        This AS16970 route object represents routing data retrieved
+                from the RPKI. This route object is the result of an automated
+                RPKI-to-IRR conversion process performed by IRRd.
+max-length:     24
+origin:         AS16970
+source:         RPKI  # Trust Anchor: arin
+
+route:          23.169.250.0/24
+descr:          NET-23-169-250-0-1
+origin:         AS16970
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20220816
+source:         NTTCOM
+last-modified:  2023-05-18T19:20:01Z
+rpki-ov-state:  valid
+
+route:          23.169.250.0/24
+descr:          RPKI ROA for 23.169.250.0/24 / AS16970
+remarks:        This AS16970 route object represents routing data retrieved
+                from the RPKI. This route object is the result of an automated
+                RPKI-to-IRR conversion process performed by IRRd.
+max-length:     24
+origin:         AS16970
+source:         RPKI  # Trust Anchor: arin
+
+route:          23.169.251.0/24
+descr:          NET-23-169-251-0-1
+origin:         AS16970
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20220816
+source:         NTTCOM
+last-modified:  2023-05-18T19:20:01Z
+rpki-ov-state:  valid
+
+route:          23.169.251.0/24
+descr:          RPKI ROA for 23.169.251.0/24 / AS16970
+remarks:        This AS16970 route object represents routing data retrieved
+                from the RPKI. This route object is the result of an automated
+                RPKI-to-IRR conversion process performed by IRRd.
+max-length:     24
+origin:         AS16970
+source:         RPKI  # Trust Anchor: arin
+
+route:          23.169.252.0/24
+descr:          NET-23-169-252-0-1
+origin:         AS16970
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20220816
+source:         NTTCOM
+last-modified:  2023-05-18T19:20:01Z
+rpki-ov-state:  valid
+
+route:          23.169.252.0/24
+descr:          RPKI ROA for 23.169.252.0/24 / AS16970
+remarks:        This AS16970 route object represents routing data retrieved
+                from the RPKI. This route object is the result of an automated
+                RPKI-to-IRR conversion process performed by IRRd.
+max-length:     24
+origin:         AS16970
+source:         RPKI  # Trust Anchor: arin
+
+route:          23.169.253.0/24
+descr:          NET-23-169-253-0-1
+origin:         AS16970
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20220816
+source:         NTTCOM
+last-modified:  2023-05-18T19:20:01Z
+rpki-ov-state:  valid
+
+route:          23.169.253.0/24
+descr:          RPKI ROA for 23.169.253.0/24 / AS16970
+remarks:        This AS16970 route object represents routing data retrieved
+                from the RPKI. This route object is the result of an automated
+                RPKI-to-IRR conversion process performed by IRRd.
+max-length:     24
+origin:         AS16970
+source:         RPKI  # Trust Anchor: arin
+
+route:          23.169.254.0/24
+descr:          NET-23-169-254-0-1
+origin:         AS16970
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20220816
+source:         NTTCOM
+last-modified:  2023-05-18T19:20:01Z
+rpki-ov-state:  valid
+
+route:          23.169.254.0/24
+descr:          RPKI ROA for 23.169.254.0/24 / AS16970
+remarks:        This AS16970 route object represents routing data retrieved
+                from the RPKI. This route object is the result of an automated
+                RPKI-to-IRR conversion process performed by IRRd.
+max-length:     24
+origin:         AS16970
+source:         RPKI  # Trust Anchor: arin
+
+route:          23.169.255.0/24
+descr:          NET-23-169-255-0-1
+origin:         AS16970
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20220816
+source:         NTTCOM
+last-modified:  2023-05-18T19:20:01Z
+rpki-ov-state:  valid
+
+route:          23.169.255.0/24
+descr:          RPKI ROA for 23.169.255.0/24 / AS16970
+remarks:        This AS16970 route object represents routing data retrieved
+                from the RPKI. This route object is the result of an automated
+                RPKI-to-IRR conversion process performed by IRRd.
+max-length:     24
+origin:         AS16970
+source:         RPKI  # Trust Anchor: arin
+
+route:          64.40.23.0/24
+descr:          NET-64-40-23-0-1
+origin:         AS16970
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20220816
+source:         NTTCOM
+last-modified:  2023-05-18T19:20:01Z
+rpki-ov-state:  valid
+
+route:          64.40.23.0/24
+descr:          RPKI ROA for 64.40.23.0/24 / AS16970
+remarks:        This AS16970 route object represents routing data retrieved
+                from the RPKI. This route object is the result of an automated
+                RPKI-to-IRR conversion process performed by IRRd.
+max-length:     24
+origin:         AS16970
+source:         RPKI  # Trust Anchor: arin
+
+route6:         2602:800:1000::/44
+descr:          MIDnet
+origin:         AS16970
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20211115
+source:         NTTCOM
+last-modified:  2023-05-18T19:20:00Z
+rpki-ov-state:  valid
+
+route6:         2602:800:1000::/44
+descr:          RPKI ROA for 2602:800:1000::/44 / AS16970
+remarks:        This AS16970 route object represents routing data retrieved
+                from the RPKI. This route object is the result of an automated
+                RPKI-to-IRR conversion process performed by IRRd.
+max-length:     48
+origin:         AS16970
+source:         RPKI  # Trust Anchor: arin
+
+
