@@ -206,15 +206,6 @@ last-modified:  2023-11-13T15:44:22Z
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
 route:          209.189.224.0/21
-descr:          Managed Network Solutions IPv4
-origin:         AS19366
-notify:         noc@fibertown.com
-mnt-by:         MNT-MNSL
-changed:        dnsadmin@managednetworks.com 20160519
-source:         ARIN
-rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
-
-route:          209.189.224.0/21
 origin:         AS19366
 descr:          Managed Network Solutions IPv4
 admin-c:        ADMIN587-ARIN
@@ -224,6 +215,15 @@ mnt-by:         MAINT-AS19366
 changed:        krobertson@fibertown.com 20201015  #23:18:01Z
 source:         RADB
 last-modified:  2023-11-13T16:02:25Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          209.189.224.0/21
+descr:          Managed Network Solutions IPv4
+origin:         AS19366
+notify:         noc@fibertown.com
+mnt-by:         MNT-MNSL
+changed:        dnsadmin@managednetworks.com 20160519
+source:         ARIN
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
 route:          209.189.240.0/20
@@ -303,23 +303,22 @@ origin:         AS19366
 descr:          Managed Network Solutions IPv6
 admin-c:        ADMIN587-ARIN
 tech-c:         DNSAD126-ARIN
-notify:         dnsadmin@managednetworks.com
-mnt-by:         MAINT-AS19366
-changed:        krobertson@fibertown.com 20201015  #21:17:32Z
-source:         RADB
-last-modified:  2023-11-13T16:02:25Z
+mnt-by:         MNT-MNSL
+created:        2020-10-15T20:54:09Z
+last-modified:  2025-04-08T16:43:36Z
+source:         ARIN
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
 route6:         2605:39c0::/32
 origin:         AS19366
 descr:          Managed Network Solutions IPv6
 admin-c:        ADMIN587-ARIN
-tech-c:         BERTL3-ARIN
 tech-c:         DNSAD126-ARIN
-mnt-by:         MNT-MNSL
-created:        2020-10-15T20:54:09Z
-last-modified:  2022-04-27T17:32:56Z
-source:         ARIN
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        krobertson@fibertown.com 20201015  #21:17:32Z
+source:         RADB
+last-modified:  2023-11-13T16:02:25Z
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
 route6:         2605:f5c0::/32
