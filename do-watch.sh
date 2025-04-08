@@ -27,8 +27,14 @@ done <<< $IRRDB
 #        done <<< $MAINTAINER
 #done <<< $IRRDB
 
+# HE filters
 while read ASN; do
 	$CURL curl -s "https://routing.he.net/index.php?cmd=display_filter&as=$ASN&af=4&which=irr" | grep "^ip prefix-list" > he-filter-as$ASN.txt
+done <<< $AUTNUMS
+
+# Routes with this origin
+while read ASN; do
+	$WHOIS -h $IRR -i origin AS19366 > origin-$ASN.txt
 done <<< $AUTNUMS
 
 $GIT add .
