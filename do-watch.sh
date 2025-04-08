@@ -34,7 +34,7 @@ done <<< $AUTNUMS
 
 # Routes with this origin
 while read ASN; do
-	$WHOIS -h $IRR -i origin AS19366 > origin-$ASN.txt
+	whois -h rr.ntt.net -i origin AS$ASN > origin-$ASN.txt
 done <<< $AUTNUMS
 
 $GIT add .

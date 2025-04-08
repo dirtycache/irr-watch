@@ -1,0 +1,337 @@
+route:          66.97.166.0/24
+descr:          Fibertown DC, LLC
+origin:         AS19366
+mnt-by:         MAINT-AS27506
+changed:        nicholas.noda@crowncastle.com 20230727
+source:         RADB
+last-modified:  2023-11-13T16:17:50Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          69.39.48.0/22
+descr:          MNS
+origin:         AS19366
+mnt-by:         MAINT-AS19108
+changed:        william.woods@suddenlink.com 20070330  #11:24:54(UTC)
+source:         RADB
+last-modified:  2023-11-13T15:44:22Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          69.39.52.0/23
+descr:          MNS
+origin:         AS19366
+mnt-by:         MAINT-AS19108
+changed:        william.woods@suddenlink.com 20070330  #11:25:40(UTC)
+source:         RADB
+last-modified:  2023-11-13T15:44:22Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          97.107.0.0/20
+descr:          Managed Network Solutions IPv4
+origin:         AS19366
+notify:         noc@fibertown.com
+mnt-by:         MNT-MNSL
+changed:        dnsadmin@managednetworks.com 20160519
+source:         ARIN
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          97.107.0.0/20
+origin:         AS19366
+descr:          Fibertown Houston Subnet
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250218 # 21:57 GMT
+source:         RADB
+last-modified:  2025-02-18T21:57:45Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          160.76.7.0/24
+descr:          Fibertown DC, LLC
+origin:         AS19366
+mnt-by:         MAINT-AS27506
+changed:        nicholas.noda@crowncastle.com 20230727
+source:         RADB
+last-modified:  2023-11-13T16:17:50Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          174.46.10.0/24
+origin:         AS19366
+descr:          Fibertown Upstream - FB-L3005
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250217 # 19:19 GMT
+source:         RADB
+last-modified:  2025-02-17T19:19:40Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          192.149.125.0/24
+origin:         AS19366
+descr:          Fibertown Customer - FB-ERST006
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250217 # 19:20 GMT
+source:         RADB
+last-modified:  2025-02-17T19:20:50Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          198.46.67.0/24
+origin:         AS19366
+descr:          Fibertown Customer - FB-HCAD009
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250217 # 19:26 GMT
+source:         RADB
+last-modified:  2025-02-17T19:26:42Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          199.101.240.0/21
+descr:          Managed Network Solutions IPv4
+origin:         AS19366
+notify:         noc@fibertown.com
+mnt-by:         MNT-MNSL
+changed:        dnsadmin@managednetworks.com 20160519
+source:         ARIN
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          199.101.240.0/21
+origin:         AS19366
+descr:          Managed Network Solutions IPv4
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        krobertson@fibertown.com 20201016  #15:43:29Z
+source:         RADB
+last-modified:  2023-11-13T16:02:39Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.28.12.0/22
+origin:         AS19366
+descr:          Fibertown Customer - FB-KSC011
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250217 # 19:32 GMT
+source:         RADB
+last-modified:  2025-02-17T19:32:52Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.28.12.0/24
+origin:         AS19366
+descr:          Fibertown Customer - FB-KSC011
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250401 # 02:11 GMT
+source:         RADB
+last-modified:  2025-04-01T02:11:48Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.28.13.0/24
+origin:         AS19366
+descr:          Fibertown Customer - FB-KSC011
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250401 # 02:12 GMT
+source:         RADB
+last-modified:  2025-04-01T02:12:21Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.28.14.0/24
+origin:         AS19366
+descr:          Fibertown Customer - FB-KSC011
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250401 # 02:13 GMT
+source:         RADB
+last-modified:  2025-04-01T02:13:09Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.28.15.0/24
+origin:         AS19366
+descr:          Fibertown Customer - FB-KSC011
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250401 # 02:14 GMT
+source:         RADB
+last-modified:  2025-04-01T02:14:41Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.44.157.0/24
+origin:         AS19366
+descr:          Fibertown Customer - FB-NRI012
+member-of:      RS-MNS-CUSTOMERS
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250217 # 19:34 GMT
+source:         RADB
+last-modified:  2025-02-17T19:34:19Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          207.89.53.0/24
+origin:         AS19366
+descr:          Fibertown Customer - Waste Connections
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250203 # 21:06 GMT
+source:         RADB
+last-modified:  2025-02-03T21:06:55Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          208.170.152.0/22
+descr:          MNS
+origin:         AS19366
+mnt-by:         MAINT-AS19108
+changed:        william.woods@suddenlink.com 20070329  #19:07:36(UTC)
+source:         RADB
+last-modified:  2023-11-13T15:44:22Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          209.189.224.0/21
+descr:          Managed Network Solutions IPv4
+origin:         AS19366
+notify:         noc@fibertown.com
+mnt-by:         MNT-MNSL
+changed:        dnsadmin@managednetworks.com 20160519
+source:         ARIN
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          209.189.224.0/21
+origin:         AS19366
+descr:          Managed Network Solutions IPv4
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        krobertson@fibertown.com 20201015  #23:18:01Z
+source:         RADB
+last-modified:  2023-11-13T16:02:25Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          209.189.240.0/20
+descr:          Managed Network Solutions IPv4
+origin:         AS19366
+notify:         noc@fibertown.com
+mnt-by:         MNT-MNSL
+changed:        dnsadmin@managednetworks.com 20160519
+source:         ARIN
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          209.189.240.0/20
+origin:         AS19366
+descr:          Managed Network Solutions IPv4
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        krobertson@fibertown.com 20201015  #23:17:12Z
+source:         RADB
+last-modified:  2023-11-13T16:02:25Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.81.32.0/20
+origin:         AS19366
+descr:          Managed Network Solutions IPv4
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        krobertson@fibertown.com 20201015  #21:17:13Z
+source:         RADB
+last-modified:  2023-11-13T16:02:25Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.81.32.0/20
+descr:          Managed Network Solutions IPv4
+origin:         AS19366
+notify:         noc@fibertown.com
+mnt-by:         MNT-MNSL
+changed:        dnsadmin@managednetworks.com 20160519
+source:         ARIN
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.81.32.0/21
+descr:          MNS
+origin:         AS19366
+mnt-by:         MAINT-AS19108
+changed:        william.woods@suddenlink.com 20070329  #19:16:21(UTC)
+source:         RADB
+last-modified:  2023-11-13T15:44:22Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.81.40.0/21
+descr:          Fibertown DC, LLC
+origin:         AS19366
+mnt-by:         MAINT-AS27506
+changed:        andrea.denis-samuel@crowncastle.com 20221011
+source:         RADB
+last-modified:  2023-11-13T16:12:43Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.115.182.0/24
+origin:         AS19366
+descr:          Fibertown Customer - FB-CAC015
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250217 # 19:38 GMT
+source:         RADB
+last-modified:  2025-02-17T19:38:10Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route6:         2605:39c0::/32
+origin:         AS19366
+descr:          Managed Network Solutions IPv6
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        krobertson@fibertown.com 20201015  #21:17:32Z
+source:         RADB
+last-modified:  2023-11-13T16:02:25Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route6:         2605:39c0::/32
+origin:         AS19366
+descr:          Managed Network Solutions IPv6
+admin-c:        ADMIN587-ARIN
+tech-c:         BERTL3-ARIN
+tech-c:         DNSAD126-ARIN
+mnt-by:         MNT-MNSL
+created:        2020-10-15T20:54:09Z
+last-modified:  2022-04-27T17:32:56Z
+source:         ARIN
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route6:         2605:f5c0::/32
+origin:         AS19366
+descr:          Managed Network Solutions - StrayNet
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+notify:         dnsadmin@managednetworks.com
+mnt-by:         MAINT-AS19366
+changed:        krobertson@fibertown.com 20201018  #15:21:12Z
+source:         RADB
+last-modified:  2023-11-13T16:02:39Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+
