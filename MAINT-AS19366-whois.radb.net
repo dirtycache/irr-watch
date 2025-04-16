@@ -466,14 +466,14 @@ last-modified:  2023-11-13T16:02:25Z
 
 as-set:         AS19366:AS-CUSTOMERS
 descr:          Managed Network Solutions AS-SET-CUSTOMERS
-members:        AS46724,AS32768,AS32792,AS25834,AS62738,AS27307,AS396975,AS393605,AS398832,AS36796,AS400322,AS55087,AS46505,AS16970:AS-MIDNET-ALL,AS36176,AS25834,AS401414,AS13681,AS400226:AS-STORMYCLOUD
+members:        AS46724,AS32768,AS32792,AS25834,AS62738,AS27307,AS396975,AS393605,AS398832,AS36796,AS400322,AS55087,AS46505,AS16970:AS-MIDNET-ALL,AS36176,AS25834,AS401414,AS13681,AS400226
 admin-c:        SR007
 tech-c:         Fibertown-RADB
 notify:         dnsadmin@managednetworks.com
 mnt-by:         MAINT-AS19366
-changed:        dperry@fibertown.com 20250414 # 15:33 GMT
+changed:        dperry@fibertown.com 20250416 # 18:08 GMT
 source:         RADB
-last-modified:  2025-04-14T15:33:16Z
+last-modified:  2025-04-16T18:08:27Z
 
 as-set:         AS19366:AS-SELF
 descr:          Managed Network Solutions ASN
