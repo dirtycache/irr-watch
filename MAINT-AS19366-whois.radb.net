@@ -190,18 +190,6 @@ source:         RADB
 last-modified:  2025-02-17T19:29:34Z
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
-route:          204.28.12.0/22
-origin:         AS19366
-descr:          Fibertown Customer - FB-KSC011
-admin-c:        SR007
-tech-c:         Fibertown-RADB
-notify:         dnsadmin@managednetworks.com
-mnt-by:         MAINT-AS19366
-changed:        sruhge@fibertown.com 20250217 # 19:32 GMT
-source:         RADB
-last-modified:  2025-02-17T19:32:52Z
-rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
-
 route:          204.28.12.0/24
 origin:         AS19366
 descr:          Fibertown Customer - FB-KSC011
