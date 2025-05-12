@@ -1,0 +1,4 @@
+ip prefix-list NN permit 12.164.113.0/24
+ip prefix-list NN permit 23.164.232.0/24
+ip prefix-list NN permit 23.187.248.0/24
+ip prefix-list NN permit 104.225.208.0/24

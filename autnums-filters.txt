@@ -2,4 +2,7 @@
 #7806	# Binary Net
 #394437	# PLW
 16970	# MIDnet
+53763	# Lakeside
+53572	# HNB
 19366	# Fibertown
+401414	# Tier2 Squared

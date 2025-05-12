@@ -270,23 +270,25 @@ source:         NTTCOM
 last-modified:  2023-05-18T19:19:59Z
 
 as-set:         AS16970:AS-MIDNET-TRANSIT
-descr:          MIDnet transit only
+descr:          MIDnet transit
 members:        AS-LAKESIDE
 members:        AS397677:AS-SIXPACKETS
 members:        AS398883
 members:        AS53572
+members:        AS401414:AS-ALL
 remarks:        Level3 members: ARIN::AS-LAKESIDE
 remarks:        Level3 members: RADB::AS53763
 remarks:        Level3 members: NTTCOM::AS397677:AS-SIXPACKETS
 remarks:        Level3 members: ARIN::AS398883
 remarks:        Level3 members: NTTCOM::AS398883
 remarks:        Level3 members: NTTCOM::AS53572
+remarks:        Level3 members: ARIN::AS401414:AS-ALL
 admin-c:        IPADM882-ARIN
 tech-c:         IPADM882-ARIN
 notify:         ipadmin@mid.net
 mnt-by:         MAINT-MIDNET
 source:         NTTCOM
-last-modified:  2024-12-15T20:57:01Z
+last-modified:  2025-05-12T17:50:15Z
 
 person:         MIDnet IP Admin
 address:        594 Sawdust Rd #319

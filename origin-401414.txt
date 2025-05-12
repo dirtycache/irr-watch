@@ -1,0 +1,56 @@
+route:          23.128.76.0/24
+origin:         AS401414
+descr:          TIER 2 SQUARED, LLC
+admin-c:        PHAMN4-ARIN
+tech-c:         NOC33884-ARIN
+tech-c:         PHAMN4-ARIN
+mnt-by:         MNT-LSL-174
+remarks:        This object is automatically managed by ARIN
+created:        2024-12-08T17:55:35Z
+last-modified:  2025-04-16T01:12:36Z
+source:         ARIN
+rpki-ov-state:  valid
+
+route:          23.128.76.0/24
+origin:         AS401414
+descr:          Fibertown Customer - FH-IMT016
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250217 # 19:38 GMT
+source:         RADB
+last-modified:  2025-02-17T19:38:51Z
+rpki-ov-state:  valid
+
+route:          23.128.76.0/24
+descr:          RPKI ROA for 23.128.76.0/24 / AS401414
+remarks:        This AS401414 route object represents routing data retrieved
+                from the RPKI. This route object is the result of an automated
+                RPKI-to-IRR conversion process performed by IRRd.
+max-length:     24
+origin:         AS401414
+source:         RPKI  # Trust Anchor: arin
+
+route6:         2602:f7c6::/40
+origin:         AS401414
+descr:          TIER 2 SQUARED, LLC
+admin-c:        PHAMN4-ARIN
+tech-c:         NOC33884-ARIN
+tech-c:         PHAMN4-ARIN
+mnt-by:         MNT-LSL-174
+remarks:        This object is automatically managed by ARIN
+created:        2024-12-08T17:55:35Z
+last-modified:  2025-04-16T01:12:51Z
+source:         ARIN
+rpki-ov-state:  valid
+
+route6:         2602:f7c6::/40
+descr:          RPKI ROA for 2602:f7c6::/40 / AS401414
+remarks:        This AS401414 route object represents routing data retrieved
+                from the RPKI. This route object is the result of an automated
+                RPKI-to-IRR conversion process performed by IRRd.
+max-length:     40
+origin:         AS401414
+source:         RPKI  # Trust Anchor: arin
+
+

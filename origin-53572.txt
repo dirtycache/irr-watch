@@ -1,0 +1,21 @@
+route:          23.158.168.0/24
+descr:          NET-23-148-168-0
+origin:         AS53572
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20230728
+source:         NTTCOM
+last-modified:  2023-07-31T18:14:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          23.158.184.0/24
+descr:          NET-23-148-184-0
+origin:         AS53572
+notify:         ipadmin@mid.net
+mnt-by:         MAINT-MIDNET
+changed:        adam.korab@mid.net 20230728
+source:         NTTCOM
+last-modified:  2023-07-31T18:14:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+
