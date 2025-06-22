@@ -84,10 +84,6 @@ ip prefix-list NN permit 199.115.196.0/22
 ip prefix-list NN permit 199.115.196.0/23
 ip prefix-list NN permit 199.115.198.0/23
 ip prefix-list NN permit 199.185.102.0/23
-ip prefix-list NN permit 204.28.12.0/24
-ip prefix-list NN permit 204.28.13.0/24
-ip prefix-list NN permit 204.28.14.0/24
-ip prefix-list NN permit 204.28.15.0/24
 ip prefix-list NN permit 204.44.157.0/24
 ip prefix-list NN permit 204.57.109.0/24
 ip prefix-list NN permit 204.197.171.0/24
