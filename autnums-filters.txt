@@ -1,6 +1,7 @@
 #22773	# Cox
-#7806	# Binary Net
-#394437	# PLW
+7806	# Binary Net
+11942	# IP Global (PLW)
+394437	# PLW
 16970	# MIDnet
 53763	# Lakeside
 53572	# HNB

@@ -1,0 +1,211 @@
+route:          65.183.32.0/19
+descr:          IP Global Networks
+descr:          3960 Braxton Dr.
+descr:          Houston, TX 77063
+descr:          US
+origin:         AS11942
+mnt-by:         MNT-IGL-20
+changed:        hostmaster@ipglobal.net 20130318
+source:         ARIN
+rpki-ov-state:  valid
+
+route:          65.183.32.0/19
+descr:          IPGlobal Aggregate
+origin:         AS11942
+admin-c:        PJT4-ARIN
+tech-c:         PJT4-ARIN
+notify:         pete.templin@texlink.com
+mnt-by:         MAINT-TEXLINK
+changed:        pete.templin@texlink.com 20050805
+source:         NTTCOM
+rpki-ov-state:  valid
+
+route:          65.183.32.0/19
+descr:          RPKI ROA for 65.183.32.0/19 / AS11942
+remarks:        This AS11942 route object represents routing data retrieved
+                from the RPKI. This route object is the result of an automated
+                RPKI-to-IRR conversion process performed by IRRd.
+max-length:     24
+origin:         AS11942
+source:         RPKI  # Trust Anchor: arin
+
+route:          207.235.34.0/23
+descr:          Proxy registration to prevent harm from ARIN-NONAUTH shutdown
+origin:         AS11942
+mnt-by:         MAINT-AS7034
+changed:        kennethfinnegan2007@gmail.com 20220404
+source:         ALTDB
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          207.235.34.0/23
+origin:         AS11942
+descr:          3960 Braxton Dr.
+                Houston TX 77063
+                United States
+admin-c:        SWU-ARIN
+tech-c:         ALIAW-ARIN
+tech-c:         MORAL62-ARIN
+tech-c:         REJ24-ARIN
+tech-c:         SWU-ARIN
+tech-c:         TJC35-ARIN
+mnt-by:         MNT-LOCI
+created:        2022-06-30T20:23:21Z
+last-modified:  2023-05-19T16:59:40Z
+source:         ARIN
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          207.235.36.0/23
+descr:          Proxy registration to prevent harm from ARIN-NONAUTH shutdown
+origin:         AS11942
+mnt-by:         MAINT-AS7034
+changed:        kennethfinnegan2007@gmail.com 20220404
+source:         ALTDB
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          207.235.36.0/23
+origin:         AS11942
+descr:          3950 Braxton St.
+                Suite 102
+                Houston TX 77063
+                United States
+admin-c:        SWU-ARIN
+tech-c:         ALIAW-ARIN
+tech-c:         MORAL62-ARIN
+tech-c:         REJ24-ARIN
+tech-c:         SWU-ARIN
+tech-c:         TJC35-ARIN
+mnt-by:         MNT-LOCI
+created:        2022-06-30T21:08:53Z
+last-modified:  2023-05-19T16:59:40Z
+source:         ARIN
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          209.163.136.0/22
+origin:         AS11942
+descr:          3950 Braxton St.
+                Suite 102
+                Houston TX 77063
+                United States
+admin-c:        SWU-ARIN
+tech-c:         ALIAW-ARIN
+tech-c:         MORAL62-ARIN
+tech-c:         REJ24-ARIN
+tech-c:         SWU-ARIN
+tech-c:         TJC35-ARIN
+mnt-by:         MNT-LOCI
+created:        2022-06-30T21:09:34Z
+last-modified:  2023-05-19T16:59:40Z
+source:         ARIN
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          209.163.136.0/22
+descr:          Proxy registration to prevent harm from ARIN-NONAUTH shutdown
+origin:         AS11942
+mnt-by:         MAINT-AS7034
+changed:        kennethfinnegan2007@gmail.com 20220404
+source:         ALTDB
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          209.163.152.0/22
+origin:         AS11942
+descr:          3950 Braxton St.
+                Suite 102
+                Houston TX 77063
+                United States
+admin-c:        SWU-ARIN
+tech-c:         ALIAW-ARIN
+tech-c:         MORAL62-ARIN
+tech-c:         REJ24-ARIN
+tech-c:         SWU-ARIN
+tech-c:         TJC35-ARIN
+mnt-by:         MNT-LOCI
+created:        2022-06-30T21:09:50Z
+last-modified:  2023-05-19T16:59:40Z
+source:         ARIN
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          209.163.152.0/22
+descr:          Proxy registration to prevent harm from ARIN-NONAUTH shutdown
+origin:         AS11942
+mnt-by:         MAINT-AS7034
+changed:        kennethfinnegan2007@gmail.com 20220404
+source:         ALTDB
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.110.16.0/22
+descr:          Proxy registration to prevent harm from ARIN-NONAUTH shutdown
+origin:         AS11942
+mnt-by:         MAINT-AS7034
+changed:        kennethfinnegan2007@gmail.com 20220404
+source:         ALTDB
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.110.16.0/22
+origin:         AS11942
+descr:          3950 Braxton St.
+                Suite 102
+                Houston TX 77063
+                United States
+admin-c:        SWU-ARIN
+tech-c:         ALIAW-ARIN
+tech-c:         MORAL62-ARIN
+tech-c:         REJ24-ARIN
+tech-c:         SWU-ARIN
+tech-c:         TJC35-ARIN
+mnt-by:         MNT-LOCI
+created:        2022-06-30T21:10:22Z
+last-modified:  2023-05-19T16:59:40Z
+source:         ARIN
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.110.28.0/22
+origin:         AS11942
+descr:          3950 Braxton St.
+                Suite 102
+                Houston TX 77063
+                United States
+admin-c:        SWU-ARIN
+tech-c:         ALIAW-ARIN
+tech-c:         MORAL62-ARIN
+tech-c:         REJ24-ARIN
+tech-c:         SWU-ARIN
+tech-c:         TJC35-ARIN
+mnt-by:         MNT-LOCI
+created:        2022-06-30T21:10:40Z
+last-modified:  2023-05-19T16:59:40Z
+source:         ARIN
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.110.28.0/22
+descr:          Proxy registration to prevent harm from ARIN-NONAUTH shutdown
+origin:         AS11942
+mnt-by:         MAINT-AS7034
+changed:        kennethfinnegan2007@gmail.com 20220404
+source:         ALTDB
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route6:         2606:200::/32
+origin:         AS11942
+descr:          IPGL-IPv6-2506-200-32
+admin-c:        SWU-ARIN
+tech-c:         ALIAW-ARIN
+tech-c:         MORAL62-ARIN
+tech-c:         REJ24-ARIN
+tech-c:         SWU-ARIN
+tech-c:         TJC35-ARIN
+mnt-by:         MNT-IGL-20
+created:        2025-01-03T21:29:37Z
+last-modified:  2025-01-03T21:29:37Z
+source:         ARIN
+rpki-ov-state:  valid
+
+route6:         2606:200::/32
+descr:          RPKI ROA for 2606:200::/32 / AS11942
+remarks:        This AS11942 route object represents routing data retrieved
+                from the RPKI. This route object is the result of an automated
+                RPKI-to-IRR conversion process performed by IRRd.
+max-length:     32
+origin:         AS11942
+source:         RPKI  # Trust Anchor: arin
+
+

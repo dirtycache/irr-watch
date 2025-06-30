@@ -1,0 +1,432 @@
+route:          69.80.112.0/20
+descr:          RR-RC-Binary.net-Lincoln
+origin:         AS7806
+notify:         publicipaddressing@charter.com
+mnt-by:         MAINT-RR
+changed:        publicipaddressing@charter.com 20181017  #22:02:30Z
+source:         RADB
+last-modified:  2023-11-13T16:15:17Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          69.80.112.0/22
+descr:          RR-RC-Binary.net-Lincoln
+origin:         AS7806
+notify:         publicipaddressing@charter.com
+mnt-by:         MAINT-RR
+changed:        publicipaddressing@charter.com 20181017  #22:02:30Z
+source:         RADB
+last-modified:  2023-11-13T16:15:01Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          69.80.116.0/22
+descr:          RR-RC-Binary.net-Lincoln
+origin:         AS7806
+notify:         publicipaddressing@charter.com
+mnt-by:         MAINT-RR
+changed:        publicipaddressing@charter.com 20181017  #22:02:30Z
+source:         RADB
+last-modified:  2023-11-13T16:15:01Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          162.221.132.0/22
+descr:          RR-RC-Binary.net-Lincoln
+origin:         AS7806
+notify:         publicipaddressing@charter.com
+mnt-by:         MAINT-RR
+changed:        publicipaddressing@charter.com 20181017  #22:02:30Z
+source:         RADB
+last-modified:  2023-11-13T16:15:18Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          198.217.24.0/22
+descr:          RR-RC-Binary.net-Lincoln
+origin:         AS7806
+notify:         publicipaddressing@charter.com
+mnt-by:         MAINT-RR
+changed:        publicipaddressing@charter.com 20181017  #22:02:30Z
+source:         RADB
+last-modified:  2023-11-13T16:15:17Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.27.195.0/24
+descr:          Proxy-registered route object
+origin:         AS7806
+remarks:        auto-generated route object
+remarks:        this next line gives the robot something to recognize
+remarks:        L'enfer, c'est les autres
+remarks:
+remarks:        This route object is for a Level 3 customer route
+remarks:        which is being exported under this origin AS.
+remarks:
+remarks:        This route object was created because no existing
+remarks:        route object with the same origin was found, and
+remarks:        since some Level 3 peers filter based on these objects
+remarks:        this route may be rejected if this object is not created.
+remarks:
+remarks:        Please contact routing@Level3.net if you have any
+remarks:        questions regarding this object.
+mnt-by:         LEVEL3-MNT
+changed:        roy@Level3.net 20060201
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          204.27.195.0/24
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20210428  #14:02:52Z
+source:         RADB
+last-modified:  2023-11-13T16:05:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          206.131.192.0/20
+descr:          Proxy-registered route object
+origin:         AS7806
+remarks:        auto-generated route object
+remarks:        this next line gives the robot something to recognize
+remarks:        L'enfer, c'est les autres
+remarks:
+remarks:        This route object is for a Level 3 customer route
+remarks:        which is being exported under this origin AS.
+remarks:
+remarks:        This route object was created because no existing
+remarks:        route object with the same origin was found, and
+remarks:        since some Level 3 peers filter based on these objects
+remarks:        this route may be rejected if this object is not created.
+remarks:
+remarks:        Please contact routing@Level3.net if you have any
+remarks:        questions regarding this object.
+mnt-by:         LEVEL3-MNT
+changed:        roy@Level3.net 20060201
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.0.0/19
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20210428  #14:02:18Z
+source:         RADB
+last-modified:  2023-11-13T16:05:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.0.0/19
+descr:          Proxy-registered route object
+origin:         AS7806
+remarks:        auto-generated route object
+remarks:        this next line gives the robot something to recognize
+remarks:        L'enfer, c'est les autres
+remarks:
+remarks:        This route object is for a Level 3 customer route
+remarks:        which is being exported under this origin AS.
+remarks:
+remarks:        This route object was created because no existing
+remarks:        route object with the same origin was found, and
+remarks:        since some Level 3 peers filter based on these objects
+remarks:        this route may be rejected if this object is not created.
+remarks:
+remarks:        Please contact routing@Level3.net if you have any
+remarks:        questions regarding this object.
+mnt-by:         LEVEL3-MNT
+changed:        roy@Level3.net 20060201
+source:         LEVEL3
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.0.0/24
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20210428  #14:03:13Z
+source:         RADB
+last-modified:  2023-11-13T16:05:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.1.0/24
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20210428  #14:06:53Z
+source:         RADB
+last-modified:  2023-11-13T16:05:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.2.0/24
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20210428  #14:04:10Z
+source:         RADB
+last-modified:  2023-11-13T16:05:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.3.0/24
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20210428  #14:07:39Z
+source:         RADB
+last-modified:  2023-11-13T16:05:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.4.0/24
+descr:          Binary Net, LLC
+origin:         AS7806
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20150710  #14:33:23Z
+source:         RADB
+last-modified:  2023-11-13T16:05:30Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.5.0/24
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20210428  #14:09:44Z
+source:         RADB
+last-modified:  2023-11-13T16:05:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.6.0/24
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20210428  #14:10:09Z
+source:         RADB
+last-modified:  2023-11-13T16:05:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.7.0/24
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20210428  #14:10:31Z
+source:         RADB
+last-modified:  2023-11-13T16:05:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.8.0/24
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20210428  #14:10:44Z
+source:         RADB
+last-modified:  2023-11-13T16:05:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.9.0/24
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        adam.korab@sixpackets.com 20230518  #19:00:38Z
+source:         RADB
+last-modified:  2023-11-13T16:17:12Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.10.0/24
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20210428  #14:11:38Z
+source:         RADB
+last-modified:  2023-11-13T16:05:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.11.0/24
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20210428  #14:12:12Z
+source:         RADB
+last-modified:  2023-11-13T16:05:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.12.0/24
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20210428  #14:12:25Z
+source:         RADB
+last-modified:  2023-11-13T16:05:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.13.0/24
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20210428  #14:13:18Z
+source:         RADB
+last-modified:  2023-11-13T16:05:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.14.0/24
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20210428  #14:13:31Z
+source:         RADB
+last-modified:  2023-11-13T16:05:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.16.0/24
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20210428  #14:14:09Z
+source:         RADB
+last-modified:  2023-11-13T16:05:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.17.0/24
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20210428  #14:14:22Z
+source:         RADB
+last-modified:  2023-11-13T16:05:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.19.0/24
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20210428  #14:04:58Z
+source:         RADB
+last-modified:  2023-11-13T16:05:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.20.0/24
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20210428  #14:15:05Z
+source:         RADB
+last-modified:  2023-11-13T16:05:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.21.0/24
+origin:         AS7806
+descr:          NET-216-229-21-0-1
+mnt-by:         MAINT-AS7806
+changed:        adam.korab@sixpackets.com 20220218
+source:         RADB
+last-modified:  2023-11-13T16:09:24Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.22.0/24
+origin:         AS7806
+descr:          NET-216-229-21-0-1
+mnt-by:         MAINT-AS7806
+changed:        adam.korab@sixpackets.com 20220218
+source:         RADB
+last-modified:  2023-11-13T16:09:24Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.23.0/24
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20210428  #14:15:42Z
+source:         RADB
+last-modified:  2023-11-13T16:05:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.24.0/24
+descr:          Binary Net, LLC
+origin:         AS7806
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20150710  #14:33:23Z
+source:         RADB
+last-modified:  2023-11-13T16:05:30Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.25.0/24
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20210428  #14:16:57Z
+source:         RADB
+last-modified:  2023-11-13T16:05:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.26.0/24
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20210428  #15:49:10Z
+source:         RADB
+last-modified:  2023-11-13T16:05:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.27.0/24
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20210428  #15:49:27Z
+source:         RADB
+last-modified:  2023-11-13T16:05:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.28.0/24
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20210428  #14:06:13Z
+source:         RADB
+last-modified:  2023-11-13T16:05:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.29.0/24
+origin:         AS7806
+descr:          NET-216-229-21-0-1
+mnt-by:         MAINT-AS7806
+changed:        adam.korab@sixpackets.com 20220218
+source:         RADB
+last-modified:  2023-11-13T16:09:24Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.30.0/24
+descr:          Binary Net, LLC
+origin:         AS7806
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20150710  #14:33:23Z
+source:         RADB
+last-modified:  2023-11-13T16:05:30Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.229.31.0/24
+descr:          Binary Net, LLC
+origin:         AS7806
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20150710  #14:33:23Z
+source:         RADB
+last-modified:  2023-11-13T16:05:30Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route6:         2605:ef00::/32
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20210428  #15:54:54Z
+source:         RADB
+last-modified:  2023-11-13T16:05:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route6:         2605:ef00::/48
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20210428  #14:22:49Z
+source:         RADB
+last-modified:  2023-11-13T16:05:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route6:         2605:ef00:1::/48
+origin:         AS7806
+descr:          Binary Net, LLC
+mnt-by:         MAINT-AS7806
+changed:        noc-radb@binary.net 20210428  #14:23:09Z
+source:         RADB
+last-modified:  2023-11-13T16:05:31Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+
