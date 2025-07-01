@@ -9,6 +9,16 @@ source:         NTTCOM
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
 route:          64.190.156.0/22
+descr:          LIGHTWAVE-NET-08
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170831
+source:         NTTCOM
+rpki-ov-state:  valid
+
+route:          64.190.156.0/22
 origin:         AS394437
 descr:          LIGHTWAVE-NET-08
 admin-c:        SWU-ARIN
@@ -21,16 +31,6 @@ mnt-by:         MNT-PLW-2
 created:        2025-01-02T17:35:46Z
 last-modified:  2025-01-02T17:35:46Z
 source:         ARIN
-rpki-ov-state:  valid
-
-route:          64.190.156.0/22
-descr:          LIGHTWAVE-NET-08
-origin:         AS394437
-remarks:        PS LIGHTWAVE
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com 20170831
-source:         NTTCOM
 rpki-ov-state:  valid
 
 route:          64.190.156.0/22
@@ -125,16 +125,6 @@ origin:         AS394437
 source:         RPKI  # Trust Anchor: arin
 
 route:          66.60.241.0/24
-descr:          PLW-NET-20
-origin:         AS394437
-remarks:        PS LIGHTWAVE
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com 20170426
-source:         NTTCOM
-rpki-ov-state:  valid
-
-route:          66.60.241.0/24
 origin:         AS394437
 descr:          PLW-NET-20
 admin-c:        SWU-ARIN
@@ -147,6 +137,16 @@ mnt-by:         MNT-PLW-2
 created:        2025-01-03T14:34:52Z
 last-modified:  2025-01-03T14:34:52Z
 source:         ARIN
+rpki-ov-state:  valid
+
+route:          66.60.241.0/24
+descr:          PLW-NET-20
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
 rpki-ov-state:  valid
 
 route:          66.60.241.0/24
@@ -194,16 +194,6 @@ origin:         AS394437
 source:         RPKI  # Trust Anchor: arin
 
 route:          66.249.99.0/24
-descr:          PLW-NET-03
-origin:         AS394437
-remarks:        PS LIGHTWAVE
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com 20170426
-source:         NTTCOM
-rpki-ov-state:  valid
-
-route:          66.249.99.0/24
 origin:         AS394437
 descr:          PLW-NET-66-249-99-0-24
 admin-c:        SWU-ARIN
@@ -219,16 +209,7 @@ source:         ARIN
 rpki-ov-state:  valid
 
 route:          66.249.99.0/24
-descr:          RPKI ROA for 66.249.99.0/24 / AS394437
-remarks:        This AS394437 route object represents routing data retrieved
-                from the RPKI. This route object is the result of an automated
-                RPKI-to-IRR conversion process performed by IRRd.
-max-length:     24
-origin:         AS394437
-source:         RPKI  # Trust Anchor: arin
-
-route:          66.249.100.0/24
-descr:          PLW-NET-21
+descr:          PLW-NET-03
 origin:         AS394437
 remarks:        PS LIGHTWAVE
 notify:         netops@pslightwave.com
@@ -236,6 +217,15 @@ mnt-by:         MAINT-PSLIGHTWAVE
 changed:        swulf@pslightwave.com 20170426
 source:         NTTCOM
 rpki-ov-state:  valid
+
+route:          66.249.99.0/24
+descr:          RPKI ROA for 66.249.99.0/24 / AS394437
+remarks:        This AS394437 route object represents routing data retrieved
+                from the RPKI. This route object is the result of an automated
+                RPKI-to-IRR conversion process performed by IRRd.
+max-length:     24
+origin:         AS394437
+source:         RPKI  # Trust Anchor: arin
 
 route:          66.249.100.0/24
 origin:         AS394437
@@ -254,16 +244,7 @@ source:         ARIN
 rpki-ov-state:  valid
 
 route:          66.249.100.0/24
-descr:          RPKI ROA for 66.249.100.0/24 / AS394437
-remarks:        This AS394437 route object represents routing data retrieved
-                from the RPKI. This route object is the result of an automated
-                RPKI-to-IRR conversion process performed by IRRd.
-max-length:     24
-origin:         AS394437
-source:         RPKI  # Trust Anchor: arin
-
-route:          66.249.101.0/24
-descr:          PLW-NET-04
+descr:          PLW-NET-21
 origin:         AS394437
 remarks:        PS LIGHTWAVE
 notify:         netops@pslightwave.com
@@ -271,6 +252,15 @@ mnt-by:         MAINT-PSLIGHTWAVE
 changed:        swulf@pslightwave.com 20170426
 source:         NTTCOM
 rpki-ov-state:  valid
+
+route:          66.249.100.0/24
+descr:          RPKI ROA for 66.249.100.0/24 / AS394437
+remarks:        This AS394437 route object represents routing data retrieved
+                from the RPKI. This route object is the result of an automated
+                RPKI-to-IRR conversion process performed by IRRd.
+max-length:     24
+origin:         AS394437
+source:         RPKI  # Trust Anchor: arin
 
 route:          66.249.101.0/24
 origin:         AS394437
@@ -286,6 +276,16 @@ remarks:        This object is automatically managed by ARIN
 created:        2025-01-03T15:33:20Z
 last-modified:  2025-01-03T15:33:20Z
 source:         ARIN
+rpki-ov-state:  valid
+
+route:          66.249.101.0/24
+descr:          PLW-NET-04
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
 rpki-ov-state:  valid
 
 route:          66.249.101.0/24
@@ -366,16 +366,6 @@ origin:         AS394437
 source:         RPKI  # Trust Anchor: arin
 
 route:          66.249.112.0/24
-descr:          PLW-NET-23
-origin:         AS394437
-remarks:        PS LIGHTWAVE
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        kpack@us.ntt.net 20180222
-source:         NTTCOM
-rpki-ov-state:  valid
-
-route:          66.249.112.0/24
 origin:         AS394437
 descr:          PLW-66-249-112-0-24
 admin-c:        SWU-ARIN
@@ -391,6 +381,16 @@ source:         ARIN
 rpki-ov-state:  valid
 
 route:          66.249.112.0/24
+descr:          PLW-NET-23
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+rpki-ov-state:  valid
+
+route:          66.249.112.0/24
 descr:          RPKI ROA for 66.249.112.0/24 / AS394437
 remarks:        This AS394437 route object represents routing data retrieved
                 from the RPKI. This route object is the result of an automated
@@ -398,16 +398,6 @@ remarks:        This AS394437 route object represents routing data retrieved
 max-length:     24
 origin:         AS394437
 source:         RPKI  # Trust Anchor: arin
-
-route:          66.249.113.0/24
-descr:          PLW-NET-24
-origin:         AS394437
-remarks:        PS LIGHTWAVE
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com 20170426
-source:         NTTCOM
-rpki-ov-state:  valid
 
 route:          66.249.113.0/24
 origin:         AS394437
@@ -425,6 +415,16 @@ source:         ARIN
 rpki-ov-state:  valid
 
 route:          66.249.113.0/24
+descr:          PLW-NET-24
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+rpki-ov-state:  valid
+
+route:          66.249.113.0/24
 descr:          RPKI ROA for 66.249.113.0/24 / AS394437
 remarks:        This AS394437 route object represents routing data retrieved
                 from the RPKI. This route object is the result of an automated
@@ -432,6 +432,16 @@ remarks:        This AS394437 route object represents routing data retrieved
 max-length:     24
 origin:         AS394437
 source:         RPKI  # Trust Anchor: arin
+
+route:          66.249.119.0/24
+descr:          PLW-Net-66-249-119
+origin:         AS394437
+remarks:        PS Lightwave Network 66-249-119
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20210308
+source:         NTTCOM
+rpki-ov-state:  valid
 
 route:          66.249.119.0/24
 origin:         AS394437
@@ -446,16 +456,6 @@ mnt-by:         MNT-PLW-2
 created:        2025-01-03T15:42:25Z
 last-modified:  2025-01-03T15:42:25Z
 source:         ARIN
-rpki-ov-state:  valid
-
-route:          66.249.119.0/24
-descr:          PLW-Net-66-249-119
-origin:         AS394437
-remarks:        PS Lightwave Network 66-249-119
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com 20210308
-source:         NTTCOM
 rpki-ov-state:  valid
 
 route:          66.249.119.0/24
@@ -536,16 +536,6 @@ origin:         AS394437
 source:         RPKI  # Trust Anchor: arin
 
 route:          72.20.132.0/24
-descr:          PLW-NET-44
-origin:         AS394437
-remarks:        PSLIGHTWAVE
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        kmays@pslightwave.com 20170512
-source:         NTTCOM
-rpki-ov-state:  valid
-
-route:          72.20.132.0/24
 origin:         AS394437
 descr:          PLW-72-20-132-0-24
 admin-c:        SWU-ARIN
@@ -561,6 +551,16 @@ source:         ARIN
 rpki-ov-state:  valid
 
 route:          72.20.132.0/24
+descr:          PLW-NET-44
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170512
+source:         NTTCOM
+rpki-ov-state:  valid
+
+route:          72.20.132.0/24
 descr:          RPKI ROA for 72.20.132.0/24 / AS394437
 remarks:        This AS394437 route object represents routing data retrieved
                 from the RPKI. This route object is the result of an automated
@@ -568,6 +568,16 @@ remarks:        This AS394437 route object represents routing data retrieved
 max-length:     24
 origin:         AS394437
 source:         RPKI  # Trust Anchor: arin
+
+route:          72.20.133.0/24
+descr:          PLW-NET-26
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+rpki-ov-state:  valid
 
 route:          72.20.133.0/24
 origin:         AS394437
@@ -585,16 +595,6 @@ source:         ARIN
 rpki-ov-state:  valid
 
 route:          72.20.133.0/24
-descr:          PLW-NET-26
-origin:         AS394437
-remarks:        PS LIGHTWAVE
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com 20170426
-source:         NTTCOM
-rpki-ov-state:  valid
-
-route:          72.20.133.0/24
 descr:          RPKI ROA for 72.20.133.0/24 / AS394437
 remarks:        This AS394437 route object represents routing data retrieved
                 from the RPKI. This route object is the result of an automated
@@ -602,6 +602,16 @@ remarks:        This AS394437 route object represents routing data retrieved
 max-length:     24
 origin:         AS394437
 source:         RPKI  # Trust Anchor: arin
+
+route:          72.20.134.0/24
+descr:          PLW-NET-48
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170512
+source:         NTTCOM
+rpki-ov-state:  valid
 
 route:          72.20.134.0/24
 origin:         AS394437
@@ -619,16 +629,6 @@ source:         ARIN
 rpki-ov-state:  valid
 
 route:          72.20.134.0/24
-descr:          PLW-NET-48
-origin:         AS394437
-remarks:        PSLIGHTWAVE
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        kmays@pslightwave.com 20170512
-source:         NTTCOM
-rpki-ov-state:  valid
-
-route:          72.20.134.0/24
 descr:          RPKI ROA for 72.20.134.0/24 / AS394437
 remarks:        This AS394437 route object represents routing data retrieved
                 from the RPKI. This route object is the result of an automated
@@ -636,16 +636,6 @@ remarks:        This AS394437 route object represents routing data retrieved
 max-length:     24
 origin:         AS394437
 source:         RPKI  # Trust Anchor: arin
-
-route:          72.20.135.0/24
-descr:          PLW-NET-27
-origin:         AS394437
-remarks:        PS LIGHTWAVE
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com 20170426
-source:         NTTCOM
-rpki-ov-state:  valid
 
 route:          72.20.135.0/24
 origin:         AS394437
@@ -660,6 +650,16 @@ mnt-by:         MNT-PLW-2
 created:        2025-01-03T15:47:08Z
 last-modified:  2025-01-03T15:47:08Z
 source:         ARIN
+rpki-ov-state:  valid
+
+route:          72.20.135.0/24
+descr:          PLW-NET-27
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
 rpki-ov-state:  valid
 
 route:          72.20.135.0/24
@@ -706,6 +706,16 @@ origin:         AS394437
 source:         RPKI  # Trust Anchor: arin
 
 route:          72.20.138.0/24
+descr:          PLW-NET-28
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+rpki-ov-state:  valid
+
+route:          72.20.138.0/24
 origin:         AS394437
 descr:          PLW-72-20-138-0-24
 admin-c:        SWU-ARIN
@@ -718,16 +728,6 @@ mnt-by:         MNT-PLW-2
 created:        2025-01-03T15:47:54Z
 last-modified:  2025-01-03T15:47:54Z
 source:         ARIN
-rpki-ov-state:  valid
-
-route:          72.20.138.0/24
-descr:          PLW-NET-28
-origin:         AS394437
-remarks:        PSLIGHTWAVE
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        kmays@pslightwave.com 20170426
-source:         NTTCOM
 rpki-ov-state:  valid
 
 route:          72.20.138.0/24
@@ -808,6 +808,16 @@ origin:         AS394437
 source:         RPKI  # Trust Anchor: arin
 
 route:          72.20.146.0/24
+descr:          PLW-NET-46
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170512
+source:         NTTCOM
+rpki-ov-state:  valid
+
+route:          72.20.146.0/24
 origin:         AS394437
 descr:          PLW-72-20-146-0-24
 admin-c:        SWU-ARIN
@@ -820,16 +830,6 @@ mnt-by:         MNT-PLW-2
 created:        2025-01-03T15:49:53Z
 last-modified:  2025-01-03T15:49:53Z
 source:         ARIN
-rpki-ov-state:  valid
-
-route:          72.20.146.0/24
-descr:          PLW-NET-46
-origin:         AS394437
-remarks:        PSLIGHTWAVE
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        kmays@pslightwave.com 20170512
-source:         NTTCOM
 rpki-ov-state:  valid
 
 route:          72.20.146.0/24
@@ -876,6 +876,16 @@ origin:         AS394437
 source:         RPKI  # Trust Anchor: arin
 
 route:          72.20.151.0/24
+descr:          PLW-NET-06
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+rpki-ov-state:  valid
+
+route:          72.20.151.0/24
 origin:         AS394437
 descr:          PLW-72-20-151-0-24
 admin-c:        SWU-ARIN
@@ -888,16 +898,6 @@ mnt-by:         MNT-PLW-2
 created:        2025-01-03T15:50:50Z
 last-modified:  2025-01-03T15:50:50Z
 source:         ARIN
-rpki-ov-state:  valid
-
-route:          72.20.151.0/24
-descr:          PLW-NET-06
-origin:         AS394437
-remarks:        PS LIGHTWAVE
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        kpack@us.ntt.net 20180222
-source:         NTTCOM
 rpki-ov-state:  valid
 
 route:          72.20.151.0/24
@@ -945,6 +945,16 @@ origin:         AS394437
 source:         RPKI  # Trust Anchor: arin
 
 route:          72.20.153.0/24
+descr:          PLW-NET-07
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+rpki-ov-state:  valid
+
+route:          72.20.153.0/24
 origin:         AS394437
 descr:          PS Lightwave
 admin-c:        SWU-ARIN
@@ -958,16 +968,6 @@ remarks:        This object is automatically managed by ARIN
 created:        2025-01-03T15:30:21Z
 last-modified:  2025-01-03T15:30:21Z
 source:         ARIN
-rpki-ov-state:  valid
-
-route:          72.20.153.0/24
-descr:          PLW-NET-07
-origin:         AS394437
-remarks:        PS LIGHTWAVE
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com 20170426
-source:         NTTCOM
 rpki-ov-state:  valid
 
 route:          72.20.153.0/24
@@ -1082,16 +1082,6 @@ origin:         AS394437
 source:         RPKI  # Trust Anchor: arin
 
 route:          72.20.158.0/24
-descr:          PLW-NET-158
-origin:         AS394437
-remarks:        PS LIGHTWAVE
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        kpack@us.ntt.net 20180222
-source:         NTTCOM
-rpki-ov-state:  valid
-
-route:          72.20.158.0/24
 origin:         AS394437
 descr:          PLW-72-20-158-0-24
 admin-c:        SWU-ARIN
@@ -1107,6 +1097,16 @@ source:         ARIN
 rpki-ov-state:  valid
 
 route:          72.20.158.0/24
+descr:          PLW-NET-158
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kpack@us.ntt.net 20180222
+source:         NTTCOM
+rpki-ov-state:  valid
+
+route:          72.20.158.0/24
 descr:          RPKI ROA for 72.20.158.0/24 / AS394437
 remarks:        This AS394437 route object represents routing data retrieved
                 from the RPKI. This route object is the result of an automated
@@ -1114,6 +1114,16 @@ remarks:        This AS394437 route object represents routing data retrieved
 max-length:     24
 origin:         AS394437
 source:         RPKI  # Trust Anchor: arin
+
+route:          72.20.159.0/24
+descr:          PLW-NET-39
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+rpki-ov-state:  valid
 
 route:          72.20.159.0/24
 origin:         AS394437
@@ -1131,16 +1141,6 @@ source:         ARIN
 rpki-ov-state:  valid
 
 route:          72.20.159.0/24
-descr:          PLW-NET-39
-origin:         AS394437
-remarks:        PSLIGHTWAVE
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        kmays@pslightwave.com 20170426
-source:         NTTCOM
-rpki-ov-state:  valid
-
-route:          72.20.159.0/24
 descr:          RPKI ROA for 72.20.159.0/24 / AS394437
 remarks:        This AS394437 route object represents routing data retrieved
                 from the RPKI. This route object is the result of an automated
@@ -1148,6 +1148,16 @@ remarks:        This AS394437 route object represents routing data retrieved
 max-length:     24
 origin:         AS394437
 source:         RPKI  # Trust Anchor: arin
+
+route:          72.46.96.0/22
+descr:          LIGHTWAVE-NET-03
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170530
+source:         NTTCOM
+rpki-ov-state:  valid
 
 route:          72.46.96.0/22
 origin:         AS394437
@@ -1162,16 +1172,6 @@ mnt-by:         MNT-PLW-2
 created:        2025-01-03T15:56:55Z
 last-modified:  2025-01-03T15:56:55Z
 source:         ARIN
-rpki-ov-state:  valid
-
-route:          72.46.96.0/22
-descr:          LIGHTWAVE-NET-03
-origin:         AS394437
-remarks:        PS LIGHTWAVE
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com 20170530
-source:         NTTCOM
 rpki-ov-state:  valid
 
 route:          72.46.96.0/22
@@ -1354,16 +1354,6 @@ origin:         AS394437
 source:         RPKI  # Trust Anchor: arin
 
 route:          74.124.58.0/24
-descr:          PLW-NET-32
-origin:         AS394437
-remarks:        PSLIGHTWAVE
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        kmays@pslightwave.com 20170426
-source:         NTTCOM
-rpki-ov-state:  valid
-
-route:          74.124.58.0/24
 origin:         AS394437
 descr:          PLW-74-124-58-0-24
 admin-c:        SWU-ARIN
@@ -1379,6 +1369,16 @@ source:         ARIN
 rpki-ov-state:  valid
 
 route:          74.124.58.0/24
+descr:          PLW-NET-32
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
+rpki-ov-state:  valid
+
+route:          74.124.58.0/24
 descr:          RPKI ROA for 74.124.58.0/24 / AS394437
 remarks:        This AS394437 route object represents routing data retrieved
                 from the RPKI. This route object is the result of an automated
@@ -1386,16 +1386,6 @@ remarks:        This AS394437 route object represents routing data retrieved
 max-length:     24
 origin:         AS394437
 source:         RPKI  # Trust Anchor: arin
-
-route:          74.124.59.0/24
-descr:          PLW-NET-14
-origin:         AS394437
-remarks:        PS LIGHTWAVE
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com 20170426
-source:         NTTCOM
-rpki-ov-state:  valid
 
 route:          74.124.59.0/24
 origin:         AS394437
@@ -1410,6 +1400,16 @@ mnt-by:         MNT-PLW-2
 created:        2025-01-03T15:59:40Z
 last-modified:  2025-01-03T15:59:40Z
 source:         ARIN
+rpki-ov-state:  valid
+
+route:          74.124.59.0/24
+descr:          PLW-NET-14
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
 rpki-ov-state:  valid
 
 route:          74.124.59.0/24
@@ -1658,6 +1658,17 @@ last-modified:  2024-02-26T17:12:14Z
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
 route:          198.145.236.0/24
+descr:          ASPEN-MEDIA-NET-PLW-01
+origin:         AS394437
+remarks:        Proxy for Aspen Media Network by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2022-06-25T02:07:00Z
+rpki-ov-state:  valid
+
+route:          198.145.236.0/24
 origin:         AS394437
 descr:          PS LIGHTWAVE
 admin-c:        ADMIN7525-ARIN
@@ -1671,17 +1682,6 @@ source:         ARIN
 rpki-ov-state:  valid
 
 route:          198.145.236.0/24
-descr:          ASPEN-MEDIA-NET-PLW-01
-origin:         AS394437
-remarks:        Proxy for Aspen Media Network by PS Lightwave
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com
-source:         NTTCOM
-last-modified:  2022-06-25T02:07:00Z
-rpki-ov-state:  valid
-
-route:          198.145.236.0/24
 descr:          RPKI ROA for 198.145.236.0/24 / AS394437
 remarks:        This AS394437 route object represents routing data retrieved
                 from the RPKI. This route object is the result of an automated
@@ -1689,16 +1689,6 @@ remarks:        This AS394437 route object represents routing data retrieved
 max-length:     24
 origin:         AS394437
 source:         RPKI  # Trust Anchor: arin
-
-route:          205.196.181.0/24
-descr:          PLW-NET-33
-origin:         AS394437
-remarks:        PSLIGHTWAVE
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        kmays@pslightwave.com 20170426
-source:         NTTCOM
-rpki-ov-state:  valid
 
 route:          205.196.181.0/24
 origin:         AS394437
@@ -1713,6 +1703,16 @@ mnt-by:         MNT-PLW-2
 created:        2025-01-03T16:32:44Z
 last-modified:  2025-01-03T16:32:44Z
 source:         ARIN
+rpki-ov-state:  valid
+
+route:          205.196.181.0/24
+descr:          PLW-NET-33
+origin:         AS394437
+remarks:        PSLIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        kmays@pslightwave.com 20170426
+source:         NTTCOM
 rpki-ov-state:  valid
 
 route:          205.196.181.0/24
@@ -1744,6 +1744,16 @@ origin:         AS394437
 source:         RPKI  # Trust Anchor: arin
 
 route:          205.196.189.0/24
+descr:          PLW-NET-16
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20170426
+source:         NTTCOM
+rpki-ov-state:  valid
+
+route:          205.196.189.0/24
 origin:         AS394437
 descr:          PS Lightwave
 admin-c:        SWU-ARIN
@@ -1757,16 +1767,6 @@ remarks:        This object is automatically managed by ARIN
 created:        2025-01-03T16:40:05Z
 last-modified:  2025-01-03T16:40:05Z
 source:         ARIN
-rpki-ov-state:  valid
-
-route:          205.196.189.0/24
-descr:          PLW-NET-16
-origin:         AS394437
-remarks:        PS LIGHTWAVE
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com 20170426
-source:         NTTCOM
 rpki-ov-state:  valid
 
 route:          205.196.189.0/24
@@ -1847,16 +1847,6 @@ origin:         AS394437
 source:         RPKI  # Trust Anchor: arin
 
 route:          206.198.212.0/22
-descr:          LIGHTWAVE-NET-09
-origin:         AS394437
-remarks:        PS LIGHTWAVE
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com 20180202
-source:         NTTCOM
-rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
-
-route:          206.198.212.0/22
 origin:         AS394437
 descr:          PLW-206-198-212-0-22
 admin-c:        SWU-ARIN
@@ -1869,6 +1859,16 @@ mnt-by:         MNT-PLW-2
 created:        2025-01-04T02:02:21Z
 last-modified:  2025-01-04T02:02:21Z
 source:         ARIN
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          206.198.212.0/22
+descr:          LIGHTWAVE-NET-09
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com 20180202
+source:         NTTCOM
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
 route:          206.198.212.0/24
@@ -1908,6 +1908,17 @@ origin:         AS394437
 source:         RPKI  # Trust Anchor: arin
 
 route:          206.198.213.0/24
+descr:          LIGHTWAVE-NET-09-2
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2025-01-04T02:36:29Z
+rpki-ov-state:  valid
+
+route:          206.198.213.0/24
 origin:         AS394437
 descr:          PS Lightwave
 admin-c:        SWU-ARIN
@@ -1921,17 +1932,6 @@ remarks:        This object is automatically managed by ARIN
 created:        2025-01-04T02:26:31Z
 last-modified:  2025-01-04T02:26:31Z
 source:         ARIN
-rpki-ov-state:  valid
-
-route:          206.198.213.0/24
-descr:          LIGHTWAVE-NET-09-2
-origin:         AS394437
-remarks:        PS LIGHTWAVE
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com
-source:         NTTCOM
-last-modified:  2025-01-04T02:36:29Z
 rpki-ov-state:  valid
 
 route:          206.198.213.0/24
@@ -1980,17 +1980,6 @@ origin:         AS394437
 source:         RPKI  # Trust Anchor: arin
 
 route:          206.198.215.0/24
-descr:          LIGHTWAVE-NET-09-4
-origin:         AS394437
-remarks:        PS LIGHTWAVE
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com
-source:         NTTCOM
-last-modified:  2025-01-04T02:37:29Z
-rpki-ov-state:  valid
-
-route:          206.198.215.0/24
 origin:         AS394437
 descr:          PS Lightwave
 admin-c:        SWU-ARIN
@@ -2004,6 +1993,17 @@ remarks:        This object is automatically managed by ARIN
 created:        2025-01-04T02:26:54Z
 last-modified:  2025-01-04T02:26:54Z
 source:         ARIN
+rpki-ov-state:  valid
+
+route:          206.198.215.0/24
+descr:          LIGHTWAVE-NET-09-4
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2025-01-04T02:37:29Z
 rpki-ov-state:  valid
 
 route:          206.198.215.0/24
