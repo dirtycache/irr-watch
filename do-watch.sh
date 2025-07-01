@@ -29,13 +29,24 @@ done <<< $IRRDB
 
 # HE filters
 while read ASN; do
-	$CURL curl -s "https://routing.he.net/index.php?cmd=display_filter&as=$ASN&af=4&which=irr" | grep "^ip prefix-list" > he-filter-as$ASN.txt
+	$CURL -s "https://routing.he.net/index.php?cmd=display_filter&as=$ASN&af=4&which=irr" | grep "^ip prefix-list" > he-filter-as$ASN.txt
 done <<< $AUTNUMS
 
 # Routes with this origin
-while read ASN; do
-	whois -h rr.ntt.net -i origin AS$ASN > origin-$ASN.txt
-done <<< $AUTNUMS
+#while read ASN; do
+#	whois -h rr.ntt.net -i origin AS$ASN > origin-$ASN.txt
+#done <<< $AUTNUMS
+
+whois -h $IRR -i origin AS$ASN | awk -v RS= -v ORS="\n\n" '
+{
+  for (i = 1; i <= NF; i++) {
+    if ($i ~ /^route6?:/) {
+      split($i, a)
+      print a[2], $0
+      break
+    }
+  }
+}' | sort | cut -d' ' -f2- > origin-$ASN.txt
 
 $GIT add .
 $GIT commit -m "IRR changes"
