@@ -30,6 +30,14 @@ origin:         AS11942
 source:         RPKI  # Trust Anchor: arin
 
 route:          207.235.34.0/23
+descr:          Proxy registration to prevent harm from ARIN-NONAUTH shutdown
+origin:         AS11942
+mnt-by:         MAINT-AS7034
+changed:        kennethfinnegan2007@gmail.com 20220404
+source:         ALTDB
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          207.235.34.0/23
 origin:         AS11942
 descr:          3960 Braxton Dr.
                 Houston TX 77063
@@ -44,22 +52,6 @@ mnt-by:         MNT-LOCI
 created:        2022-06-30T20:23:21Z
 last-modified:  2023-05-19T16:59:40Z
 source:         ARIN
-rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
-
-route:          207.235.34.0/23
-descr:          Proxy registration to prevent harm from ARIN-NONAUTH shutdown
-origin:         AS11942
-mnt-by:         MAINT-AS7034
-changed:        kennethfinnegan2007@gmail.com 20220404
-source:         ALTDB
-rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
-
-route:          207.235.36.0/23
-descr:          Proxy registration to prevent harm from ARIN-NONAUTH shutdown
-origin:         AS11942
-mnt-by:         MAINT-AS7034
-changed:        kennethfinnegan2007@gmail.com 20220404
-source:         ALTDB
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
 route:          207.235.36.0/23
@@ -80,7 +72,7 @@ last-modified:  2023-05-19T16:59:40Z
 source:         ARIN
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
-route:          209.163.136.0/22
+route:          207.235.36.0/23
 descr:          Proxy registration to prevent harm from ARIN-NONAUTH shutdown
 origin:         AS11942
 mnt-by:         MAINT-AS7034
@@ -104,6 +96,14 @@ mnt-by:         MNT-LOCI
 created:        2022-06-30T21:09:34Z
 last-modified:  2023-05-19T16:59:40Z
 source:         ARIN
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          209.163.136.0/22
+descr:          Proxy registration to prevent harm from ARIN-NONAUTH shutdown
+origin:         AS11942
+mnt-by:         MAINT-AS7034
+changed:        kennethfinnegan2007@gmail.com 20220404
+source:         ALTDB
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
 route:          209.163.152.0/22
