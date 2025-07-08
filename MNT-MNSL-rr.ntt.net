@@ -43,6 +43,17 @@ changed:        dnsadmin@managednetworks.com 20160519
 source:         ARIN
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
+route:          216.81.40.0/21
+origin:         AS19366
+descr:          Fibertown Bryan DC-4
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+mnt-by:         MNT-MNSL
+created:        2025-07-08T19:48:15Z
+last-modified:  2025-07-08T19:48:15Z
+source:         ARIN
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
 route6:         2605:39c0::/32
 origin:         AS19366
 descr:          Managed Network Solutions IPv6

@@ -343,6 +343,17 @@ source:         RADB
 last-modified:  2023-11-13T16:02:25Z
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
+route:          216.81.40.0/21
+origin:         AS19366
+descr:          Fibertown - DC4
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250708 # 19:47 GMT
+source:         RADB
+last-modified:  2025-07-08T19:47:00Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
 route:          216.115.182.0/24
 origin:         AS19366
 descr:          Fibertown Customer - FB-CAC015
