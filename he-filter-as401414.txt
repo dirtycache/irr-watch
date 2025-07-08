@@ -1,0 +1,1 @@
+ip prefix-list NN permit 23.128.76.0/24
