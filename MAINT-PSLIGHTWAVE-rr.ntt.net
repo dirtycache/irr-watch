@@ -2455,9 +2455,9 @@ members:        AS399620
 members:        AS399767
 members:        AS400209
 members:        AS400894
-members:        AS-TXNET
+members:        AS62467:AS-TXNET
 members:        AS16970:AS-MIDNET-ALL
-remarks:        Level3 members: ARIN::AS-TXNET
+remarks:        Level3 members: ARIN::AS62467:AS-TXNET
 remarks:        Level3 members: NTTCOM::AS16970:AS-MIDNET-ALL
 tech-c:         SWU-ARIN
 admin-c:        SWU-ARIN
@@ -2465,7 +2465,7 @@ notify:         netops@pslightwave.com
 mnt-by:         MAINT-PSLIGHTWAVE
 changed:        swulf@pslightwave.com
 source:         NTTCOM
-last-modified:  2024-09-20T20:43:26Z
+last-modified:  2025-07-15T13:25:52Z
 
 mntner:         MAINT-PSLIGHTWAVE
 descr:          PS Lightwave
