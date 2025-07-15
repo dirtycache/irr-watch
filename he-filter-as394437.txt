@@ -1053,6 +1053,7 @@ ip prefix-list NN permit 136.244.0.0/18
 ip prefix-list NN permit 136.244.0.0/19
 ip prefix-list NN permit 136.244.32.0/19
 ip prefix-list NN permit 137.169.47.0/24
+ip prefix-list NN permit 140.235.129.0/24
 ip prefix-list NN permit 141.11.47.0/24
 ip prefix-list NN permit 141.11.59.0/24
 ip prefix-list NN permit 141.11.104.0/24
@@ -1081,6 +1082,7 @@ ip prefix-list NN permit 144.177.70.0/23
 ip prefix-list NN permit 144.177.72.0/24
 ip prefix-list NN permit 145.79.128.0/24
 ip prefix-list NN permit 146.19.60.0/24
+ip prefix-list NN permit 146.103.24.0/24
 ip prefix-list NN permit 146.103.53.0/24
 ip prefix-list NN permit 146.185.94.0/24
 ip prefix-list NN permit 147.79.21.0/24
