@@ -1120,17 +1120,6 @@ changed:        swulf@pslightwave.com 20170831
 source:         NTTCOM
 rpki-ov-state:  valid
 
-route:          198.136.166.0/24
-descr:          GyrodataInc-net-01
-origin:         AS394437
-remarks:        Proxy object for Gyrodata by PS Lightwave
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com
-source:         NTTCOM
-last-modified:  2024-02-26T17:12:14Z
-rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
-
 route:          198.145.236.0/24
 descr:          ASPEN-MEDIA-NET-PLW-01
 origin:         AS394437
