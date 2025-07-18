@@ -831,6 +831,17 @@ source:         NTTCOM
 last-modified:  2023-04-10T16:22:49Z
 rpki-ov-state:  valid
 
+route:          158.26.100.0/23
+descr:          Exxon Mobil Corporation
+origin:         AS1766
+remarks:        Proxy object for Exxon Mobil Corporation by PS Lightwave
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        aali@pslightwave.com
+source:         NTTCOM
+last-modified:  2025-07-18T19:30:09Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
 route:          161.38.249.0/24
 descr:          COM-Net-01
 origin:         AS398147
@@ -1621,6 +1632,18 @@ changed:        swulf@pslightwave.com
 source:         NTTCOM
 last-modified:  2022-12-12T23:19:20Z
 
+aut-num:        AS1766
+as-name:        ASN-EXXONMOBIL-US
+descr:          Exxon Mobil Corporation
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        aali@pslightwave.com
+source:         NTTCOM
+last-modified:  2025-07-18T19:27:55Z
+
 aut-num:        AS2535
 as-name:        BP
 descr:          BP Products North America
@@ -1935,6 +1958,7 @@ import:         from AS400209 accept AS400209
 import:         from AS400894 accept AS400894
 import:         from AS32208 accept AS32208
 import:         from AS62467 accept AS62467
+import:         from AS1766 accept AS1766
 mp-import:      afi ipv6.unicast from AS397736 accept AS397736
 export:         to AS2914 announce AS394437
 export:         to AS2914 announce AS22442
@@ -1987,6 +2011,7 @@ export:         to AS2914 announce AS400209
 export:         to AS2914 announce AS400894
 export:         to AS2914 announce AS32208
 export:         to AS2914 announce AS62467
+export:         to AS2914 announce AS1766
 export:         to AS3356 announce AS394437
 export:         to AS3356 announce AS22442
 export:         to AS3356 announce AS32779
@@ -2038,6 +2063,7 @@ export:         to AS3356 announce AS400209
 export:         to AS3356 announce AS400894
 export:         to AS3356 announce AS32208
 export:         to AS3356 announce AS62467
+export:         to AS3356 announce AS1766
 export:         to AS174 announce AS394437
 export:         to AS174 announce AS22442
 export:         to AS174 announce AS32779
@@ -2090,6 +2116,7 @@ export:         to AS174 announce AS400209
 export:         to AS174 announce AS400894
 export:         to AS174 announce AS32208
 export:         to AS174 announce AS62467
+export:         to AS174 announce AS1766
 mp-export:      afi ipv6.unicast to AS174    announce AS394437
 mp-export:      afi ipv6.unicast to AS2914   announce AS394437
 mp-export:      afi ipv6.unicast to AS3356   announce AS394437
@@ -2102,9 +2129,9 @@ mp-export:      afi ipv6.unicast to AS6939   announce AS397736
 mp-export:      afi ipv6.unicast to AS62467   announce AS397736
 notify:         netops@pslightwave.com
 mnt-by:         MAINT-PSLIGHTWAVE
-changed:        tcoronado@pslightwave.com
+changed:        aali@pslightwave.com
 source:         NTTCOM
-last-modified:  2024-08-30T23:51:04Z
+last-modified:  2025-07-18T19:41:10Z
 
 aut-num:        AS396849
 as-name:        KPRC
@@ -2446,15 +2473,16 @@ members:        AS400209
 members:        AS400894
 members:        AS62467:AS-TXNET
 members:        AS16970:AS-MIDNET-ALL
+members:        AS1766
 remarks:        Level3 members: ARIN::AS62467:AS-TXNET
 remarks:        Level3 members: NTTCOM::AS16970:AS-MIDNET-ALL
 tech-c:         SWU-ARIN
 admin-c:        SWU-ARIN
 notify:         netops@pslightwave.com
 mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com
+changed:        aali@pslightwave.com
 source:         NTTCOM
-last-modified:  2025-07-15T13:25:52Z
+last-modified:  2025-07-18T19:42:51Z
 
 mntner:         MAINT-PSLIGHTWAVE
 descr:          PS Lightwave
