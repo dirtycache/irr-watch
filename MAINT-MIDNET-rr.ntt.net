@@ -209,7 +209,7 @@ mnt-by:         MAINT-MIDNET
 changed:        adam.korab@mid.net 20250801
 source:         NTTCOM
 last-modified:  2025-08-01T15:21:48Z
-rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+rpki-ov-state:  valid
 
 route6:         2602:800:1000::/44
 descr:          MIDnet
