@@ -541,16 +541,6 @@ changed:        kmays@pslightwave.com 20170426
 source:         NTTCOM
 rpki-ov-state:  valid
 
-route:          72.20.158.0/24
-descr:          PLW-NET-158
-origin:         AS394437
-remarks:        PS LIGHTWAVE
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        kpack@us.ntt.net 20180222
-source:         NTTCOM
-rpki-ov-state:  valid
-
 route:          72.20.159.0/24
 descr:          PLW-NET-39
 origin:         AS394437
