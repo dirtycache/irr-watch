@@ -2298,16 +2298,21 @@ members:        AS399620
 members:        AS399767
 members:        AS400209
 members:        AS400894
+members:        AS16970:AS-MIDNET-ALL
+members:        AS1766
+members:        AS19366:AS-ALL
+remarks:        Level3 members: NTTCOM::AS16970:AS-MIDNET-ALL
+remarks:        Level3 members: RADB::AS19366:AS-ALL
 tech-c:         SWU-ARIN
 admin-c:        SWU-ARIN
 notify:         netops@pslightwave.com
 mnt-by:         MAINT-PSLIGHTWAVE
 changed:        swulf@pslightwave.com
 source:         NTTCOM
-last-modified:  2024-09-23T00:41:30Z
+last-modified:  2025-08-01T20:42:37Z
 
 as-set:         AS394437:AS-TESTING
-descr:          AS test set for PS Lightwave
+descr:          AS testing set for PS Lightwave
 members:        AS1678
 members:        AS2535
 members:        AS11124
@@ -2353,6 +2358,7 @@ members:        AS54772
 members:        AS54781
 members:        AS54808
 members:        AS55007
+members:        AS62467
 members:        AS62648
 members:        AS62867
 members:        AS63153
@@ -2377,17 +2383,19 @@ members:        AS399620
 members:        AS399767
 members:        AS400209
 members:        AS400894
-members:        AS16970:AS-MIDNET-ALL
 members:        AS62467:AS-TXNET
+members:        AS16970:AS-MIDNET-ALL
+members:        AS1766
+members:        AS19366:AS-ALL
 remarks:        Level3 members: ARIN::AS62467:AS-TXNET
 remarks:        Level3 members: NTTCOM::AS16970:AS-MIDNET-ALL
+remarks:        Level3 members: RADB::AS19366:AS-ALL
 tech-c:         SWU-ARIN
 admin-c:        SWU-ARIN
 notify:         netops@pslightwave.com
 mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com
 source:         NTTCOM
-last-modified:  2025-07-07T14:52:48Z
+last-modified:  2025-08-01T20:38:45Z
 
 as-set:         AS-PSLIGHTWAVE
 descr:          AS set for PS Lightwave
@@ -2464,15 +2472,16 @@ members:        AS400894
 members:        AS62467:AS-TXNET
 members:        AS16970:AS-MIDNET-ALL
 members:        AS1766
+members:        AS19366:AS-ALL
 remarks:        Level3 members: ARIN::AS62467:AS-TXNET
 remarks:        Level3 members: NTTCOM::AS16970:AS-MIDNET-ALL
+remarks:        Level3 members: RADB::AS19366:AS-ALL
 tech-c:         SWU-ARIN
 admin-c:        SWU-ARIN
 notify:         netops@pslightwave.com
 mnt-by:         MAINT-PSLIGHTWAVE
-changed:        aali@pslightwave.com
 source:         NTTCOM
-last-modified:  2025-07-18T19:42:51Z
+last-modified:  2025-08-01T20:14:00Z
 
 mntner:         MAINT-PSLIGHTWAVE
 descr:          PS Lightwave
