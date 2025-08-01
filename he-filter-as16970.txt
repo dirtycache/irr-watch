@@ -23,5 +23,6 @@ ip prefix-list NN permit 44.78.16.0/24
 ip prefix-list NN permit 44.90.16.0/24
 ip prefix-list NN permit 64.40.23.0/24
 ip prefix-list NN permit 69.64.112.0/24
+ip prefix-list NN permit 72.20.158.0/24
 ip prefix-list NN permit 104.225.208.0/24
 ip prefix-list NN permit 165.254.62.0/24
