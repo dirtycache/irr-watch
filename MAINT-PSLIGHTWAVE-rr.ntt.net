@@ -2322,7 +2322,6 @@ members:        AS19856
 members:        AS19927
 members:        AS20278
 members:        AS22362
-members:        AS22442
 members:        AS25811
 members:        AS26675
 members:        AS27297
@@ -2368,7 +2367,6 @@ remarks:        Level3 members: RADB::AS19856
 remarks:        Level3 members: NTTCOM::AS19927
 remarks:        Level3 members: RADB::AS20278
 remarks:        Level3 members: NTTCOM::AS22362
-remarks:        Level3 members: RADB::AS22442
 remarks:        Level3 members: NTTCOM::AS25811
 remarks:        Level3 members: NTTCOM::AS26675
 remarks:        Level3 members: NTTCOM::AS27297
@@ -2407,7 +2405,7 @@ admin-c:        SWU-ARIN
 notify:         netops@pslightwave.com
 mnt-by:         MAINT-PSLIGHTWAVE
 source:         NTTCOM
-last-modified:  2025-08-04T21:00:32Z
+last-modified:  2025-08-04T21:48:22Z
 
 as-set:         AS-PSLIGHTWAVE
 descr:          AS set for PS Lightwave
