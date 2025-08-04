@@ -2309,14 +2309,18 @@ last-modified:  2025-08-03T22:54:21Z
 
 as-set:         AS394437:AS-TESTING
 descr:          AS testing set for PS Lightwave
+members:        AS394437
 members:        AS16970:AS-MIDNET-ALL
+members:        AS19366:AS-ALL
+remarks:        Level3 members: NTTCOM::AS394437
 remarks:        Level3 members: NTTCOM::AS16970:AS-MIDNET-ALL
+remarks:        Level3 members: RADB::AS19366:AS-ALL
 tech-c:         SWU-ARIN
 admin-c:        SWU-ARIN
 notify:         netops@pslightwave.com
 mnt-by:         MAINT-PSLIGHTWAVE
 source:         NTTCOM
-last-modified:  2025-08-03T22:58:47Z
+last-modified:  2025-08-03T23:56:58Z
 
 as-set:         AS-PSLIGHTWAVE
 descr:          AS set for PS Lightwave
