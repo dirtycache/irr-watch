@@ -2309,18 +2309,110 @@ last-modified:  2025-08-03T22:54:21Z
 
 as-set:         AS394437:AS-TESTING
 descr:          AS testing set for PS Lightwave
+members:        AS1678
+members:        AS11124
+members:        AS11942
+members:        AS15752
+members:        AS15753
+members:        AS17035
+members:        AS19074
+members:        AS19426
+members:        AS19725
+members:        AS19856
+members:        AS19927
+members:        AS20278
+members:        AS22239
+members:        AS22362
+members:        AS22403
+members:        AS22442
+members:        AS22803
+members:        AS25811
+members:        AS26675
+members:        AS27297
+members:        AS30049
+members:        AS32208
+members:        AS32457
+members:        AS32626
+members:        AS36434
+members:        AS46209
+members:        AS54772
+members:        AS54808
+members:        AS62648
+members:        AS62867
+members:        AS63171
+members:        AS63325
+members:        AS393535
+members:        AS394252
 members:        AS394437
+members:        AS396849
+members:        AS397371
+members:        AS397412
+members:        AS397736
+members:        AS397770
+members:        AS398147
+members:        AS399620
+members:        AS399767
+members:        AS400209
+members:        AS400894
+members:        AS62467:AS-TXNET
 members:        AS16970:AS-MIDNET-ALL
+members:        AS1766
 members:        AS19366:AS-ALL
+remarks:        Level3 members: NTTCOM::AS1678
+remarks:        Level3 members: NTTCOM::AS11124
+remarks:        Level3 members: NTTCOM::AS11942
+remarks:        Level3 members: NTTCOM::AS15752
+remarks:        Level3 members: NTTCOM::AS15753
+remarks:        Level3 members: NTTCOM::AS17035
+remarks:        Level3 members: NTTCOM::AS19074
+remarks:        Level3 members: NTTCOM::AS19426
+remarks:        Level3 members: NTTCOM::AS19725
+remarks:        Level3 members: NTTCOM::AS19856
+remarks:        Level3 members: NTTCOM::AS19927
+remarks:        Level3 members: NTTCOM::AS20278
+remarks:        Level3 members: NTTCOM::AS22239
+remarks:        Level3 members: NTTCOM::AS22362
+remarks:        Level3 members: NTTCOM::AS22403
+remarks:        Level3 members: NTTCOM::AS22442
+remarks:        Level3 members: NTTCOM::AS22803
+remarks:        Level3 members: NTTCOM::AS25811
+remarks:        Level3 members: NTTCOM::AS26675
+remarks:        Level3 members: NTTCOM::AS27297
+remarks:        Level3 members: NTTCOM::AS30049
+remarks:        Level3 members: NTTCOM::AS32208
+remarks:        Level3 members: NTTCOM::AS32457
+remarks:        Level3 members: NTTCOM::AS32626
+remarks:        Level3 members: NTTCOM::AS36434
+remarks:        Level3 members: NTTCOM::AS46209
+remarks:        Level3 members: NTTCOM::AS54772
+remarks:        Level3 members: NTTCOM::AS54808
+remarks:        Level3 members: NTTCOM::AS62648
+remarks:        Level3 members: NTTCOM::AS62867
+remarks:        Level3 members: NTTCOM::AS63171
+remarks:        Level3 members: NTTCOM::AS63325
+remarks:        Level3 members: NTTCOM::AS393535
+remarks:        Level3 members: NTTCOM::AS394252
 remarks:        Level3 members: NTTCOM::AS394437
+remarks:        Level3 members: NTTCOM::AS396849
+remarks:        Level3 members: NTTCOM::AS397371
+remarks:        Level3 members: NTTCOM::AS397412
+remarks:        Level3 members: NTTCOM::AS397736
+remarks:        Level3 members: NTTCOM::AS397770
+remarks:        Level3 members: NTTCOM::AS398147
+remarks:        Level3 members: NTTCOM::AS399620
+remarks:        Level3 members: NTTCOM::AS399767
+remarks:        Level3 members: NTTCOM::AS400209
+remarks:        Level3 members: NTTCOM::AS400894
+remarks:        Level3 members: ARIN::AS62467:AS-TXNET
 remarks:        Level3 members: NTTCOM::AS16970:AS-MIDNET-ALL
+remarks:        Level3 members: NTTCOM::AS1766
 remarks:        Level3 members: RADB::AS19366:AS-ALL
 tech-c:         SWU-ARIN
 admin-c:        SWU-ARIN
 notify:         netops@pslightwave.com
 mnt-by:         MAINT-PSLIGHTWAVE
 source:         NTTCOM
-last-modified:  2025-08-03T23:56:58Z
+last-modified:  2025-08-04T16:48:40Z
 
 as-set:         AS-PSLIGHTWAVE
 descr:          AS set for PS Lightwave
