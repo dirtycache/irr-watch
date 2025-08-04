@@ -2407,12 +2407,13 @@ remarks:        Level3 members: ARIN::AS62467:AS-TXNET
 remarks:        Level3 members: NTTCOM::AS16970:AS-MIDNET-ALL
 remarks:        Level3 members: NTTCOM::AS1766
 remarks:        Level3 members: RADB::AS19366:AS-ALL
+remarks:        Level3 members: RADB::AS18783
 tech-c:         SWU-ARIN
 admin-c:        SWU-ARIN
 notify:         netops@pslightwave.com
 mnt-by:         MAINT-PSLIGHTWAVE
 source:         NTTCOM
-last-modified:  2025-08-04T16:48:40Z
+last-modified:  2025-08-04T18:33:10Z
 
 as-set:         AS-PSLIGHTWAVE
 descr:          AS set for PS Lightwave
