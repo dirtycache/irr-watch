@@ -63,17 +63,6 @@ source:         RADB
 last-modified:  2025-02-17T19:02:09Z
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
-route:          149.112.7.0/24
-origin:         AS13681
-descr:          Fibertown IX Upstream - FT-IX-MW002
-admin-c:        SR007
-tech-c:         Fibertown-RADB
-mnt-by:         MAINT-AS19366
-changed:        sruhge@fibertown.com 20250217 # 19:13 GMT
-source:         RADB
-last-modified:  2025-02-17T19:13:33Z
-rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
-
 route:          160.76.7.0/24
 origin:         AS36026
 descr:          Fibertown Customer - FB-BVC003
