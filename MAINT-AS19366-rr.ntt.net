@@ -132,6 +132,27 @@ source:         RADB
 last-modified:  2025-02-17T19:20:50Z
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
+route:          192.190.99.0/24
+origin:         AS19366
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250805 # 15:10 GMT
+source:         RADB
+last-modified:  2025-08-05T15:10:59Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          192.190.100.0/24
+origin:         AS19366
+descr:          Fibertown Customer Puffer
+admin-c:        SR007
+tech-c:         Fibertown-RADB
+mnt-by:         MAINT-AS19366
+changed:        sruhge@fibertown.com 20250805 # 15:08 GMT
+source:         RADB
+last-modified:  2025-08-05T15:08:24Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
 route:          198.46.67.0/24
 origin:         AS19366
 descr:          Fibertown Customer - FB-HCAD009
