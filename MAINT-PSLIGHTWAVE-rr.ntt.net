@@ -1938,6 +1938,7 @@ import:         from AS400894 accept AS400894
 import:         from AS32208 accept AS32208
 import:         from AS62467 accept AS62467
 import:         from AS1766 accept AS1766
+import:         from AS19366 accept AS19366
 mp-import:      afi ipv6.unicast from AS397736 accept AS397736
 export:         to AS2914 announce AS394437
 export:         to AS2914 announce AS22442
@@ -1991,6 +1992,7 @@ export:         to AS2914 announce AS400894
 export:         to AS2914 announce AS32208
 export:         to AS2914 announce AS62467
 export:         to AS2914 announce AS1766
+export:         to AS2914 announce AS19366
 export:         to AS3356 announce AS394437
 export:         to AS3356 announce AS22442
 export:         to AS3356 announce AS32779
@@ -2043,6 +2045,7 @@ export:         to AS3356 announce AS400894
 export:         to AS3356 announce AS32208
 export:         to AS3356 announce AS62467
 export:         to AS3356 announce AS1766
+export:         to AS3356 announce AS19366
 export:         to AS174 announce AS394437
 export:         to AS174 announce AS22442
 export:         to AS174 announce AS32779
@@ -2096,6 +2099,61 @@ export:         to AS174 announce AS400894
 export:         to AS174 announce AS32208
 export:         to AS174 announce AS62467
 export:         to AS174 announce AS1766
+export:         to AS174 announce AS19366
+export:         to AS1299 announce AS394437
+export:         to AS1299 announce AS22442
+export:         to AS1299 announce AS32779
+export:         to AS1299 announce AS62867
+export:         to AS1299 announce AS53406
+export:         to AS1299 announce AS394252
+export:         to AS1299 announce AS19927
+export:         to AS1299 announce AS32457
+export:         to AS1299 announce AS394324
+export:         to AS1299 announce AS11124
+export:         to AS1299 announce AS19725
+export:         to AS1299 announce AS22803
+export:         to AS1299 announce AS25618
+export:         to AS1299 announce AS26675
+export:         to AS1299 announce AS36434
+export:         to AS1299 announce AS33203
+export:         to AS1299 announce AS30049
+export:         to AS1299 announce AS63153
+export:         to AS1299 announce AS19074
+export:         to AS1299 announce AS22239
+export:         to AS1299 announce AS394414
+export:         to AS1299 announce AS27297
+export:         to AS1299 announce AS32606
+export:         to AS1299 announce AS393535
+export:         to AS1299 announce AS55007
+export:         to AS1299 announce AS14889
+export:         to AS1299 announce AS46209
+export:         to AS1299 announce AS54772
+export:         to AS1299 announce AS393865
+export:         to AS1299 announce AS393414
+export:         to AS1299 announce AS32626
+export:         to AS1299 announce AS22403
+export:         to AS1299 announce AS54363
+export:         to AS1299 announce AS18704
+export:         to AS1299 announce AS18704
+export:         to AS1299 announce AS63455
+export:         to AS1299 announce AS63325
+export:         to AS1299 announce AS32443
+export:         to AS1299 announce AS394131
+export:         to AS1299 announce AS54781
+export:         to AS1299 announce AS26779
+export:         to AS1299 announce AS398147
+export:         to AS1299 announce AS397953
+export:         to AS1299 announce AS397412
+export:         to AS1299 announce AS11942
+export:         to AS1299 announce AS397371
+export:         to AS1299 announce AS397736
+export:         to AS1299 announce AS54808
+export:         to AS1299 announce AS400209
+export:         to AS1299 announce AS400894
+export:         to AS1299 announce AS32208
+export:         to AS1299 announce AS62467
+export:         to AS1299 announce AS1766
+export:         to AS1299 announce AS19366
 mp-export:      afi ipv6.unicast to AS174    announce AS394437
 mp-export:      afi ipv6.unicast to AS2914   announce AS394437
 mp-export:      afi ipv6.unicast to AS3356   announce AS394437
@@ -2110,7 +2168,7 @@ notify:         netops@pslightwave.com
 mnt-by:         MAINT-PSLIGHTWAVE
 changed:        aali@pslightwave.com
 source:         NTTCOM
-last-modified:  2025-07-18T19:41:10Z
+last-modified:  2025-08-14T20:47:53Z
 
 aut-num:        AS396849
 as-name:        KPRC
