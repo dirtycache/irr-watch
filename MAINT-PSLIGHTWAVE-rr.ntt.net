@@ -153,6 +153,17 @@ changed:        swulf@pslightwave.com 20170831
 source:         NTTCOM
 rpki-ov-state:  valid
 
+route:          66.60.226.0/24
+descr:          LIGHTWAVE-NET-66-60-226
+origin:         AS394437
+remarks:        PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2025-08-15T19:36:24Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
 route:          66.60.234.0/24
 descr:          PLW-NET-19
 origin:         AS394437
