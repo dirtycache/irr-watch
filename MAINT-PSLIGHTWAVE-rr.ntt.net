@@ -162,7 +162,7 @@ mnt-by:         MAINT-PSLIGHTWAVE
 changed:        swulf@pslightwave.com
 source:         NTTCOM
 last-modified:  2025-08-15T19:36:24Z
-rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+rpki-ov-state:  valid
 
 route:          66.60.234.0/24
 descr:          PLW-NET-19
