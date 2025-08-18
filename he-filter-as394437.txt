@@ -2061,7 +2061,6 @@ ip prefix-list NN permit 209.112.232.0/23
 ip prefix-list NN permit 209.112.234.0/23
 ip prefix-list NN permit 209.112.236.0/23
 ip prefix-list NN permit 209.112.238.0/23
-ip prefix-list NN permit 209.120.0.0/17
 ip prefix-list NN permit 209.135.168.0/22
 ip prefix-list NN permit 209.163.136.0/22
 ip prefix-list NN permit 209.163.152.0/22
