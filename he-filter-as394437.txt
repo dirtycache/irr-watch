@@ -1149,7 +1149,6 @@ ip prefix-list NN permit 108.174.53.0/24
 ip prefix-list NN permit 108.174.55.0/24
 ip prefix-list NN permit 109.105.193.0/24
 ip prefix-list NN permit 109.122.11.0/24
-ip prefix-list NN permit 109.122.27.0/24
 ip prefix-list NN permit 118.91.184.0/22
 ip prefix-list NN permit 118.91.186.0/23
 ip prefix-list NN permit 118.91.186.0/24
