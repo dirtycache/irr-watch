@@ -854,6 +854,7 @@ ip prefix-list NN permit 94.143.229.0/24
 ip prefix-list NN permit 94.183.164.0/24
 ip prefix-list NN permit 94.188.184.0/24
 ip prefix-list NN permit 94.249.138.0/24
+ip prefix-list NN permit 94.249.228.0/24
 ip prefix-list NN permit 95.128.168.0/24
 ip prefix-list NN permit 96.8.32.0/23
 ip prefix-list NN permit 96.9.192.0/18
