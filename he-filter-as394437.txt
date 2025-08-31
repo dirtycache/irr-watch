@@ -2,8 +2,8 @@ ip prefix-list NN permit 2.59.252.0/24
 ip prefix-list NN permit 5.10.212.0/24
 ip prefix-list NN permit 5.57.240.0/21
 ip prefix-list NN permit 5.57.247.0/24
+ip prefix-list NN permit 5.83.148.0/24
 ip prefix-list NN permit 5.175.134.0/24
-ip prefix-list NN permit 5.175.142.0/24
 ip prefix-list NN permit 5.178.109.0/24
 ip prefix-list NN permit 5.182.19.0/24
 ip prefix-list NN permit 5.226.144.0/21
