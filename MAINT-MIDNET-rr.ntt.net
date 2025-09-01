@@ -158,26 +158,6 @@ source:         NTTCOM
 last-modified:  2023-05-18T19:20:01Z
 rpki-ov-state:  valid
 
-route:          44.76.16.0/24
-descr:          SixPackets - AMPRnet
-origin:         AS16970
-notify:         ipadmin@sixpackets.com
-mnt-by:         MAINT-MIDNET
-changed:        adam.korab@sixpackets.com 20250410
-source:         NTTCOM
-last-modified:  2025-04-10T00:54:18Z
-rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
-
-route:          44.78.16.0/24
-descr:          SixPackets - AMPRnet
-origin:         AS16970
-notify:         ipadmin@sixpackets.com
-mnt-by:         MAINT-MIDNET
-changed:        adam.korab@sixpackets.com 20250410
-source:         NTTCOM
-last-modified:  2025-04-10T00:54:18Z
-rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
-
 route:          44.90.16.0/24
 descr:          MIDnet customer route proxy registration
 origin:         AS398883
