@@ -63,17 +63,6 @@ source:         RADB
 last-modified:  2025-02-17T19:02:09Z
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
-route:          160.76.7.0/24
-origin:         AS36026
-descr:          Fibertown Customer - FB-BVC003
-admin-c:        SR007
-tech-c:         Fibertown-RADB
-mnt-by:         MAINT-AS19366
-changed:        sruhge@fibertown.com 20250217 # 19:15 GMT
-source:         RADB
-last-modified:  2025-02-17T19:15:19Z
-rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
-
 route:          172.86.237.0/24
 origin:         AS393535
 descr:          Fibertown Customer - FoBe01
@@ -84,17 +73,6 @@ mnt-by:         MAINT-AS19366
 changed:        sruhge@fibertown.com 20250401 # 02:19 GMT
 source:         RADB
 last-modified:  2025-04-01T02:19:01Z
-rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
-
-route:          173.195.160.0/20
-origin:         AS393605
-descr:          Fibertown Cusfomer - FB-BVC004
-admin-c:        SR007
-tech-c:         Fibertown-RADB
-mnt-by:         MAINT-AS19366
-changed:        sruhge@fibertown.com 20250217 # 19:17 GMT
-source:         RADB
-last-modified:  2025-02-17T19:17:50Z
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
 route:          174.46.10.0/24
@@ -416,14 +394,14 @@ last-modified:  2023-11-13T16:02:25Z
 
 as-set:         AS19366:AS-CUSTOMERS
 descr:          Managed Network Solutions AS-SET-CUSTOMERS
-members:        AS32768,AS32792,AS25834,AS62738,AS27307,AS396975,AS393605,AS398832,AS36796,AS400322,AS55087,AS46505,AS16970:AS-MIDNET-ALL,AS36176,AS25834,AS401414,AS13681,AS400226
+members:        AS32768,AS32792,AS25834,AS62738,AS27307,AS396975,AS398832,AS36796,AS400322,AS55087,AS46505,AS16970:AS-MIDNET-ALL,AS36176,AS25834,AS401414,AS13681,AS400226
 admin-c:        SR007
 tech-c:         Fibertown-RADB
 notify:         dnsadmin@managednetworks.com
 mnt-by:         MAINT-AS19366
-changed:        sruhge@fibertown.com 20250622 # 03:24 GMT
+changed:        sruhge@fibertown.com 20250902 # 14:13 GMT
 source:         RADB
-last-modified:  2025-06-22T03:24:50Z
+last-modified:  2025-09-02T14:13:36Z
 
 as-set:         AS19366:AS-SELF
 descr:          Managed Network Solutions ASN
