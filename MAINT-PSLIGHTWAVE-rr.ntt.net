@@ -1950,7 +1950,9 @@ import:         from AS32208 accept AS32208
 import:         from AS62467 accept AS62467
 import:         from AS1766 accept AS1766
 import:         from AS19366 accept AS19366
+import:         from AS400097 accept AS400097
 mp-import:      afi ipv6.unicast from AS397736 accept AS397736
+mp-import:      afi ipv6.unicast from AS400097 accept AS400097
 export:         to AS2914 announce AS394437
 export:         to AS2914 announce AS22442
 export:         to AS2914 announce AS32779
@@ -2004,6 +2006,7 @@ export:         to AS2914 announce AS32208
 export:         to AS2914 announce AS62467
 export:         to AS2914 announce AS1766
 export:         to AS2914 announce AS19366
+export:         to AS2914 announce AS400097
 export:         to AS3356 announce AS394437
 export:         to AS3356 announce AS22442
 export:         to AS3356 announce AS32779
@@ -2057,6 +2060,7 @@ export:         to AS3356 announce AS32208
 export:         to AS3356 announce AS62467
 export:         to AS3356 announce AS1766
 export:         to AS3356 announce AS19366
+export:         to AS3356 announce AS400097
 export:         to AS174 announce AS394437
 export:         to AS174 announce AS22442
 export:         to AS174 announce AS32779
@@ -2111,6 +2115,7 @@ export:         to AS174 announce AS32208
 export:         to AS174 announce AS62467
 export:         to AS174 announce AS1766
 export:         to AS174 announce AS19366
+export:         to AS174 announce AS400097
 export:         to AS1299 announce AS394437
 export:         to AS1299 announce AS22442
 export:         to AS1299 announce AS32779
@@ -2165,21 +2170,30 @@ export:         to AS1299 announce AS32208
 export:         to AS1299 announce AS62467
 export:         to AS1299 announce AS1766
 export:         to AS1299 announce AS19366
+export:         to AS1299 announce AS400097
 mp-export:      afi ipv6.unicast to AS174    announce AS394437
 mp-export:      afi ipv6.unicast to AS2914   announce AS394437
+mp-export:      afi ipv6.unicast to AS1299   announce AS394437
 mp-export:      afi ipv6.unicast to AS3356   announce AS394437
 mp-export:      afi ipv6.unicast to AS6939   announce AS394437
 mp-export:      afi ipv6.unicast to AS62467   announce AS394437
 mp-export:      afi ipv6.unicast to AS174    announce AS397736
 mp-export:      afi ipv6.unicast to AS2914   announce AS397736
+mp-export:      afi ipv6.unicast to AS1299   announce AS397736
 mp-export:      afi ipv6.unicast to AS3356   announce AS397736
 mp-export:      afi ipv6.unicast to AS6939   announce AS397736
 mp-export:      afi ipv6.unicast to AS62467   announce AS397736
+mp-export:      afi ipv6.unicast to AS174    announce AS400097
+mp-export:      afi ipv6.unicast to AS2914   announce AS400097
+mp-export:      afi ipv6.unicast to AS1299   announce AS400097
+mp-export:      afi ipv6.unicast to AS3356   announce AS400097
+mp-export:      afi ipv6.unicast to AS6939   announce AS400097
+mp-export:      afi ipv6.unicast to AS62467  announce AS400097
 notify:         netops@pslightwave.com
 mnt-by:         MAINT-PSLIGHTWAVE
-changed:        aali@pslightwave.com
+changed:        swulf@pslightwave.com
 source:         NTTCOM
-last-modified:  2025-08-14T20:47:53Z
+last-modified:  2025-09-05T21:18:37Z
 
 aut-num:        AS396849
 as-name:        KPRC
@@ -2260,6 +2274,18 @@ changed:        swulf@pslightwave.com
 source:         NTTCOM
 last-modified:  2021-06-23T14:07:17Z
 
+aut-num:        AS400097
+as-name:        NATIONALWIFI
+descr:          Proxy object for NATIONALWIFI
+admin-c:        SWU-ARIN
+tech-c:         RJ490-ARIN
+tech-c:         SWU-ARIN
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2025-09-05T21:09:13Z
+
 aut-num:        AS400209
 as-name:        BRAZORIA-COUNTY-TX
 descr:          Brazoria County
@@ -2287,83 +2313,104 @@ last-modified:  2024-07-02T20:42:21Z
 as-set:         AS394437:AS-PSLIGHTWAVE-L3
 descr:          AS set for PS Lightwave for Level3
 members:        AS1678
-members:        AS2535
 members:        AS11124
 members:        AS11942
-members:        AS14889
 members:        AS15752
 members:        AS15753
 members:        AS17035
-members:        AS18704
 members:        AS19074
 members:        AS19426
 members:        AS19725
 members:        AS19856
 members:        AS19927
 members:        AS20278
-members:        AS22239
 members:        AS22362
-members:        AS22403
-members:        AS22442
-members:        AS22803
-members:        AS25618
 members:        AS25811
 members:        AS26675
-members:        AS26779
 members:        AS27297
 members:        AS30049
 members:        AS32208
-members:        AS32208
-members:        AS32443
 members:        AS32457
-members:        AS32606
 members:        AS32626
-members:        AS32686
-members:        AS32779
-members:        AS33203
-members:        AS35899
-members:        AS36239
 members:        AS36434
 members:        AS46209
-members:        AS53406
-members:        AS54363
 members:        AS54772
-members:        AS54781
 members:        AS54808
-members:        AS55007
-members:        AS62467
 members:        AS62648
 members:        AS62867
-members:        AS63153
 members:        AS63171
 members:        AS63325
-members:        AS63455
-members:        AS393414
 members:        AS393535
-members:        AS393865
 members:        AS394252
-members:        AS394324
-members:        AS394414
 members:        AS394437
 members:        AS396849
 members:        AS397371
 members:        AS397412
 members:        AS397736
 members:        AS397770
-members:        AS397953
 members:        AS398147
 members:        AS399620
 members:        AS399767
 members:        AS400209
 members:        AS400894
+members:        AS62467:AS-TXNET
+members:        AS16970:AS-MIDNET-ALL
 members:        AS1766
+members:        AS19366:AS-ALL
+members:        AS400097
+remarks:        Level3 members: RADB::AS1678
+remarks:        Level3 members: NTTCOM::AS11124
+remarks:        Level3 members: ARIN::AS11942
+remarks:        Level3 members: RIPE::AS15752
+remarks:        Level3 members: RIPE::AS15753
+remarks:        Level3 members: NTTCOM::AS17035
+remarks:        Level3 members: NTTCOM::AS19074
+remarks:        Level3 members: NTTCOM::AS19426
+remarks:        Level3 members: NTTCOM::AS19725
+remarks:        Level3 members: RADB::AS19856
+remarks:        Level3 members: NTTCOM::AS19927
+remarks:        Level3 members: RADB::AS20278
+remarks:        Level3 members: NTTCOM::AS22362
+remarks:        Level3 members: NTTCOM::AS25811
+remarks:        Level3 members: NTTCOM::AS26675
+remarks:        Level3 members: NTTCOM::AS27297
+remarks:        Level3 members: NTTCOM::AS30049
+remarks:        Level3 members: NTTCOM::AS32208
+remarks:        Level3 members: NTTCOM::AS32457
+remarks:        Level3 members: NTTCOM::AS32626
+remarks:        Level3 members: NTTCOM::AS36434
+remarks:        Level3 members: RADB::AS46209
+remarks:        Level3 members: NTTCOM::AS54772
+remarks:        Level3 members: NTTCOM::AS54808
+remarks:        Level3 members: NTTCOM::AS62648
+remarks:        Level3 members: NTTCOM::AS62867
+remarks:        Level3 members: NTTCOM::AS63171
+remarks:        Level3 members: NTTCOM::AS63325
+remarks:        Level3 members: NTTCOM::AS393535
+remarks:        Level3 members: NTTCOM::AS394252
+remarks:        Level3 members: NTTCOM::AS394437
+remarks:        Level3 members: NTTCOM::AS396849
+remarks:        Level3 members: NTTCOM::AS397371
+remarks:        Level3 members: ARIN::AS397412
+remarks:        Level3 members: ARIN::AS397736
+remarks:        Level3 members: NTTCOM::AS397770
+remarks:        Level3 members: NTTCOM::AS398147
+remarks:        Level3 members: NTTCOM::AS399620
+remarks:        Level3 members: ARIN::AS399767
+remarks:        Level3 members: NTTCOM::AS400209
+remarks:        Level3 members: NTTCOM::AS400894
+remarks:        Level3 members: ARIN::AS62467:AS-TXNET
+remarks:        Level3 members: NTTCOM::AS16970:AS-MIDNET-ALL
+remarks:        Level3 members: NTTCOM::AS1766
+remarks:        Level3 members: RADB::AS19366:AS-ALL
+remarks:        Level3 members: RADB::AS18783
+remarks:        Level3 members: ARIN::AS400097
 tech-c:         SWU-ARIN
 admin-c:        SWU-ARIN
 notify:         netops@pslightwave.com
 mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com
 source:         NTTCOM
-last-modified:  2025-08-03T22:54:21Z
+last-modified:  2025-09-05T21:24:50Z
 
 as-set:         AS394437:AS-TESTING
 descr:          AS testing set for PS Lightwave
