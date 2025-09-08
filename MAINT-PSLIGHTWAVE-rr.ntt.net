@@ -987,6 +987,17 @@ changed:        swulf@pslightwave.com 20210317
 source:         NTTCOM
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
+route:          192.23.124.0/23
+descr:          SLB-NET-05
+origin:         AS394437
+remarks:        Proxy object for SLB from PS LIGHTWAVE
+notify:         netops@pslightwave.com
+mnt-by:         MAINT-PSLIGHTWAVE
+changed:        swulf@pslightwave.com
+source:         NTTCOM
+last-modified:  2025-09-08T20:22:34Z
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
 route:          192.23.124.0/24
 descr:          SLB-NET-02
 origin:         AS394437
