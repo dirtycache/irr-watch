@@ -81,7 +81,7 @@ as-set:         AS11942:AS-CUSTOMERS
 descr:          3960 Braxton Dr.
                 Houston TX 77063
                 United States
-members:        AS11942,AS35899,AS36239,AS394437
+members:        AS11942,AS394437
 admin-c:        SWU-ARIN
 tech-c:         ALIAW-ARIN
 tech-c:         MORAL62-ARIN
@@ -90,7 +90,7 @@ tech-c:         SWU-ARIN
 tech-c:         TJC35-ARIN
 mnt-by:         MNT-IGL-20
 created:        2020-09-16T23:12:33Z
-last-modified:  2023-05-19T16:59:22Z
+last-modified:  2025-09-16T23:09:12Z
 source:         ARIN
 
 
