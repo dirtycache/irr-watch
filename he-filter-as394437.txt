@@ -1983,7 +1983,6 @@ ip prefix-list NN permit 199.245.97.0/24
 ip prefix-list NN permit 200.1.154.0/24
 ip prefix-list NN permit 200.13.136.0/21
 ip prefix-list NN permit 200.23.85.0/24
-ip prefix-list NN permit 202.10.62.0/24
 ip prefix-list NN permit 202.134.233.0/24
 ip prefix-list NN permit 203.10.122.0/24
 ip prefix-list NN permit 203.173.97.0/24
