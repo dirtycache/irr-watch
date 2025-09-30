@@ -245,17 +245,6 @@ source:         RADB
 last-modified:  2025-02-17T19:37:01Z
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
-route:          207.89.53.0/24
-origin:         AS19366
-descr:          Fibertown Customer - Waste Connections
-admin-c:        SR007
-tech-c:         Fibertown-RADB
-mnt-by:         MAINT-AS19366
-changed:        sruhge@fibertown.com 20250203 # 21:06 GMT
-source:         RADB
-last-modified:  2025-02-03T21:06:55Z
-rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
-
 route:          208.85.116.0/24
 origin:         AS27307
 admin-c:        SR007
