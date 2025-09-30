@@ -142,7 +142,7 @@ mnt-by:         MAINT-AS19366
 changed:        sruhge@fibertown.com 20250217 # 19:22 GMT
 source:         RADB
 last-modified:  2025-02-17T19:22:14Z
-rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+rpki-ov-state:  valid
 
 route:          198.203.146.0/24
 origin:         AS27307
@@ -176,19 +176,6 @@ mnt-by:         MAINT-AS19366
 changed:        sruhge@fibertown.com 20250217 # 19:29 GMT
 source:         RADB
 last-modified:  2025-02-17T19:29:34Z
-rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
-
-route:          204.44.157.0/24
-origin:         AS19366
-descr:          Fibertown Customer - FB-NRI012
-member-of:      RS-MNS-CUSTOMERS
-admin-c:        SR007
-tech-c:         Fibertown-RADB
-notify:         dnsadmin@managednetworks.com
-mnt-by:         MAINT-AS19366
-changed:        sruhge@fibertown.com 20250217 # 19:34 GMT
-source:         RADB
-last-modified:  2025-02-17T19:34:19Z
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
 route:          204.197.171.0/24
