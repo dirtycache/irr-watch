@@ -119,7 +119,7 @@ mnt-by:         MAINT-AS19366
 changed:        sruhge@fibertown.com 20250805 # 15:08 GMT
 source:         RADB
 last-modified:  2025-08-05T15:08:24Z
-rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+rpki-ov-state:  valid
 
 route:          198.46.67.0/24
 origin:         AS19366
