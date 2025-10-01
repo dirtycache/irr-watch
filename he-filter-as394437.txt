@@ -13,7 +13,6 @@ ip prefix-list NN permit 5.231.32.0/24
 ip prefix-list NN permit 5.231.46.0/24
 ip prefix-list NN permit 5.231.57.0/24
 ip prefix-list NN permit 5.231.207.0/24
-ip prefix-list NN permit 5.231.252.0/24
 ip prefix-list NN permit 5.252.118.0/24
 ip prefix-list NN permit 5.253.84.0/22
 ip prefix-list NN permit 5.253.84.0/24
@@ -475,6 +474,7 @@ ip prefix-list NN permit 45.87.223.0/24
 ip prefix-list NN permit 45.89.62.0/24
 ip prefix-list NN permit 45.89.149.0/24
 ip prefix-list NN permit 45.90.18.0/24
+ip prefix-list NN permit 45.92.40.0/24
 ip prefix-list NN permit 45.119.208.0/22
 ip prefix-list NN permit 45.128.13.0/24
 ip prefix-list NN permit 45.129.243.0/24
@@ -1811,6 +1811,7 @@ ip prefix-list NN permit 192.149.125.0/24
 ip prefix-list NN permit 192.150.255.0/24
 ip prefix-list NN permit 192.154.3.0/24
 ip prefix-list NN permit 192.175.48.0/24
+ip prefix-list NN permit 192.188.110.0/24
 ip prefix-list NN permit 192.190.100.0/24
 ip prefix-list NN permit 192.208.3.0/24
 ip prefix-list NN permit 192.208.184.0/24
@@ -1872,6 +1873,7 @@ ip prefix-list NN permit 194.58.64.0/23
 ip prefix-list NN permit 194.58.65.0/24
 ip prefix-list NN permit 194.61.0.0/24
 ip prefix-list NN permit 194.67.201.0/24
+ip prefix-list NN permit 194.68.14.0/24
 ip prefix-list NN permit 194.68.191.0/24
 ip prefix-list NN permit 194.76.231.0/24
 ip prefix-list NN permit 194.93.48.0/23
@@ -1930,12 +1932,7 @@ ip prefix-list NN permit 198.147.198.0/24
 ip prefix-list NN permit 198.151.208.0/24
 ip prefix-list NN permit 198.160.217.0/24
 ip prefix-list NN permit 198.169.172.0/24
-ip prefix-list NN permit 198.170.183.0/24
-ip prefix-list NN permit 198.170.184.0/23
-ip prefix-list NN permit 198.170.189.0/24
-ip prefix-list NN permit 198.170.190.0/24
 ip prefix-list NN permit 198.170.192.0/24
-ip prefix-list NN permit 198.170.193.0/24
 ip prefix-list NN permit 198.178.119.0/24
 ip prefix-list NN permit 198.180.151.0/24
 ip prefix-list NN permit 198.184.28.0/22
@@ -2016,12 +2013,9 @@ ip prefix-list NN permit 203.215.236.0/24
 ip prefix-list NN permit 203.215.237.0/24
 ip prefix-list NN permit 203.215.238.0/24
 ip prefix-list NN permit 203.215.239.0/24
-ip prefix-list NN permit 204.2.20.0/24
-ip prefix-list NN permit 204.2.37.0/24
 ip prefix-list NN permit 204.10.193.0/24
 ip prefix-list NN permit 204.12.192.0/18
 ip prefix-list NN permit 204.28.12.0/22
-ip prefix-list NN permit 204.44.157.0/24
 ip prefix-list NN permit 204.57.109.0/24
 ip prefix-list NN permit 204.57.112.0/23
 ip prefix-list NN permit 204.57.114.0/24
