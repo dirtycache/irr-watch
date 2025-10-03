@@ -790,17 +790,6 @@ source:         NTTCOM
 last-modified:  2024-01-24T21:11:16Z
 rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
 
-route:          136.143.136.0/24
-descr:          Verdun-Oil-136
-origin:         AS394437
-remarks:        Proxy object for Verdun Oil by PS Lightwave
-notify:         netops@pslightwave.com
-mnt-by:         MAINT-PSLIGHTWAVE
-changed:        swulf@pslightwave.com
-source:         NTTCOM
-last-modified:  2024-02-07T19:37:30Z
-rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
-
 route:          136.244.0.0/18
 descr:          TACHUS-Net-01
 origin:         AS397412
