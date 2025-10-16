@@ -662,7 +662,6 @@ ip prefix-list NN permit 66.78.228.0/22
 ip prefix-list NN permit 66.78.248.0/24
 ip prefix-list NN permit 66.79.175.0/24
 ip prefix-list NN permit 66.79.177.0/24
-ip prefix-list NN permit 66.92.12.0/24
 ip prefix-list NN permit 66.93.5.0/24
 ip prefix-list NN permit 66.97.166.0/24
 ip prefix-list NN permit 66.118.58.0/24
@@ -1048,7 +1047,6 @@ ip prefix-list NN permit 103.147.153.0/24
 ip prefix-list NN permit 103.149.132.0/24
 ip prefix-list NN permit 103.149.133.0/24
 ip prefix-list NN permit 103.149.168.0/24
-ip prefix-list NN permit 103.156.185.0/24
 ip prefix-list NN permit 103.158.222.0/24
 ip prefix-list NN permit 103.165.84.0/23
 ip prefix-list NN permit 103.165.84.0/24
@@ -1309,6 +1307,7 @@ ip prefix-list NN permit 141.145.74.0/24
 ip prefix-list NN permit 141.193.92.0/22
 ip prefix-list NN permit 142.168.0.0/15
 ip prefix-list NN permit 142.168.0.0/16
+ip prefix-list NN permit 142.248.20.0/24
 ip prefix-list NN permit 142.248.56.0/23
 ip prefix-list NN permit 142.248.124.0/23
 ip prefix-list NN permit 142.248.155.0/24
@@ -1479,6 +1478,7 @@ ip prefix-list NN permit 154.82.160.0/24
 ip prefix-list NN permit 154.200.202.0/23
 ip prefix-list NN permit 154.200.202.0/24
 ip prefix-list NN permit 155.108.0.0/16
+ip prefix-list NN permit 156.225.41.0/24
 ip prefix-list NN permit 157.20.134.0/23
 ip prefix-list NN permit 157.208.134.0/24
 ip prefix-list NN permit 157.208.240.0/20
