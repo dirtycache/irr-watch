@@ -821,6 +821,7 @@ ip prefix-list NN permit 81.31.208.0/21
 ip prefix-list NN permit 81.31.214.0/24
 ip prefix-list NN permit 81.31.215.0/24
 ip prefix-list NN permit 82.22.2.0/24
+ip prefix-list NN permit 82.22.7.0/24
 ip prefix-list NN permit 82.22.77.0/24
 ip prefix-list NN permit 82.22.99.0/24
 ip prefix-list NN permit 82.26.157.0/24
