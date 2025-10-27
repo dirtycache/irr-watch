@@ -447,7 +447,6 @@ ip prefix-list NN permit 45.11.251.0/24
 ip prefix-list NN permit 45.15.196.0/22
 ip prefix-list NN permit 45.15.196.0/23
 ip prefix-list NN permit 45.15.198.0/23
-ip prefix-list NN permit 45.38.22.0/24
 ip prefix-list NN permit 45.41.32.0/24
 ip prefix-list NN permit 45.41.33.0/24
 ip prefix-list NN permit 45.41.34.0/24
