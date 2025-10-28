@@ -295,7 +295,6 @@ ip prefix-list NN permit 31.58.86.0/24
 ip prefix-list NN permit 31.58.143.0/24
 ip prefix-list NN permit 31.59.70.0/24
 ip prefix-list NN permit 31.59.240.0/22
-ip prefix-list NN permit 31.185.105.0/24
 ip prefix-list NN permit 31.186.249.0/24
 ip prefix-list NN permit 36.50.248.0/23
 ip prefix-list NN permit 36.50.248.0/24
