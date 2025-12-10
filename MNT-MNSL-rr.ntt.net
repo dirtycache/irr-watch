@@ -1,0 +1,131 @@
+route:          97.107.0.0/20
+descr:          Managed Network Solutions IPv4
+origin:         AS19366
+notify:         noc@fibertown.com
+mnt-by:         MNT-MNSL
+changed:        dnsadmin@managednetworks.com 20160519
+source:         ARIN
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          199.101.240.0/21
+descr:          Managed Network Solutions IPv4
+origin:         AS19366
+notify:         noc@fibertown.com
+mnt-by:         MNT-MNSL
+changed:        dnsadmin@managednetworks.com 20160519
+source:         ARIN
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          209.189.224.0/21
+descr:          Managed Network Solutions IPv4
+origin:         AS19366
+notify:         noc@fibertown.com
+mnt-by:         MNT-MNSL
+changed:        dnsadmin@managednetworks.com 20160519
+source:         ARIN
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          209.189.240.0/20
+descr:          Managed Network Solutions IPv4
+origin:         AS19366
+notify:         noc@fibertown.com
+mnt-by:         MNT-MNSL
+changed:        dnsadmin@managednetworks.com 20160519
+source:         ARIN
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.81.32.0/21
+origin:         AS19366
+descr:          Fibertown Bryan DC 2
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+mnt-by:         MNT-MNSL
+created:        2025-09-18T16:54:50Z
+last-modified:  2025-09-18T16:54:50Z
+source:         ARIN
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route:          216.81.40.0/21
+origin:         AS19366
+descr:          Fibertown Bryan DC-4
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+mnt-by:         MNT-MNSL
+created:        2025-07-08T19:48:15Z
+last-modified:  2025-07-08T19:48:15Z
+source:         ARIN
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+route6:         2605:39c0::/32
+origin:         AS19366
+descr:          Managed Network Solutions IPv6
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+mnt-by:         MNT-MNSL
+created:        2020-10-15T20:54:09Z
+last-modified:  2025-04-08T16:43:36Z
+source:         ARIN
+rpki-ov-state:  not_found # No ROAs found, or RPKI validation not enabled for source
+
+aut-num:        AS19366
+as-name:        MNS-AS19366
+descr:          Managed Network Solutions AUT-NUM-1
+member-of:      AS19366:AS-ALL
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+mnt-by:         MNT-MNSL
+created:        2020-10-15T20:49:01Z
+last-modified:  2025-04-08T16:43:36Z
+source:         ARIN
+
+as-set:         AS19366:AS-ALL
+descr:          Fibertown 2262025
+members:        AS19366,AS32792,AS25834,AS27307,AS396975,AS18710,AS398832,AS36026,AS55087,AS36796,AS400322,AS13681,AS16970:AS-MIDNET-ALL,AS401414,AS46505
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+mnt-by:         MNT-MNSL
+created:        2020-10-15T20:44:29Z
+last-modified:  2025-09-02T14:17:03Z
+source:         ARIN
+
+route-set:      AS19366:RS-FT-CUST
+descr:          Fibertown Data Center 08072025
+members:        12.164.113.0/24,23.128.76.0/24,23.158.168.0/24,23.158.184.0/24,23.164.232.0/24,23.169.240.0/24,23.169.241.0/24,23.169.242.0/24,23.169.243.0/24,23.169.244.0/24,23.169.245.0/24,23.169.248.0/24,23.169.249.0/24,23.169.250.0/24,23.169.251.0/24,23.169.252.0/24,23.169.253.0/24,23.169.254.0/24,23.169.255.0/24,23.187.248.0/24,44.76.16.0/24,44.78.16.0/24,44.90.16.0/24,64.40.23.0/24,66.97.166.0/24,69.64.112.0/24,97.107.0.0/20,104.225.208.0/24,148.59.153.0/24,165.254.62.0/24,174.46.10.0/24,192.149.125.0/24,192.190.100.0/24,198.46.67.0/24,198.190.198.0/24,198.203.146.0/24,199.21.224.0/21,199.101.240.0/21,199.185.102.0/23,204.44.157.0/24,205.235.16.0/21,205.235.24.0/22,205.235.29.0/24,205.235.30.0/23,207.89.53.0/24,208.85.116.0/24,208.85.117.0/24,208.85.118.0/24,208.85.119.0/24,209.189.224.0/21,209.189.240.0/20,216.81.32.0/20,216.81.40.0/21,216.115.182.0/24
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+mnt-by:         MNT-MNSL
+created:        2025-04-07T19:46:26Z
+last-modified:  2025-09-02T14:15:42Z
+source:         ARIN
+
+as-set:         AS-MNS-1
+descr:          Managed Network Solutions
+members:        AS13681,AS16970:AS-MIDNET-ALL,AS25834,AS27307,AS32768,AS32792,AS36176,AS36796,AS396975,AS398832,AS400226,AS400322,AS401414,AS46505,AS55087,AS62738
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+mnt-by:         MNT-MNSL
+created:        2020-10-18T15:28:04Z
+last-modified:  2025-09-02T14:16:30Z
+source:         ARIN
+
+route-set:      RS-MNS
+descr:          Managed Network Solutions Routes
+members:        97.107.0.0/20,199.101.240.0/21,209.189.224.0/21,209.189.240.0/20,216.81.32.0/20
+mp-members:     2605:39c0::/32
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+mnt-by:         MNT-MNSL
+created:        2020-10-16T21:10:20Z
+last-modified:  2025-04-08T16:43:36Z
+source:         ARIN
+
+route-set:      RS-MNS-CUSTOMERS
+descr:          Managed Network Solutions Customer Routes
+admin-c:        ADMIN587-ARIN
+tech-c:         DNSAD126-ARIN
+mnt-by:         MNT-MNSL
+created:        2020-10-16T21:14:10Z
+last-modified:  2025-04-08T16:43:36Z
+source:         ARIN
+
+
