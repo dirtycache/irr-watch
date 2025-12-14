@@ -852,10 +852,6 @@ ip prefix-list NN permit 85.133.227.0/24
 ip prefix-list NN permit 85.155.124.0/22
 ip prefix-list NN permit 85.155.126.0/24
 ip prefix-list NN permit 85.155.230.0/24
-ip prefix-list NN permit 85.158.60.0/24
-ip prefix-list NN permit 85.158.61.0/24
-ip prefix-list NN permit 85.158.62.0/24
-ip prefix-list NN permit 85.158.63.0/24
 ip prefix-list NN permit 85.208.124.0/22
 ip prefix-list NN permit 86.110.51.0/24
 ip prefix-list NN permit 86.110.53.0/24
