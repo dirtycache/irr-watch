@@ -163,6 +163,7 @@ ip prefix-list NN permit 23.158.168.0/24
 ip prefix-list NN permit 23.158.184.0/24
 ip prefix-list NN permit 23.160.152.0/24
 ip prefix-list NN permit 23.161.80.0/24
+ip prefix-list NN permit 23.162.24.0/24
 ip prefix-list NN permit 23.162.120.0/24
 ip prefix-list NN permit 23.162.176.0/24
 ip prefix-list NN permit 23.162.177.0/24
