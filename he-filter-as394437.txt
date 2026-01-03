@@ -872,6 +872,7 @@ ip prefix-list NN permit 85.155.149.0/24
 ip prefix-list NN permit 85.155.151.0/24
 ip prefix-list NN permit 85.208.84.0/24
 ip prefix-list NN permit 85.208.124.0/22
+ip prefix-list NN permit 86.110.51.0/24
 ip prefix-list NN permit 86.110.53.0/24
 ip prefix-list NN permit 87.229.44.0/24
 ip prefix-list NN permit 87.236.248.0/21
